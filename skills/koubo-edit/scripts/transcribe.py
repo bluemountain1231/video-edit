@@ -3,6 +3,7 @@
 # requires-python = ">=3.11"
 # dependencies = [
 #     "faster-whisper>=1.0.3",
+#     "av>=15,<19",
 #     "static-ffmpeg>=3.0",
 #     "numpy",
 # ]
