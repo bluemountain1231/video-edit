@@ -76,6 +76,32 @@ uv run ~/.claude/skills/koubo-edit/scripts/transcribe.py <口播视频> -o outpu
 
 产出逐句 `segments` + 词级 `words` + 画幅元数据。识别不准加 `--model large-v3-turbo`（通用模型名，faster-whisper 直接映射；已有 MLX 环境可显式指定 `--backend mlx`）。
 
+### 2-1. 语义规划与 Talkcraft 候选（推荐）
+
+转写之后先把每句口播标成语义，再决定画面。这个顺序借鉴
+`video-talkcraft` 的需求侧约束：字幕句边界是时间锚点，一个节拍只保留一个主角，
+新元素只在语义边界进入。脚本只做可编辑的启发式初稿，导演必须复核：
+
+```bash
+python3 "$SKILL_DIR/scripts/semantic-plan.py" \
+  output/koubo-edit/jobs/<名字>/transcript.json \
+  -o output/koubo-edit/jobs/<名字>/semantics.json
+```
+
+若要使用 Talkcraft 的 108 张卡做候选检索：
+
+```bash
+python3 "$SKILL_DIR/scripts/talkcraft-match.py" \
+  output/koubo-edit/jobs/<名字>/semantics.json \
+  --catalog "$SKILL_DIR/assets/talkcraft-bridge/cards-index.json" \
+  --inputs 人,文 \
+  --out output/koubo-edit/jobs/<名字>/talkcraft-candidates.json
+```
+
+候选表只回答“哪些卡值得看”，不会自动把上游代码或远程资源带进渲染。选中的卡在
+`edit-plan.json` 的 `card_refs` 中登记 `slug`、时间段和选择理由，再按授权与素材条件
+复制/改写。完整边界见 [video-talkcraft bridge](references/video-talkcraft-bridge.md)。
+
 `metadata` 里的 `width/height` **已按显示方向换算**（手机竖拍视频常按横向存储 + 旋转元数据 `rotation`，播放端才转正；脚本读了 stream 的 side_data 做了换算）——plan 直接用这两个值，竖屏进就竖屏出，别再自己去 ffprobe 裸取 stream 宽高（那是存储方向，会把竖屏做成横屏）。
 
 ### 3. 当导演：通读文稿做视觉设计
@@ -91,6 +117,7 @@ uv run ~/.claude/skills/koubo-edit/scripts/transcribe.py <口播视频> -o outpu
   "side_notes": [{ "items": ["烟酰胺 5%", "玻色因", "二裂酵母"], "start_ms": 13980, "end_ms": 18520, "side": "right", "color": "lime" }],
   "stickers": [{ "text": "限时价 💥", "start_ms": 22300, "end_ms": 25100, "x_pct": 62, "y_pct": 12, "color": "red" }],
   "props": [{ "image": "prop_4.png", "start_ms": 19820, "end_ms": 22300, "x_pct": 69, "y_pct": 18, "w_pct": 14, "rotate": 8 }],
+  "card_refs": [{ "slug": "chapter-title-card", "start_ms": 19820, "end_ms": 22300, "reason": "章节转折" }],
   "scenes": [
     { "mode": "demo", "start_ms": 10000, "end_ms": 17000, "broll": "screen1.mp4" },
     { "mode": "concept", "start_ms": 19820, "end_ms": 22300, "highlight": "直播间专属", "title": "拍1发2" },
@@ -183,6 +210,10 @@ cd "$R" && npx tsc --noEmit && npx remotion render Main "<当前项目绝对路�
 `fade_in_ms`、`fade_out_ms` 与 `loop`。`src` 相对于 `public/audio/`；常用音效已预置在
 `public/audio/shotcraft/`，完整音效和授权记录见素材库的 `audio/`。发布前必须按
 `audio/ATTRIBUTION.md` 复核来源和授权，BGM 不会因为被复制进仓库就自动获得商用许可。
+
+`card_refs` 是只读的创作溯源字段，不会改变当前模板的渲染逻辑；它让语义句、选中的
+动效配方和最终时间段保持可审计。Talkcraft 目录与脚本的非商业许可边界见
+`references/video-talkcraft-bridge.md`，不要把上游 PolyForm 代码当成 Apache 资产再分发。
 
 更新上游快照时使用 `scripts/sync-shotcraft-library.py`，它会重建素材目录并在
 `manifest.json` 中记录上游 commit，避免素材和说明脱节：

@@ -67,6 +67,15 @@ export type AudioCue = {
   loop?: boolean;
 };
 
+/** A traceable planning reference selected from the optional talkcraft bridge. */
+export type TalkcraftCardRef = {
+  slug: string;
+  start_ms: number;
+  end_ms: number;
+  reason?: string;
+  variant?: string;
+};
+
 export type BoardColor = "white" | "lime" | "yellow" | "blue" | "red" | "green";
 
 /** 白板卡的一个渐进步骤：换右上标题块，或追加一行正文（打字机） */
@@ -160,6 +169,8 @@ export type EditPlan = {
   props?: PropOverlay[];
   /** Optional BGM/SFX tracks mixed on top of the source video. */
   audio?: AudioCue[];
+  /** Optional semantic-planning trace; the renderer ignores this metadata. */
+  card_refs?: TalkcraftCardRef[];
   scenes: Scene[];
 };
 

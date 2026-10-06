@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "repository": "https://github.com/Vincentwei1021/video-talkcraft",
+    "commit": "4cd673df4b7a6a35784a0881df223721789c5e23",
+    "catalogSha256": "75a4a71e6791ed1d29b19300da1e04895e62776acd68fd3ad46afbd3428baad1"
+  },
+  "counts": {
+    "cards": 108,
+    "vocab": 26
+  },
+  "policy": {
+    "rendererCodeBundled": false,
+    "license": "PolyForm Noncommercial 1.0.0; see LICENSE and THIRD_PARTY_NOTICES.md",
+    "commercialUse": "Obtain authorization from Vincent Wei before using upstream toolkit code or cards commercially."
+  }
+}
