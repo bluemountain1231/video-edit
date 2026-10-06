@@ -2,17 +2,15 @@
 # /// script
 # requires-python = ">=3.11"
 # dependencies = [
-#     "mlx-whisper>=0.4.3; sys_platform == 'darwin' and platform_machine == 'arm64'",
-#     "faster-whisper>=1.0.3; sys_platform != 'darwin' or platform_machine != 'arm64'",
+#     "faster-whisper>=1.0.3",
 #     "static-ffmpeg>=3.0",
 #     "numpy",
 # ]
 # ///
 """口播视频本机转写：抽音轨 → Whisper → 带时间戳的字幕素材 JSON。
 
-跨平台：Apple Silicon Mac 自动用 MLX Whisper（最快）；Windows / Linux /
-Intel Mac 自动降级 faster-whisper（CTranslate2，CPU 可跑，不依赖 PyTorch）。
-依赖按平台自动选择，无需手动安装任何转写方案。
+跨平台：默认使用 faster-whisper（CTranslate2，CPU 可跑，不依赖 PyTorch）。
+已有兼容 MLX 环境时可显式传 --backend mlx；无需手动安装任何转写方案。
 
 用法（任意目录，依赖由 uv 按上方内联声明自动解决）：
     uv run ~/.claude/skills/koubo-edit/scripts/transcribe.py <口播视频> -o <输出.json>
@@ -120,13 +118,10 @@ def extract_wav(video: Path, wav: Path) -> None:
 
 
 def pick_backend(requested: str) -> str:
-    if requested != "auto":
-        return requested
-    try:
-        import mlx_whisper  # noqa: F401
-        return "mlx"
-    except ImportError:
-        return "faster"
+    # The current mlx-whisper wheel pulls PyTorch and llvmlite on macOS ARM.
+    # Keep the default path CPU-only and reproducible; users who already have
+    # a compatible MLX environment can still opt in with --backend mlx.
+    return "faster" if requested == "auto" else requested
 
 
 def transcribe_mlx(wav: Path, model: str) -> dict:
@@ -182,7 +177,7 @@ def main() -> None:
                              "识别不准时可换 large-v3-turbo；两个后端自动映射；"
                              "也可传离线模型包解压后的本地目录，完全不联网")
     parser.add_argument("--backend", default="auto", choices=["auto", "mlx", "faster"],
-                        help="auto=Apple Silicon 用 MLX，其余平台用 faster-whisper")
+                        help="auto=跨平台 faster-whisper；已有兼容环境可显式选择 mlx")
     args = parser.parse_args()
     if not args.video.exists():
         sys.exit(f"错误：找不到视频 {args.video}")

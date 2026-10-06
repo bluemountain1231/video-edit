@@ -47,7 +47,7 @@ description: 中文口播视频自动剪辑：输入一段口播视频（真人�
 which uv node npm
 ```
 
-**Python 依赖零手动安装**：`transcribe.py` / `cutout.py` 头部都有 PEP 723 内联声明，依赖**按平台自动选择**——Apple Silicon Mac 装 `mlx-whisper`（MLX，最快），Windows / Linux / Intel Mac 装 `faster-whisper`（CTranslate2，CPU 可跑），`uv run` 首次运行自动建好隔离环境。**严禁**自己 `pip install` 任何转写方案——尤其不要装 `openai-whisper` / `torch` / `whisperx`：两个后端都**不依赖 PyTorch**。如果发现自己正在下载 torch（100MB+）、llvmlite 这类包，说明已经走错路，立刻停下改用上面的 `uv run` 命令。
+**Python 依赖零手动安装**：`transcribe.py` / `cutout.py` 头部都有 PEP 723 内联声明。默认使用 `faster-whisper`（CTranslate2，CPU 可跑，跨平台），不再自动安装 MLX 依赖；当前 `mlx-whisper` wheel 会额外拉入 PyTorch 与 llvmlite，避免让自动流程触发这组大依赖。已有兼容 MLX 环境时仍可显式传 `--backend mlx`。**严禁**自己 `pip install` `openai-whisper` / `torch` / `whisperx`。
 
 **平台**：macOS / Windows / Linux 全平台可用，同一条命令，转写后端自动切换（也可 `--backend mlx|faster` 强制指定）。Windows 注意两点：① 文档里的示例命令是 bash 风格，PowerShell 下把 `~` 换成 `$env:USERPROFILE`、`cp -R` 换成 `Copy-Item -Recurse` 即可，`uv run` 与 Node/Remotion 渲染流程完全一致；② 首次转写会从 Hugging Face 下载模型（small 约 460MB），网络慢时先 `set HF_ENDPOINT=https://hf-mirror.com` 再跑。
 
@@ -74,7 +74,7 @@ uv run --with static-ffmpeg python -c "from static_ffmpeg import run; print(run.
 uv run ~/.claude/skills/koubo-edit/scripts/transcribe.py <口播视频> -o output/koubo-edit/jobs/<名字>/transcript.json
 ```
 
-产出逐句 `segments` + 词级 `words` + 画幅元数据。识别不准加 `--model large-v3-turbo`（通用模型名，MLX / faster-whisper 两个后端自动映射）。Apple Silicon 走 MLX，Windows / Linux / Intel Mac 自动降级 faster-whisper，无需关心。
+产出逐句 `segments` + 词级 `words` + 画幅元数据。识别不准加 `--model large-v3-turbo`（通用模型名，faster-whisper 直接映射；已有 MLX 环境可显式指定 `--backend mlx`）。
 
 `metadata` 里的 `width/height` **已按显示方向换算**（手机竖拍视频常按横向存储 + 旋转元数据 `rotation`，播放端才转正；脚本读了 stream 的 side_data 做了换算）——plan 直接用这两个值，竖屏进就竖屏出，别再自己去 ffprobe 裸取 stream 宽高（那是存储方向，会把竖屏做成横屏）。
 
