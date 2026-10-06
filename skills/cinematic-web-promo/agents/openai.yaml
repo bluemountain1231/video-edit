@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinematic Web Promo"
+  short_description: "Route bundled Shotcraft recipes into website films"
+  default_prompt: "Use $cinematic-web-promo to route an exact bundled Shotcraft recipe and turn this website into a cinematic product film."

@@ -1,0 +1,4148 @@
+{
+  "generatedAt": "2026-08-11T10:01:54+00:00",
+  "previews": [
+    {
+      "bytes": 741931,
+      "etag": "\"6a7855d0-b522b\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/ai-stream-response.mp4",
+      "sha256": "b9a2188312d0825a3f7c0edc5265b4c29cae9ef4a1e31f46d0d00d2d01fb2f0f",
+      "style": "ai-stream-response",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/ai-stream-response.mp4"
+    },
+    {
+      "bytes": 417421,
+      "etag": "\"6a7855d0-65e8d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/anime-impact.mp4",
+      "sha256": "ee85a6b83d02fe00d9685bb6446b1bf13b5c25f3a6b30016a2545e761d06662e",
+      "style": "anime-impact",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/anime-impact.mp4"
+    },
+    {
+      "bytes": 501649,
+      "etag": "\"6a7855d0-7a791\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/assemble-then-type-flyin.mp4",
+      "sha256": "4209606aae5905be8b20c8374c67480309dd1eaadbcad7325d5079449a5fe3b0",
+      "style": "assemble-then-type-flyin",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/assemble-then-type-flyin.mp4"
+    },
+    {
+      "bytes": 541168,
+      "etag": "\"6a7855d0-841f0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/attention-bounce.mp4",
+      "sha256": "382cd2c15e1986b0af8924a0def33e31544ec0a7180a580f4ea28a18344a8562",
+      "style": "attention-bounce",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/attention-bounce.mp4"
+    },
+    {
+      "bytes": 943371,
+      "etag": "\"6a7855d0-e650b\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/aurora-bloom-bg-flip.mp4",
+      "sha256": "683f6bec63c54cca51f6134e5b13442e7b615f9fca9938079153ab09dc2a218f",
+      "style": "aurora-bloom-bg-flip",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/aurora-bloom-bg-flip.mp4"
+    },
+    {
+      "bytes": 435933,
+      "etag": "\"6a7855d0-6a6dd\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/autolayout-gap-dial.mp4",
+      "sha256": "a52730d3d81a50d0453360bc681339bada02303dfc171e78f7c34527e18c3356",
+      "style": "autolayout-gap-dial",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/autolayout-gap-dial.mp4"
+    },
+    {
+      "bytes": 196785,
+      "etag": "\"6a7855d0-300b1\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/avatar-bracket-carousel.mp4",
+      "sha256": "cccccc8b1b7b8f6e42fdd86060a2a924676232d92a40d81f91b2a8bc482de144",
+      "style": "avatar-bracket-carousel",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/avatar-bracket-carousel.mp4"
+    },
+    {
+      "bytes": 232391,
+      "etag": "\"6a7855d0-38bc7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/avatar-grid-radial-build-colorize.mp4",
+      "sha256": "049bf5c95184b6b4506a28afd3dd8e63bd881e286bc3c32b05ebe07d512556cf",
+      "style": "avatar-grid-radial-build-colorize",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/avatar-grid-radial-build-colorize.mp4"
+    },
+    {
+      "bytes": 296698,
+      "etag": "\"6a7855d0-486fa\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/axial-stretch.mp4",
+      "sha256": "7fa92fd9c8d3b888a0feb2174d2452e394056f4870c4db328d2f6ca556385a92",
+      "style": "axial-stretch",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/axial-stretch.mp4"
+    },
+    {
+      "bytes": 351877,
+      "etag": "\"6a7855d0-55e85\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/axis-rescale-shock.mp4",
+      "sha256": "ae667829cc194ad6c0fdbea82e08bacc9fcf0ed34323ef5c3255b8e1af6674aa",
+      "style": "axis-rescale-shock",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/axis-rescale-shock.mp4"
+    },
+    {
+      "bytes": 283964,
+      "etag": "\"6a7855d0-4553c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/barn-door-split.mp4",
+      "sha256": "357b518210b09ab488ef89f8f5ed552ece5423e38328a1fc60f2281ec9ecbb72",
+      "style": "barn-door-split",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/barn-door-split.mp4"
+    },
+    {
+      "bytes": 1201892,
+      "etag": "\"6a7855d0-1256e4\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/basic-3d-scene.mp4",
+      "sha256": "7c7324ceff617846b79220d7441b1a5b0e2a2dff8e4cbae0513446f8e7b9646a",
+      "style": "basic-3d-scene",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/basic-3d-scene.mp4"
+    },
+    {
+      "bytes": 312649,
+      "etag": "\"6a7855d0-4c549\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/beat-cut-accelerando.mp4",
+      "sha256": "4c2af7e631f0348dcd96321a062cf5421dbe64db32781705d1be6b2e0c867025",
+      "style": "beat-cut-accelerando",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/beat-cut-accelerando.mp4"
+    },
+    {
+      "bytes": 566885,
+      "etag": "\"6a7855d0-8a665\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/beat-pump.mp4",
+      "sha256": "e0780245dd9a7d36d4eda3b418be5c8cd15c9de03282a43dfcef76e061a40000",
+      "style": "beat-pump",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/beat-pump.mp4"
+    },
+    {
+      "bytes": 431394,
+      "etag": "\"6a7855d0-69522\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/beat-step-list-theme-cycle.mp4",
+      "sha256": "06d75d23c1ca2103d26d57fcc40538e34dd1020605da0e8aeaf0ae6f4cadd83f",
+      "style": "beat-step-list-theme-cycle",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/beat-step-list-theme-cycle.mp4"
+    },
+    {
+      "bytes": 288518,
+      "etag": "\"6a7855d0-46706\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/before-after-slider-scrub.mp4",
+      "sha256": "37b2fed87cb4c0f6261a9d1b0afb2a584bda166d0d0ed46e9a3565797cbadf8f",
+      "style": "before-after-slider-scrub",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/before-after-slider-scrub.mp4"
+    },
+    {
+      "bytes": 495122,
+      "etag": "\"6a7855d0-78e12\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/bento-light-up.mp4",
+      "sha256": "dd3d041c884cda97c9c02eb1e8f0ea8a49fd71c538e4e3cf1d3efd7ba2738441",
+      "style": "bento-light-up",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/bento-light-up.mp4"
+    },
+    {
+      "bytes": 311704,
+      "etag": "\"6a7855d0-4c198\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/bezier-source-converge-merge.mp4",
+      "sha256": "8023d3f34b028c38b630d5fb97c5a376888eff5ed5908f1260c41ca5929fc7d4",
+      "style": "bezier-source-converge-merge",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/bezier-source-converge-merge.mp4"
+    },
+    {
+      "bytes": 314496,
+      "etag": "\"6a7855d0-4cc80\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/blinds-slice.mp4",
+      "sha256": "2672dab7e8a6da47da5571571c755d1cf7ce77c7e361a4228bbaca9cefd63eae",
+      "style": "blinds-slice",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/blinds-slice.mp4"
+    },
+    {
+      "bytes": 133665,
+      "etag": "\"6a7855d0-20a21\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/blur-slide.mp4",
+      "sha256": "52721cd9f87e55dcf75b0427f0d851be9f47df0032512e7ab018cdfeea114326",
+      "style": "blur-slide",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/blur-slide.mp4"
+    },
+    {
+      "bytes": 479042,
+      "etag": "\"6a7855d0-74f42\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/bottom-push-stack-wipe.mp4",
+      "sha256": "595cc42c32548cf86a290c83cbf0251c996ff946759f1d7d37196df60fe1fe7a",
+      "style": "bottom-push-stack-wipe",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/bottom-push-stack-wipe.mp4"
+    },
+    {
+      "bytes": 81176,
+      "etag": "\"6a7855d0-13d18\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/brace-expand.mp4",
+      "sha256": "43e4b2077b9cfa3059cc35049331751ac5678b71a8310cddc4371b8b91020927",
+      "style": "brace-expand",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/brace-expand.mp4"
+    },
+    {
+      "bytes": 465006,
+      "etag": "\"6a7855d0-7186e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/brake-reticle-lock.mp4",
+      "sha256": "a3f96e0937e6d6d52467532ecf70728e7283157217d183dea0930d83af5f03bf",
+      "style": "brake-reticle-lock",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/brake-reticle-lock.mp4"
+    },
+    {
+      "bytes": 407465,
+      "etag": "\"6a7855d0-637a9\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/brand-frame-snap.mp4",
+      "sha256": "b1011d7d5d1e3f555c6a74cb6c6f6c1402a3efc2a62f98c7ed32230bc85133c6",
+      "style": "brand-frame-snap",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/brand-frame-snap.mp4"
+    },
+    {
+      "bytes": 36249,
+      "etag": "\"6a7855d0-8d99\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/brand-ink-open.mp4",
+      "sha256": "1b566ce6d86ee659080f57d3914b4678713242cd05e377104336c4000de7f626",
+      "style": "brand-ink-open",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/brand-ink-open.mp4"
+    },
+    {
+      "bytes": 2368836,
+      "etag": "\"6a7855d0-242544\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/bubble-swarm-takeover.mp4",
+      "sha256": "5795a0cb2dedd5469e0c472bec03d5f65abb208b21dbdcf8f9c7723972990ad4",
+      "style": "bubble-swarm-takeover",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/bubble-swarm-takeover.mp4"
+    },
+    {
+      "bytes": 386854,
+      "etag": "\"6a7855d0-5e726\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/bullet-time-freeze-orbit.mp4",
+      "sha256": "f6328b0de9350cc1b7f978c7965ac994613361331232d38078e8091c59399d46",
+      "style": "bullet-time-freeze-orbit",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/bullet-time-freeze-orbit.mp4"
+    },
+    {
+      "bytes": 308672,
+      "etag": "\"6a7855d0-4b5c0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/card-flip-reveal.mp4",
+      "sha256": "35cfcec9c16a477d756dcbd3d998ca504a9414b28258b6ea24991b9cc974ff83",
+      "style": "card-flip-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/card-flip-reveal.mp4"
+    },
+    {
+      "bytes": 2898666,
+      "etag": "\"6a7855d0-2c3aea\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/card-flock-tumble.mp4",
+      "sha256": "a358216b4ad5b7c65816975931c70996199305afdb79f899a6e2b1eb9b01389b",
+      "style": "card-flock-tumble",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/card-flock-tumble.mp4"
+    },
+    {
+      "bytes": 426270,
+      "etag": "\"6a7855d0-6811e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/card-footage-cadence.mp4",
+      "sha256": "808dc0c695538c5178d6a0c31bc7799494417d5cdd5f62bed045dee4b731c4fc",
+      "style": "card-footage-cadence",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/card-footage-cadence.mp4"
+    },
+    {
+      "bytes": 518429,
+      "etag": "\"6a7855d0-7e91d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/card-stack.mp4",
+      "sha256": "5e9781b31afd5e219b3401d253ab791912974741bf85db4518a4908ff21dd16d",
+      "style": "card-stack",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/card-stack.mp4"
+    },
+    {
+      "bytes": 2693076,
+      "etag": "\"6a7855d0-2917d4\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/carousel-3d.mp4",
+      "sha256": "4fcaf3060e3b64403fadcb1fd33100284f416e7de1387f0773d2720fc492d130",
+      "style": "carousel-3d",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/carousel-3d.mp4"
+    },
+    {
+      "bytes": 745097,
+      "etag": "\"6a7855d0-b5e89\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/cast-ensemble.mp4",
+      "sha256": "b8d7bd848df700c5ad8bb0d2ac08e7e8ae543c91d8b1a559c14329869a87cdd7",
+      "style": "cast-ensemble",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/cast-ensemble.mp4"
+    },
+    {
+      "bytes": 337265,
+      "etag": "\"6a7855d0-52571\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/cel-flash-stomp.mp4",
+      "sha256": "87b4f6604fd38ba5d28264f163fb4bd23ed520edb27a01aa904df1d10a32b98e",
+      "style": "cel-flash-stomp",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/cel-flash-stomp.mp4"
+    },
+    {
+      "bytes": 432408,
+      "etag": "\"6a7855d0-69918\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/changelog-scroll-brake.mp4",
+      "sha256": "1ba81111090dc64ce7eb1e995e7bcfdbb640cfb97ac24a4cae6999c5cb134394",
+      "style": "changelog-scroll-brake",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/changelog-scroll-brake.mp4"
+    },
+    {
+      "bytes": 203037,
+      "etag": "\"6a7855d0-3191d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/chip-grid-single-select-blackout.mp4",
+      "sha256": "83bd5681aef912e32b6980a54a4472b483c02315396dc51cb3943f552ec641e6",
+      "style": "chip-grid-single-select-blackout",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/chip-grid-single-select-blackout.mp4"
+    },
+    {
+      "bytes": 93207,
+      "etag": "\"6a7855d0-16c17\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/chip-lift-to-user-pill.mp4",
+      "sha256": "54cf5f918e77cd440bcffd6052719fdcdce00f0e5661eb2a5436fe1ca181a9df",
+      "style": "chip-lift-to-user-pill",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/chip-lift-to-user-pill.mp4"
+    },
+    {
+      "bytes": 362581,
+      "etag": "\"6a7855d0-58855\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/circle-match-iris.mp4",
+      "sha256": "b8e14bb985d8851e86fb2058c5dd0bf38667011595b1426b7835f430495ce8fd",
+      "style": "circle-match-iris",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/circle-match-iris.mp4"
+    },
+    {
+      "bytes": 425673,
+      "etag": "\"6a7855d0-67ec9\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/clock-wipe.mp4",
+      "sha256": "9e7afa5633df316250062a7452af4fa98bf0b9e1be79f5b853d5a6f1886b5d53",
+      "style": "clock-wipe",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/clock-wipe.mp4"
+    },
+    {
+      "bytes": 303484,
+      "etag": "\"6a7855d0-4a17c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/cloner-depth-echo.mp4",
+      "sha256": "ccbf140eecb0097cea49b1bcfe898318a92a9ac472ccabe10c9bdffd24ed6aa5",
+      "style": "cloner-depth-echo",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/cloner-depth-echo.mp4"
+    },
+    {
+      "bytes": 275489,
+      "etag": "\"6a7855d0-43421\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/color-block-step-wipe.mp4",
+      "sha256": "25d95987cd967e69291a2f959e1766c04b5920226756398f9ab53c545e0af1ac",
+      "style": "color-block-step-wipe",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/color-block-step-wipe.mp4"
+    },
+    {
+      "bytes": 494866,
+      "etag": "\"6a7855d0-78d12\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/comic-panel-split.mp4",
+      "sha256": "f85c2fe26c28073201d2f81ec784caae2bdf6fb5104821b3e844716e7c73a5ab",
+      "style": "comic-panel-split",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/comic-panel-split.mp4"
+    },
+    {
+      "bytes": 337846,
+      "etag": "\"6a7855d0-527b6\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/command-palette-summon.mp4",
+      "sha256": "976fb3884fe2f8ab41ec46e2ee6a9245d59068f96cf611958eefa9306793d9bb",
+      "style": "command-palette-summon",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/command-palette-summon.mp4"
+    },
+    {
+      "bytes": 788892,
+      "etag": "\"6a7855d0-c099c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/confetti-crossfire.mp4",
+      "sha256": "563d9875747a58ded29201dae975351daafff5083283d659522c0be8de31b775",
+      "style": "confetti-crossfire",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/confetti-crossfire.mp4"
+    },
+    {
+      "bytes": 286783,
+      "etag": "\"6a7855d0-4603f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/contact-shadow-lift.mp4",
+      "sha256": "9227185104c22f8734397fb998710d901d5c6514b710141d8f19f7930b69ab46",
+      "style": "contact-shadow-lift",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/contact-shadow-lift.mp4"
+    },
+    {
+      "bytes": 1310791,
+      "etag": "\"6a7855d0-140047\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/corner-spotlight-reveal.mp4",
+      "sha256": "6cbeb257118db89325e889ef7ef9e5607e3f18d69d7f410220cfcceaf81b61e2",
+      "style": "corner-spotlight-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/corner-spotlight-reveal.mp4"
+    },
+    {
+      "bytes": 131666,
+      "etag": "\"6a7855d0-20252\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/countdown-arc-scatter.mp4",
+      "sha256": "fa6086fa1a8ab804b7be7312c73979744e38ec0b7f8e675b96714c0bbad457fd",
+      "style": "countdown-arc-scatter",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/countdown-arc-scatter.mp4"
+    },
+    {
+      "bytes": 1256541,
+      "etag": "\"6a7855d0-132c5d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/counter-confetti.mp4",
+      "sha256": "5da316df61bd547fe2c36087883f47c5f2931857cca20a539ae42fac1c8f4e73",
+      "style": "counter-confetti",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/counter-confetti.mp4"
+    },
+    {
+      "bytes": 425006,
+      "etag": "\"6a7855d0-67c2e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/counter-tick-sparks.mp4",
+      "sha256": "44c3eea8e5de670f54d430e43b4091b9dee9a81bcabb18cc1be94c0d8189e4bc",
+      "style": "counter-tick-sparks",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/counter-tick-sparks.mp4"
+    },
+    {
+      "bytes": 439324,
+      "etag": "\"6a7855d0-6b41c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/crane-rise-reveal.mp4",
+      "sha256": "74b7f0e71753fad3afe4e7b7c896967ea46a42c4f5f052e2c10dafd276ab2646",
+      "style": "crane-rise-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/crane-rise-reveal.mp4"
+    },
+    {
+      "bytes": 270330,
+      "etag": "\"6a7855d0-41ffa\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/crash-zoom-punch.mp4",
+      "sha256": "041ee7c5ccab47bfae7ce85a2bbb7b575d487e9dfda1b473fd1a8d1b1c61577e",
+      "style": "crash-zoom-punch",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/crash-zoom-punch.mp4"
+    },
+    {
+      "bytes": 1561596,
+      "etag": "\"6a7855d0-17d3fc\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/cube-navigation.mp4",
+      "sha256": "ab060b92834ede63ba358f4bd1d675777e610b21ea587eede5b87cf79908f0dc",
+      "style": "cube-navigation",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/cube-navigation.mp4"
+    },
+    {
+      "bytes": 524408,
+      "etag": "\"6a7855d0-80078\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/cube-rotate.mp4",
+      "sha256": "6c33f7836d24cd53c56ac3c4c48103fb713abb9965c7b7e30ec11e4f917c8ef9",
+      "style": "cube-rotate",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/cube-rotate.mp4"
+    },
+    {
+      "bytes": 699019,
+      "etag": "\"6a7855d0-aaa8b\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/cursor-flyover.mp4",
+      "sha256": "1b99520ae1b495ad31d63e73fb33e5b34287fff6ad046624cacd37a6ceb2eebc",
+      "style": "cursor-flyover",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/cursor-flyover.mp4"
+    },
+    {
+      "bytes": 443985,
+      "etag": "\"6a7855d0-6c651\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/cursor-performance.mp4",
+      "sha256": "e5404b536f2b9417b30c0e4ff93b491de2f9da820c353a999685fe7c0bb61866",
+      "style": "cursor-performance",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/cursor-performance.mp4"
+    },
+    {
+      "bytes": 1038113,
+      "etag": "\"6a7855d0-fd721\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/dashboard-glow-highlight-pill.mp4",
+      "sha256": "52ffc258b504215c25dd64b1ed82a4450f64142502006a28b5caf547d4d6e1d6",
+      "style": "dashboard-glow-highlight-pill",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/dashboard-glow-highlight-pill.mp4"
+    },
+    {
+      "bytes": 2325040,
+      "etag": "\"6a7855d0-237a30\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/dataviz-landscape-open.mp4",
+      "sha256": "af45b40bc532c342ab0b13e4bb478d7b6bdff21ad036c0d89ab2f1bb97b0a11d",
+      "style": "dataviz-landscape-open",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/dataviz-landscape-open.mp4"
+    },
+    {
+      "bytes": 4188921,
+      "etag": "\"6a7855d0-3feaf9\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/deck-deal-flyin.mp4",
+      "sha256": "8fa29aa13a4a79642aad296ee461645913f2e6a03bfcea9fdede801b0c8e2f0f",
+      "style": "deck-deal-flyin",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/deck-deal-flyin.mp4"
+    },
+    {
+      "bytes": 429153,
+      "etag": "\"6a7855d0-68c61\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/diagram-cascade.mp4",
+      "sha256": "65a791dc6dde2d33bf850d37da076ebb84351abd960d2c17f154b92c507ac204",
+      "style": "diagram-cascade",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/diagram-cascade.mp4"
+    },
+    {
+      "bytes": 716166,
+      "etag": "\"6a7855d0-aed86\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/dialogue-duet.mp4",
+      "sha256": "99fac995c469d7079edc2f19120d1c8d2fcd92df8db54f487319206411cce222",
+      "style": "dialogue-duet",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/dialogue-duet.mp4"
+    },
+    {
+      "bytes": 267647,
+      "etag": "\"6a7855d0-4157f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/doc-park-left-pill-deal.mp4",
+      "sha256": "c5b1bb118d118ef19b11462f6f00b4d85ed742a2b598281e407a83a6193c6ff5",
+      "style": "doc-park-left-pill-deal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/doc-park-left-pill-deal.mp4"
+    },
+    {
+      "bytes": 503819,
+      "etag": "\"6a7855d0-7b00b\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/document-typewriter-reveal.mp4",
+      "sha256": "d332ea767e28d4a68c89cd64f38ebf5b11fbd7357dc5c63e0e892f7f14c59041",
+      "style": "document-typewriter-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/document-typewriter-reveal.mp4"
+    },
+    {
+      "bytes": 433128,
+      "etag": "\"6a7855d0-69be8\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/dolly-zoom.mp4",
+      "sha256": "ff447c6b66739abd86b92ed3d8a6b529e34d063e4830c98c50c6a2026affe0da",
+      "style": "dolly-zoom",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/dolly-zoom.mp4"
+    },
+    {
+      "bytes": 349066,
+      "etag": "\"6a7855d0-5538a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/domino-cascade.mp4",
+      "sha256": "0863ec3868cc2de65cc476cf9e84da72247ed1c6a9ded18fb0e4aaea4e4f9ab0",
+      "style": "domino-cascade",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/domino-cascade.mp4"
+    },
+    {
+      "bytes": 226237,
+      "etag": "\"6a7855d0-373bd\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/draw-svg-trace.mp4",
+      "sha256": "3a499a7cf617f9c22b3e3abab66f57b532e5010d36ba1e82793a8966a6459444",
+      "style": "draw-svg-trace",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/draw-svg-trace.mp4"
+    },
+    {
+      "bytes": 411067,
+      "etag": "\"6a7855d0-645bb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/drift-assembly.mp4",
+      "sha256": "a7a821032a27748c2a05783941a6797d62a717bd7de9bcb731237ae382e35425",
+      "style": "drift-assembly",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/drift-assembly.mp4"
+    },
+    {
+      "bytes": 478586,
+      "etag": "\"6a7855d0-74d7a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/drone-dive-landing.mp4",
+      "sha256": "bc3c675380caec7c05a38ae5721cf3034241fbe5becc5a7d70f7d13d134df9f1",
+      "style": "drone-dive-landing",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/drone-dive-landing.mp4"
+    },
+    {
+      "bytes": 458468,
+      "etag": "\"6a7855d0-6fee4\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/drop-blackout-slam.mp4",
+      "sha256": "10046c42ab7c1546e58221fdd49e94ea6f3569d2bc206e2f10b0466691353c92",
+      "style": "drop-blackout-slam",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/drop-blackout-slam.mp4"
+    },
+    {
+      "bytes": 1085196,
+      "etag": "\"6a7855d0-108f0c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/dutch-roll-to-level.mp4",
+      "sha256": "fda302fd4d63ac710ffb2af534496de88be682d3dc96c403f80e193903d016f9",
+      "style": "dutch-roll-to-level",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/dutch-roll-to-level.mp4"
+    },
+    {
+      "bytes": 269713,
+      "etag": "\"6a7855d0-41d91\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/error-retype.mp4",
+      "sha256": "f7d1b4984c0c61d13e101b0fbf8724cf3f27f3d8681a5a096b325ae1f0c7598c",
+      "style": "error-retype",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/error-retype.mp4"
+    },
+    {
+      "bytes": 961725,
+      "etag": "\"6a7855d0-eacbd\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/exploded-view.mp4",
+      "sha256": "c09f9cce7966341c93ec9508392ca176e911e42c3bc652ff9f88498a62dba478",
+      "style": "exploded-view",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/exploded-view.mp4"
+    },
+    {
+      "bytes": 184528,
+      "etag": "\"6a7855d0-2d0d0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/flash-cut.mp4",
+      "sha256": "cbb2cab300eb42455d8035e086033fecef9065f97e7cec4da9b00c7d041f83f2",
+      "style": "flash-cut",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/flash-cut.mp4"
+    },
+    {
+      "bytes": 316576,
+      "etag": "\"6a7855d0-4d4a0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/flip-grid-reflow.mp4",
+      "sha256": "e86616943a9c81bafc5f840b9d0e459112047be26f4c24b59b11e28f1304c8ab",
+      "style": "flip-grid-reflow",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/flip-grid-reflow.mp4"
+    },
+    {
+      "bytes": 1034624,
+      "etag": "\"6a7855d0-fc980\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/floating-glossy-label-pills.mp4",
+      "sha256": "74c7bbf220ae652aaa8f68398f1b294f095142a0918acd058c13b13a5bca4c4b",
+      "style": "floating-glossy-label-pills",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/floating-glossy-label-pills.mp4"
+    },
+    {
+      "bytes": 2883666,
+      "etag": "\"6a7855d0-2c0052\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/flying-words.mp4",
+      "sha256": "36655e3378867de7aa8dcc1019a6f4c6295803889502b1e51646f10df0bc1737",
+      "style": "flying-words",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/flying-words.mp4"
+    },
+    {
+      "bytes": 331538,
+      "etag": "\"6a7855d0-50f12\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/flyline-arc.mp4",
+      "sha256": "1a1c272233fa90b51eb480208200a16465ab7926b8ab0ee1d044ed85028b7534",
+      "style": "flyline-arc",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/flyline-arc.mp4"
+    },
+    {
+      "bytes": 343078,
+      "etag": "\"6a7855d0-53c26\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/font-weight-pump.mp4",
+      "sha256": "7c32770fb9090a7a6ba45ff4fa5fce7a3e73aee7eaaa518512bf692908da7b32",
+      "style": "font-weight-pump",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/font-weight-pump.mp4"
+    },
+    {
+      "bytes": 642072,
+      "etag": "\"6a7855d0-9cc18\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/fracture.mp4",
+      "sha256": "84747a193c5ff51269de70fd7101cfb9c6cded00f2e443b83b606bbf44ee0309",
+      "style": "fracture",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/fracture.mp4"
+    },
+    {
+      "bytes": 317463,
+      "etag": "\"6a7855d0-4d817\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/freeze-annotate.mp4",
+      "sha256": "79585b409076ad51f17ae141a0bb85be30dd24191603550e10bfb9e6908f3ee6",
+      "style": "freeze-annotate",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/freeze-annotate.mp4"
+    },
+    {
+      "bytes": 106312,
+      "etag": "\"6a7855d0-19f48\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/glass-pill-dictation-typing.mp4",
+      "sha256": "b44cc497944e3658a2b85f6d89bc92e700d1c75be4f45d04a44df25785f438d1",
+      "style": "glass-pill-dictation-typing",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/glass-pill-dictation-typing.mp4"
+    },
+    {
+      "bytes": 407372,
+      "etag": "\"6a7855d0-6374c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/glitch-cycle.mp4",
+      "sha256": "dfcdb4b01b8b38f44d9c40a1f669425389bd3eaf8ebde44cdfd1cc626119e0a2",
+      "style": "glitch-cycle",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/glitch-cycle.mp4"
+    },
+    {
+      "bytes": 302948,
+      "etag": "\"6a7855d0-49f64\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/glitch-displace.mp4",
+      "sha256": "9b293e3829add3f59c893666fbb2c820eb1d29af5eb6a2159984e971167e816f",
+      "style": "glitch-displace",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/glitch-displace.mp4"
+    },
+    {
+      "bytes": 1072316,
+      "etag": "\"6a7855d0-105cbc\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/glow-orb-ambient.mp4",
+      "sha256": "760918b16074f1877053621b9d9a8d713fca35c7ccf47a5b69c41a201aedda22",
+      "style": "glow-orb-ambient",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/glow-orb-ambient.mp4"
+    },
+    {
+      "bytes": 1374630,
+      "etag": "\"6a7855d0-14f9a6\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/glow-wake-sleep-panel.mp4",
+      "sha256": "ef3aca65c1d197d52a1b7988152470677619289a6fc33a68d0e352adb751b660",
+      "style": "glow-wake-sleep-panel",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/glow-wake-sleep-panel.mp4"
+    },
+    {
+      "bytes": 1763623,
+      "etag": "\"6a7855d0-1ae927\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/gradient-transition.mp4",
+      "sha256": "d5268ce692ca7fa861b1039afec1eaeb7d54d634158c52b9acc7ca3dbdaca0f6",
+      "style": "gradient-transition",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/gradient-transition.mp4"
+    },
+    {
+      "bytes": 602805,
+      "etag": "\"6a7855d0-932b5\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/gradient-word-sweep.mp4",
+      "sha256": "b4a108cd3e2f45f427f0f39ee646fe9b7c00b5b51fc810cc823fdeccca768fed",
+      "style": "gradient-word-sweep",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/gradient-word-sweep.mp4"
+    },
+    {
+      "bytes": 324411,
+      "etag": "\"6a7855d0-4f33b\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/grain-dissolve.mp4",
+      "sha256": "c5f3fea630f6faab1ce4573f8eb978c0dbfacc9170097719964e0a9df3096bdc",
+      "style": "grain-dissolve",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/grain-dissolve.mp4"
+    },
+    {
+      "bytes": 1190478,
+      "etag": "\"6a7855d0-122a4e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/graze-face-tour.mp4",
+      "sha256": "c1c8b50d0af0441c2af68d01cb5b13d7b0c82efbce248a2a9b651b84b82b30b2",
+      "style": "graze-face-tour",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/graze-face-tour.mp4"
+    },
+    {
+      "bytes": 379863,
+      "etag": "\"6a7855d0-5cbd7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/grid-flash-mosaic.mp4",
+      "sha256": "e722cc4891b8db85c00c77fab196bacb304351e94270b8183d98af560a1616cf",
+      "style": "grid-flash-mosaic",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/grid-flash-mosaic.mp4"
+    },
+    {
+      "bytes": 278951,
+      "etag": "\"6a7855d0-441a7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/grid-wave-flip.mp4",
+      "sha256": "1e04e1a3e6a5e538ec25621aa2cba4855ade0ed8c54f5d12bca6599178c19289",
+      "style": "grid-wave-flip",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/grid-wave-flip.mp4"
+    },
+    {
+      "bytes": 306076,
+      "etag": "\"6a7855d0-4ab9c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/halation-bloom.mp4",
+      "sha256": "5547a29e0e8e17d252b68c69b6aa6ce4158434f19ad49cc190fdc877a0bed1fb",
+      "style": "halation-bloom",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/halation-bloom.mp4"
+    },
+    {
+      "bytes": 329175,
+      "etag": "\"6a7855d0-505d7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/hashtag-to-pill-materialize.mp4",
+      "sha256": "13369ce110c121ea914bf3bb1b829917ff4985ce47f3c6e0e171148698569f76",
+      "style": "hashtag-to-pill-materialize",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/hashtag-to-pill-materialize.mp4"
+    },
+    {
+      "bytes": 277211,
+      "etag": "\"6a7855d0-43adb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/hatch-depth.mp4",
+      "sha256": "d0c177fc77ebc98ef946306ce647b735947e2dac2693fb3646d9cf724d2bee78",
+      "style": "hatch-depth",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/hatch-depth.mp4"
+    },
+    {
+      "bytes": 384077,
+      "etag": "\"6a7855d0-5dc4d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/hit-counter.mp4",
+      "sha256": "90b7941ef8da877f64446565ea2de0c53d2573e9107bbc4d6ae5805b7f61720c",
+      "style": "hit-counter",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/hit-counter.mp4"
+    },
+    {
+      "bytes": 731967,
+      "etag": "\"6a7855d0-b2b3f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/icon-field-colorize.mp4",
+      "sha256": "ccaee7026ac91bb93a4990f7403093452145672d1172d34b04255ea62c9533a6",
+      "style": "icon-field-colorize",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/icon-field-colorize.mp4"
+    },
+    {
+      "bytes": 381330,
+      "etag": "\"6a7855d0-5d192\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/icon-flip-bloom.mp4",
+      "sha256": "1dbc4e06a25901acadd21e4a5f8a196a8422da529603fdd40cbf52adddf48601",
+      "style": "icon-flip-bloom",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/icon-flip-bloom.mp4"
+    },
+    {
+      "bytes": 339893,
+      "etag": "\"6a7855d0-52fb5\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/impact-burst-kit.mp4",
+      "sha256": "5319a16414940c31fe600f0038433cfd0f6c12ad30ea66a134882aaffa33e872",
+      "style": "impact-burst-kit",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/impact-burst-kit.mp4"
+    },
+    {
+      "bytes": 306750,
+      "etag": "\"6a7855d0-4ae3e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/ink-bleed-reveal.mp4",
+      "sha256": "8237a62c8ec58160ecafe464085e8236cc193329bb2bac0352939ba2f3c11994",
+      "style": "ink-bleed-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/ink-bleed-reveal.mp4"
+    },
+    {
+      "bytes": 344145,
+      "etag": "\"6a7855d0-54051\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/input-morph-assemble.mp4",
+      "sha256": "ab76de6d7a11208c42ad7e86f0fb91dc9c6f96b659b5c3006e749d6179615d76",
+      "style": "input-morph-assemble",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/input-morph-assemble.mp4"
+    },
+    {
+      "bytes": 1900715,
+      "etag": "\"6a7855d0-1d00ab\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/integration-hub-map.mp4",
+      "sha256": "e85f0c46016e228a58a9c7c98e075ebc09ce71fe94f2f2ae6b4571d9fb735a6f",
+      "style": "integration-hub-map",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/integration-hub-map.mp4"
+    },
+    {
+      "bytes": 310992,
+      "etag": "\"6a7855d0-4bed0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/invisible-cut.mp4",
+      "sha256": "2451252d4c206cc96d148ea8d5dfcb5df9fb5f69a641c7244dd0a7866f9d13f4",
+      "style": "invisible-cut",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/invisible-cut.mp4"
+    },
+    {
+      "bytes": 277162,
+      "etag": "\"6a7855d0-43aaa\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/jump-cut-punch-in.mp4",
+      "sha256": "64118a579674febe19f2435ab10bda54a2dc8fa1494ed4618223fe81c3f8ac78",
+      "style": "jump-cut-punch-in",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/jump-cut-punch-in.mp4"
+    },
+    {
+      "bytes": 261412,
+      "etag": "\"6a7855d0-3fd24\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/kanada-perspective-snap.mp4",
+      "sha256": "1dd18d969e0e1f5372af244f46d07b4d63d2e9cd85f34bcf60bf262f0139d0e8",
+      "style": "kanada-perspective-snap",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/kanada-perspective-snap.mp4"
+    },
+    {
+      "bytes": 260774,
+      "etag": "\"6a7855d0-3faa6\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/karaoke-fill-sync.mp4",
+      "sha256": "2974dd64293f6515d6173451af102abe2ff473cced5c9306aa3c27b0ace16fcd",
+      "style": "karaoke-fill-sync",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/karaoke-fill-sync.mp4"
+    },
+    {
+      "bytes": 459425,
+      "etag": "\"6a7855d0-702a1\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/keycap-smash-cut.mp4",
+      "sha256": "5e1b87048b06eba457f40fd0de78d823fc4261e84cffb9594eab491a2cfd6a95",
+      "style": "keycap-smash-cut",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/keycap-smash-cut.mp4"
+    },
+    {
+      "bytes": 327727,
+      "etag": "\"6a7855d0-5002f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/letter-drop-physics.mp4",
+      "sha256": "a052b1d70dfeb4e9d332b5479952f22708ab3356d291a97a9f97cbdf7bad374b",
+      "style": "letter-drop-physics",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/letter-drop-physics.mp4"
+    },
+    {
+      "bytes": 837018,
+      "etag": "\"6a7855d0-cc59a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/letterform-zoom.mp4",
+      "sha256": "b4a98bc27b13f2b692f7e5d10e3ecbbe762205f06c516331b21631e11517d5b2",
+      "style": "letterform-zoom",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/letterform-zoom.mp4"
+    },
+    {
+      "bytes": 256253,
+      "etag": "\"6a7855d0-3e8fd\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/letterspace-materialize.mp4",
+      "sha256": "281ee004529f73621f3b222ac99b5dc92c753cb01e92f7c3d3dbd32031a06bcb",
+      "style": "letterspace-materialize",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/letterspace-materialize.mp4"
+    },
+    {
+      "bytes": 438810,
+      "etag": "\"6a7855d0-6b21a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/light-leak-burn.mp4",
+      "sha256": "0c391e004eef74ccd0fa91ce6c9d77eff884f8de18eea492f5ff63e76154aba2",
+      "style": "light-leak-burn",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/light-leak-burn.mp4"
+    },
+    {
+      "bytes": 406519,
+      "etag": "\"6a7855d0-633f7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/line-boil.mp4",
+      "sha256": "738f9e6f96fb4e38a320e4c959ab45cbc5d66860539baa68fe5d70796fe8ae93",
+      "style": "line-boil",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/line-boil.mp4"
+    },
+    {
+      "bytes": 288619,
+      "etag": "\"6a7855d0-4676b\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/line-carry-transition.mp4",
+      "sha256": "b593fe16a28457625b0dcfb814fb59d0b4c90db9c65f71b38692b3cda8e6ec6f",
+      "style": "line-carry-transition",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/line-carry-transition.mp4"
+    },
+    {
+      "bytes": 223392,
+      "etag": "\"6a7855d0-368a0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/line-unfold-panel.mp4",
+      "sha256": "902ab1bcf4f889953b847d2eaa5a5c63e9496b83a02e911c980e615e6c9fcb3b",
+      "style": "line-unfold-panel",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/line-unfold-panel.mp4"
+    },
+    {
+      "bytes": 249425,
+      "etag": "\"6a7855d0-3ce51\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/list-reveal.mp4",
+      "sha256": "65808a22d9de707ff733dc1d04178e2b6af2b6ab9bf7d310c171d1ec1b91f5f6",
+      "style": "list-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/list-reveal.mp4"
+    },
+    {
+      "bytes": 513261,
+      "etag": "\"6a7855d0-7d4ed\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/list-stack-press.mp4",
+      "sha256": "7751ec4ae8a137411f1e6f53fbb3f6ebcdc05263595bca36138e62315ec25243",
+      "style": "list-stack-press",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/list-stack-press.mp4"
+    },
+    {
+      "bytes": 151995,
+      "etag": "\"6a7855d0-251bb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/logo-shrink-wordmark-lockup.mp4",
+      "sha256": "4d2dc7472248f1ba3443ff2ea4e545696584efc38e2de351e282d68d762af8bb",
+      "style": "logo-shrink-wordmark-lockup",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/logo-shrink-wordmark-lockup.mp4"
+    },
+    {
+      "bytes": 246793,
+      "etag": "\"6a7855d0-3c409\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/logo-sting-button.mp4",
+      "sha256": "9c2b19246648dbb7fa8718fa4969731102b476d1dc833fcf06696e9787959206",
+      "style": "logo-sting-button",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/logo-sting-button.mp4"
+    },
+    {
+      "bytes": 553445,
+      "etag": "\"6a7855d0-871e5\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/magician-card-flourish.mp4",
+      "sha256": "79d7ea90ac00e372e5a3d388e9c85553cdad64feb9226e596ca085b7cddf356e",
+      "style": "magician-card-flourish",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/magician-card-flourish.mp4"
+    },
+    {
+      "bytes": 217188,
+      "etag": "\"6a7855d0-35064\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/marker-underline-title.mp4",
+      "sha256": "7cb86073819218757817cabbc4fb336facc37ae4ce5046fc940506fcd41469b7",
+      "style": "marker-underline-title",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/marker-underline-title.mp4"
+    },
+    {
+      "bytes": 336897,
+      "etag": "\"6a7855d0-52401\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/mask-wipe.mp4",
+      "sha256": "e380b490ef75955965ccc58be6cb5e3935158fb692f3d532fc8a1bad1d692b98",
+      "style": "mask-wipe",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/mask-wipe.mp4"
+    },
+    {
+      "bytes": 278586,
+      "etag": "\"6a7855d0-4403a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/masking-tape-slap.mp4",
+      "sha256": "190f13cab9696351f1ca8a7c709ffe89757754d625540e16b50ff7217a85232a",
+      "style": "masking-tape-slap",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/masking-tape-slap.mp4"
+    },
+    {
+      "bytes": 365698,
+      "etag": "\"6a7855d0-59482\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/misregistration-hit.mp4",
+      "sha256": "b6722f7672c761de61f2d31919ee90187dc36c466b44bf639741a2fccd263626",
+      "style": "misregistration-hit",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/misregistration-hit.mp4"
+    },
+    {
+      "bytes": 262284,
+      "etag": "\"6a7855d0-4008c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/morph-from-primitive.mp4",
+      "sha256": "c71072b2fa2dfcbe416d74f398142633e19ca52f1b6de58a08052241dca04f30",
+      "style": "morph-from-primitive",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/morph-from-primitive.mp4"
+    },
+    {
+      "bytes": 1290979,
+      "etag": "\"6a7855d0-13b2e3\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/mosaic-reframe.mp4",
+      "sha256": "67c12d282511133410a2bcc96d9d06c647800ccb73103bcf51a18ecb65499946",
+      "style": "mosaic-reframe",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/mosaic-reframe.mp4"
+    },
+    {
+      "bytes": 3073479,
+      "etag": "\"6a7855d0-2ee5c7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/multiplane.mp4",
+      "sha256": "34fc6f5c979a0da8b02bd4cd3a1af4f0f1dcd2c90eef68bc599a15f1b7d55071",
+      "style": "multiplane",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/multiplane.mp4"
+    },
+    {
+      "bytes": 315650,
+      "etag": "\"6a7855d0-4d102\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/needle-sweep-selftest.mp4",
+      "sha256": "b2225c1d995d20a3691a525e5886451fee0a76124794250e98595662edac40ac",
+      "style": "needle-sweep-selftest",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/needle-sweep-selftest.mp4"
+    },
+    {
+      "bytes": 1551088,
+      "etag": "\"6a7855d0-17aaf0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/neon-frame-forerun.mp4",
+      "sha256": "196d40740900de84117522a1d240a8aad41c652ce74da9f0f70fc099c1118300",
+      "style": "neon-frame-forerun",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/neon-frame-forerun.mp4"
+    },
+    {
+      "bytes": 641519,
+      "etag": "\"6a7855d0-9c9ef\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/neon-frame-orbit-drop.mp4",
+      "sha256": "5990c80352045990ada7f34cc52801f28d449160de96c7b19898ab47bc95cfbc",
+      "style": "neon-frame-orbit-drop",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/neon-frame-orbit-drop.mp4"
+    },
+    {
+      "bytes": 3554267,
+      "etag": "\"6a7855d0-363bdb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/neon-triple-marquee.mp4",
+      "sha256": "df8e2cb59d5c0c16a2606f87e0e3e9f854cb086f5ed6389ab99cdcc75b8f9b08",
+      "style": "neon-triple-marquee",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/neon-triple-marquee.mp4"
+    },
+    {
+      "bytes": 532511,
+      "etag": "\"6a7855d0-8201f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/odometer-digit-roll.mp4",
+      "sha256": "a8ff62f483f1f90c6fb7c3c8d051a5f8342c9d0f351566fbc3cfaff46b7644b1",
+      "style": "odometer-digit-roll",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/odometer-digit-roll.mp4"
+    },
+    {
+      "bytes": 990302,
+      "etag": "\"6a7855d0-f1c5e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/orb-flyline-relay.mp4",
+      "sha256": "f2de9c14554f404ba94eaa475db08033c49d3278d6d4d9b9dec398ba7abdb7ec",
+      "style": "orb-flyline-relay",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/orb-flyline-relay.mp4"
+    },
+    {
+      "bytes": 572235,
+      "etag": "\"6a7855d0-8bb4b\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/oscilloscope-stream.mp4",
+      "sha256": "70475b2a96d2e39f4c4d82b88bbfe797cc04bd7b0b837c8cf0a09eb954b5d1b5",
+      "style": "oscilloscope-stream",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/oscilloscope-stream.mp4"
+    },
+    {
+      "bytes": 208136,
+      "etag": "\"6a7855d0-32d08\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/outline-word-fill.mp4",
+      "sha256": "69472c261fe36e960a325420f8376047f87574be6386b81373afd991cb0d7d89",
+      "style": "outline-word-fill",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/outline-word-fill.mp4"
+    },
+    {
+      "bytes": 412445,
+      "etag": "\"6a7855d0-64b1d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/outro-group-photo-launch.mp4",
+      "sha256": "ee0228f97f5549ac76ce8febeab816cec95588f37e21f1d2d31c9ec6c4bc52f2",
+      "style": "outro-group-photo-launch",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/outro-group-photo-launch.mp4"
+    },
+    {
+      "bytes": 799071,
+      "etag": "\"6a7855d0-c315f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/overhead-tabletop-drop.mp4",
+      "sha256": "392e46c13884170bdb20503abbe82cd1f1743d7c998d1ae398f042471d2cc089",
+      "style": "overhead-tabletop-drop",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/overhead-tabletop-drop.mp4"
+    },
+    {
+      "bytes": 6232364,
+      "etag": "\"6a7855d0-5f192c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/page-waterfall-wall.mp4",
+      "sha256": "ad54f718918e4f68241612586ff93f44ef2bd2d5134097565c3efbd55bd726f7",
+      "style": "page-waterfall-wall",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/page-waterfall-wall.mp4"
+    },
+    {
+      "bytes": 406345,
+      "etag": "\"6a7855d0-63349\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/palette-theme-ripple.mp4",
+      "sha256": "62d3b3f29b6e285bd6e8ab1b00959ebe6cab5fd42b897f85fbd0386c84defe1b",
+      "style": "palette-theme-ripple",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/palette-theme-ripple.mp4"
+    },
+    {
+      "bytes": 405604,
+      "etag": "\"6a7855d0-63064\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/panel-to-canvas.mp4",
+      "sha256": "c689debab30ad7c12edc2342e5eda43e327332ba69e0238e30762afcc7bf2ccb",
+      "style": "panel-to-canvas",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/panel-to-canvas.mp4"
+    },
+    {
+      "bytes": 478872,
+      "etag": "\"6a7855d0-74e98\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/paparazzi-flash.mp4",
+      "sha256": "62e2b8a90418a454610d58d9e1fde78106d0723c512293ea4960d2af17e005ee",
+      "style": "paparazzi-flash",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/paparazzi-flash.mp4"
+    },
+    {
+      "bytes": 688379,
+      "etag": "\"6a7855d0-a80fb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/paper-plane-messenger.mp4",
+      "sha256": "f15f89cf88378cb2cd413bd07bbca5b64b692895a4337ebbf5bf120109016cdc",
+      "style": "paper-plane-messenger",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/paper-plane-messenger.mp4"
+    },
+    {
+      "bytes": 61262,
+      "etag": "\"6a7855d0-ef4e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/paper-title-card.mp4",
+      "sha256": "96cf09acb0348c043c48e0df059e5fa3cf8fa1f694471c68760674134025bf92",
+      "style": "paper-title-card",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/paper-title-card.mp4"
+    },
+    {
+      "bytes": 801610,
+      "etag": "\"6a7855d0-c3b4a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/particle-sand-fill.mp4",
+      "sha256": "a5aff1a7449aa6d05757af2062f9b6ef7d8c1a11435ffd493840b94f692cc8fd",
+      "style": "particle-sand-fill",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/particle-sand-fill.mp4"
+    },
+    {
+      "bytes": 303937,
+      "etag": "\"6a7855d0-4a341\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/picker-carousel-feature-cycle.mp4",
+      "sha256": "d93d373c3aa1132eb1ef089969f1cbeab832ad1f6d483aed83c5379abbaf860e",
+      "style": "picker-carousel-feature-cycle",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/picker-carousel-feature-cycle.mp4"
+    },
+    {
+      "bytes": 207851,
+      "etag": "\"6a7855d0-32beb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/pill-chip-slot-cycle-handled.mp4",
+      "sha256": "f47e273608da5d4c5d0ea155ec856954140b324519b1ef5dc15c09b78f9ce46a",
+      "style": "pill-chip-slot-cycle-handled",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/pill-chip-slot-cycle-handled.mp4"
+    },
+    {
+      "bytes": 448994,
+      "etag": "\"6a7855d0-6d9e2\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/pill-slot-cycle.mp4",
+      "sha256": "472e18ed0f4e2408598b9cc1305b92a2c7d582b2b30f66680ad8e7dc21680171",
+      "style": "pill-slot-cycle",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/pill-slot-cycle.mp4"
+    },
+    {
+      "bytes": 398636,
+      "etag": "\"6a7855d0-6152c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/pop-burst-confirm.mp4",
+      "sha256": "5a664b74f90d2d24efbbebcb6c768826ebfb4915966e769a41e51bc4896410d1",
+      "style": "pop-burst-confirm",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/pop-burst-confirm.mp4"
+    },
+    {
+      "bytes": 470490,
+      "etag": "\"6a7855d0-72dda\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/popup-book-rise.mp4",
+      "sha256": "93a624edab3febccfca1febcc10a2c68153006414d9e0023fc66821b6389ea88",
+      "style": "popup-book-rise",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/popup-book-rise.mp4"
+    },
+    {
+      "bytes": 486765,
+      "etag": "\"6a7855d0-76d6d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/product-card-progressive-assemble.mp4",
+      "sha256": "8feed455903d3d596a1c84cd9dce226472101eb798519a041e9906019a7f0225",
+      "style": "product-card-progressive-assemble",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/product-card-progressive-assemble.mp4"
+    },
+    {
+      "bytes": 665565,
+      "etag": "\"6a7855d0-a27dd\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/pull-back-isolation.mp4",
+      "sha256": "70498a75ccc0ab68198e9b27e917f047002c8c82ef3adf97ebc89f4245386b2b",
+      "style": "pull-back-isolation",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/pull-back-isolation.mp4"
+    },
+    {
+      "bytes": 273916,
+      "etag": "\"6a7855d0-42dfc\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/quad-split-parallel-scenes.mp4",
+      "sha256": "881e6cd3f93bdb6b1cfcc5346c2eca81af003aac5be27d3b30e36742c4058dba",
+      "style": "quad-split-parallel-scenes",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/quad-split-parallel-scenes.mp4"
+    },
+    {
+      "bytes": 416320,
+      "etag": "\"6a7855d0-65a40\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/radial-ripple-phone-chips.mp4",
+      "sha256": "1df5cdfa21a6203a047de661201e7c30a6b74f51fb67b65cb1085141f43c6ddc",
+      "style": "radial-ripple-phone-chips",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/radial-ripple-phone-chips.mp4"
+    },
+    {
+      "bytes": 765324,
+      "etag": "\"6a7855d0-bad8c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/radial-wave.mp4",
+      "sha256": "b69dea556874e26a6861decb0c35ceb23561f68b3d62b73c13537dfa15ca50f4",
+      "style": "radial-wave",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/radial-wave.mp4"
+    },
+    {
+      "bytes": 1403255,
+      "etag": "\"6a7855d0-156977\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/research-card-stack-scroll.mp4",
+      "sha256": "63cc1c9d9574ebfc721a0f407c7272961811564605e713e84d3a86124361aaaf",
+      "style": "research-card-stack-scroll",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/research-card-stack-scroll.mp4"
+    },
+    {
+      "bytes": 241574,
+      "etag": "\"6a7855d0-3afa6\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/reticle-lock-on.mp4",
+      "sha256": "ecb2d920f595abf693c0f255ee509dfd8a832d55a134ed8305a46b52f67b834f",
+      "style": "reticle-lock-on",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/reticle-lock-on.mp4"
+    },
+    {
+      "bytes": 326810,
+      "etag": "\"6a7855d0-4fc9a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/row-embed.mp4",
+      "sha256": "6bbf9be7faef244dc6434b21abc89c154d7ddcd5f777d7551af4d94388f0bc86",
+      "style": "row-embed",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/row-embed.mp4"
+    },
+    {
+      "bytes": 2782647,
+      "etag": "\"6a7855d0-2a75b7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/runway-ground-skim.mp4",
+      "sha256": "1f54bc580b53a3cdeec4335e026a6a8b741df8e0659b005f70b69e5956e77ad8",
+      "style": "runway-ground-skim",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/runway-ground-skim.mp4"
+    },
+    {
+      "bytes": 387727,
+      "etag": "\"6a7855d0-5ea8f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/sakuga-timing-shift.mp4",
+      "sha256": "0d10d5d1246ef407fabf6d01469faac072718388754149e5827e5fc0af2e82e1",
+      "style": "sakuga-timing-shift",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/sakuga-timing-shift.mp4"
+    },
+    {
+      "bytes": 233779,
+      "etag": "\"6a7855d0-39133\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/scan-bracket-sweep.mp4",
+      "sha256": "467a4f7ce07d2ea4ee07a4ca655fa0ae1ab13d7ebcb91b2b0ed90b61b54a5bab",
+      "style": "scan-bracket-sweep",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/scan-bracket-sweep.mp4"
+    },
+    {
+      "bytes": 495639,
+      "etag": "\"6a7855d0-79017\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/scanline-annotate-focus.mp4",
+      "sha256": "b0f361227e6977c01a6ef4818b5576334fda937e9faf1f00ac21bada938cb04b",
+      "style": "scanline-annotate-focus",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/scanline-annotate-focus.mp4"
+    },
+    {
+      "bytes": 702081,
+      "etag": "\"6a7855d0-ab681\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/scanline-assemble-flyin.mp4",
+      "sha256": "823f7676de9c258432c0f0e2941363e238a8ec0ffc23f3124ccffedf4caced17",
+      "style": "scanline-assemble-flyin",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/scanline-assemble-flyin.mp4"
+    },
+    {
+      "bytes": 396267,
+      "etag": "\"6a7855d0-60beb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/score-slam.mp4",
+      "sha256": "78610e195f049d2d26a37e3086d8593c1f669aae370ac4b43ea8118a1aaf6435",
+      "style": "score-slam",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/score-slam.mp4"
+    },
+    {
+      "bytes": 208154,
+      "etag": "\"6a7855d0-32d1a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/scramble.mp4",
+      "sha256": "86e29850cfb510b7025f57da12658d6890ab1635ce22cbe80f0331a6fc4240cf",
+      "style": "scramble",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/scramble.mp4"
+    },
+    {
+      "bytes": 326595,
+      "etag": "\"6a7855d0-4fbc3\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/scramble-decode.mp4",
+      "sha256": "5485d50ba6aa7bfba9179749cbbe19bac7ae572aeadeafa1a55eb22bb1538fe5",
+      "style": "scramble-decode",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/scramble-decode.mp4"
+    },
+    {
+      "bytes": 308325,
+      "etag": "\"6a7855d0-4b465\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/segmented-thumb-hero.mp4",
+      "sha256": "e5c617fba850e67d2400927a5b8185d4f6197c2a0ab5d780f21bd97c7312c4d3",
+      "style": "segmented-thumb-hero",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/segmented-thumb-hero.mp4"
+    },
+    {
+      "bytes": 257922,
+      "etag": "\"6a7855d0-3ef82\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/shared-element-morph.mp4",
+      "sha256": "fd92c21f247f9d76f0ce614f720ce16f4ad0aaa7c57353c5b57e9ac62fcf0fdf",
+      "style": "shared-element-morph",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/shared-element-morph.mp4"
+    },
+    {
+      "bytes": 218825,
+      "etag": "\"6a7855d0-356c9\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/sheen-sweep.mp4",
+      "sha256": "26f88c8266ca25348bd02f83e4a86db02f7055e2fe368a3f1508d7e6e5461334",
+      "style": "sheen-sweep",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/sheen-sweep.mp4"
+    },
+    {
+      "bytes": 731027,
+      "etag": "\"6a7855d0-b2793\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/shot-transitions-4.mp4",
+      "sha256": "7a5b3da76de7b4686bfb655d5c86f75ad9ff6b16c05aaad42adc94c1de33a3c6",
+      "style": "shot-transitions-4",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/shot-transitions-4.mp4"
+    },
+    {
+      "bytes": 927182,
+      "etag": "\"6a7855d0-e25ce\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/shot-transitions-5.mp4",
+      "sha256": "c334c7bbe1340311af2d11e6a4a42f32be972ed03bbc71cbf68d9b12ea3c512a",
+      "style": "shot-transitions-5",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/shot-transitions-5.mp4"
+    },
+    {
+      "bytes": 49943,
+      "etag": "\"6a7855d0-c317\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/shot-transitions-6.mp4",
+      "sha256": "b04c57a0ecb62424a6148e7af4fa53135c4c13c0b6083feef6c3ef162bd40025",
+      "style": "shot-transitions-6",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/shot-transitions-6.mp4"
+    },
+    {
+      "bytes": 1072940,
+      "etag": "\"6a7855d0-105f2c\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/skeleton-reveal.mp4",
+      "sha256": "4c271b777cf57f76acdc4b6e3067bbcdc55caacd84dc08dfa8aee7b505484d26",
+      "style": "skeleton-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/skeleton-reveal.mp4"
+    },
+    {
+      "bytes": 364634,
+      "etag": "\"6a7855d0-5905a\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/slide-spotlight-pan.mp4",
+      "sha256": "0640b7d5423a5acf826c3e44dd3464fd929374e342c60c5b9c9dfcd2f29e7257",
+      "style": "slide-spotlight-pan",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/slide-spotlight-pan.mp4"
+    },
+    {
+      "bytes": 715645,
+      "etag": "\"6a7855d0-aeb7d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/slow-push-in.mp4",
+      "sha256": "b2071fc9f3e2c9de93d7efe5232fa12572f93a2a2ecbfa0f4dd7f650207a3a99",
+      "style": "slow-push-in",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/slow-push-in.mp4"
+    },
+    {
+      "bytes": 533392,
+      "etag": "\"6a7855d0-82390\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/smash-cut.mp4",
+      "sha256": "fb7032e0aeeafbb036165e2d7a180f62662d27ece88182fcd3769d82d91020f6",
+      "style": "smash-cut",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/smash-cut.mp4"
+    },
+    {
+      "bytes": 228231,
+      "etag": "\"6a7855d0-37b87\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/smear-multiples.mp4",
+      "sha256": "439fb947fa9bdc74bea1e1100b4fe64ecec88d2bed241787a9d80bb375ab1238",
+      "style": "smear-multiples",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/smear-multiples.mp4"
+    },
+    {
+      "bytes": 270331,
+      "etag": "\"6a7855d0-41ffb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/spectrum-morph-ui.mp4",
+      "sha256": "311f897d71278383fa70dd819064ef379210da2e8c227c5b87489e20f3c912b0",
+      "style": "spectrum-morph-ui",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/spectrum-morph-ui.mp4"
+    },
+    {
+      "bytes": 403605,
+      "etag": "\"6a7855d0-62895\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/speed-ramp.mp4",
+      "sha256": "d961ba1dca0a59e3d6c0c8b7c0a3aefeed1442bd552d69ee24e8ebc8e3dac54e",
+      "style": "speed-ramp",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/speed-ramp.mp4"
+    },
+    {
+      "bytes": 320223,
+      "etag": "\"6a7855d0-4e2df\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/split-flap-title.mp4",
+      "sha256": "e51f32ee4ed0cb10decdbe40342734d25abdc028ecd3258393867b9739e86a2b",
+      "style": "split-flap-title",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/split-flap-title.mp4"
+    },
+    {
+      "bytes": 258607,
+      "etag": "\"6a7855d0-3f22f\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/split-text-stagger.mp4",
+      "sha256": "1b1b81178680d72a18e70f411d25f9bd50d782f1b9d29353c53577f4e307611c",
+      "style": "split-text-stagger",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/split-text-stagger.mp4"
+    },
+    {
+      "bytes": 984601,
+      "etag": "\"6a7855d0-f0619\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/spotlight-hero-card.mp4",
+      "sha256": "79aabe034a24546a2404b49046e0386149c77f5238707be090be429fb95fd205",
+      "style": "spotlight-hero-card",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/spotlight-hero-card.mp4"
+    },
+    {
+      "bytes": 803618,
+      "etag": "\"6a7855d0-c4322\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/spotlight-sweep.mp4",
+      "sha256": "7a146cfee821efc28595f0f276e16e20967514596365f20ff760c6cd65b352ee",
+      "style": "spotlight-sweep",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/spotlight-sweep.mp4"
+    },
+    {
+      "bytes": 1841798,
+      "etag": "\"6a7855d0-1c1a86\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/steep-tilt-glide.mp4",
+      "sha256": "7162216ba5db202ae602cf535e6de35eb51343d6c2b418a283382518364e91ae",
+      "style": "steep-tilt-glide",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/steep-tilt-glide.mp4"
+    },
+    {
+      "bytes": 678852,
+      "etag": "\"6a7855d0-a5bc4\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/strobe-black-frames.mp4",
+      "sha256": "da65625863245511329734aea2c34b3fc7a81a105c716abc059ef9ab1a45a1b4",
+      "style": "strobe-black-frames",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/strobe-black-frames.mp4"
+    },
+    {
+      "bytes": 252566,
+      "etag": "\"6a7855d0-3da96\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/stroke-segment-build.mp4",
+      "sha256": "2c9ac51b5ca68048556ba2ffbb25c9549746cc913ec289f0898002d445c6cb6c",
+      "style": "stroke-segment-build",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/stroke-segment-build.mp4"
+    },
+    {
+      "bytes": 681632,
+      "etag": "\"6a7855d0-a66a0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/svg-shape-morph.mp4",
+      "sha256": "90b9cbc7be3d5dfa7471b1ddb71ec175d6338b5618b490d14f89fcbc6dc0e620",
+      "style": "svg-shape-morph",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/svg-shape-morph.mp4"
+    },
+    {
+      "bytes": 422070,
+      "etag": "\"6a7855d0-670b6\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/tape-scroll-fixed-pointer.mp4",
+      "sha256": "0a01c4e56ed1d2f605799608fb014e1bd6310e8018fa6698c2f92f15b95d51bd",
+      "style": "tape-scroll-fixed-pointer",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/tape-scroll-fixed-pointer.mp4"
+    },
+    {
+      "bytes": 688624,
+      "etag": "\"6a7855d0-a81f0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/terminal-3d.mp4",
+      "sha256": "56c9de78df2a4f629a71b3d3695bc6b43614cf8a68375496f48fa0d3d1299ca3",
+      "style": "terminal-3d",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/terminal-3d.mp4"
+    },
+    {
+      "bytes": 291873,
+      "etag": "\"6a7855d0-47421\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/terminal-typewriter.mp4",
+      "sha256": "2324d56f005bd8dfcbce421c69bc3be00b539dbf3ede815d38b55f13fe838d57",
+      "style": "terminal-typewriter",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/terminal-typewriter.mp4"
+    },
+    {
+      "bytes": 442863,
+      "etag": "\"6a7855d0-6c1ef\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/text-as-mask.mp4",
+      "sha256": "149301bddf5ae79929b8416040a10f4305ca77bfdc4b53d240272339a854fced",
+      "style": "text-as-mask",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/text-as-mask.mp4"
+    },
+    {
+      "bytes": 369910,
+      "etag": "\"6a7855d0-5a4f6\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/text-column-converge.mp4",
+      "sha256": "805bbded049e5cc723a9456e84f11a1fe8b5b2e96d332fe8ef0f0021e411023d",
+      "style": "text-column-converge",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/text-column-converge.mp4"
+    },
+    {
+      "bytes": 446992,
+      "etag": "\"6a7855d0-6d210\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/text-on-path.mp4",
+      "sha256": "3d96aebc33ce20b096713bbbc66e7c93c81a30128d5da8622174c50b50848aea",
+      "style": "text-on-path",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/text-on-path.mp4"
+    },
+    {
+      "bytes": 284231,
+      "etag": "\"6a7855d0-45647\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/theme-sweep-toggle.mp4",
+      "sha256": "407c5995fbd56da980ad526c93087ddfa916aa77f661b867608397086957f77f",
+      "style": "theme-sweep-toggle",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/theme-sweep-toggle.mp4"
+    },
+    {
+      "bytes": 450590,
+      "etag": "\"6a7855d0-6e01e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/tilt-reveal.mp4",
+      "sha256": "32ca50e446a322ef0071c822fd233544d4cb86233f66a8815df9a6ece82f5fcd",
+      "style": "tilt-reveal",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/tilt-reveal.mp4"
+    },
+    {
+      "bytes": 389091,
+      "etag": "\"6a7855d0-5efe3\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/timeline-travel.mp4",
+      "sha256": "7a1220e6b1c38dd6dde11c81229ef547ade0e6bcee710ffd0aa9984f2328d9be",
+      "style": "timeline-travel",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/timeline-travel.mp4"
+    },
+    {
+      "bytes": 584171,
+      "etag": "\"6a7855d0-8e9eb\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/title-demote-to-label.mp4",
+      "sha256": "e7dc7173ab844905e11d897306817c52bac20ff632d1778c280f9e67d2d7f583",
+      "style": "title-demote-to-label",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/title-demote-to-label.mp4"
+    },
+    {
+      "bytes": 277927,
+      "etag": "\"6a7855d0-43da7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/tracking-expand.mp4",
+      "sha256": "68b61c74840bdbb47eafaa5e800b7416280ab25e1de3f12c6648a1306cd30658",
+      "style": "tracking-expand",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/tracking-expand.mp4"
+    },
+    {
+      "bytes": 323010,
+      "etag": "\"6a7855d0-4edc2\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/trailer-bumper.mp4",
+      "sha256": "2a08f5853d40882d16e02940c562443c752dc7cf31f6aaba9eea758e824b4759",
+      "style": "trailer-bumper",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/trailer-bumper.mp4"
+    },
+    {
+      "bytes": 180160,
+      "etag": "\"6a7855d0-2bfc0\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/type-and-filter.mp4",
+      "sha256": "f27f2965be5279dff17f5d90982cb97fda70a2deffb5dde67673c35065a4489c",
+      "style": "type-and-filter",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/type-and-filter.mp4"
+    },
+    {
+      "bytes": 153319,
+      "etag": "\"6a7855d0-256e7\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/typing-code-block.mp4",
+      "sha256": "52fa238fb669811eaf2e1d98a3f06909b1f26066642d2d722f1449c855a82ce9",
+      "style": "typing-code-block",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/typing-code-block.mp4"
+    },
+    {
+      "bytes": 357184,
+      "etag": "\"6a7855d0-57340\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/ui-strip-away-outro.mp4",
+      "sha256": "3f2cc1ce743ff026c48769e047be72fb4c660fb76bb8aca144fd5f981d3582f8",
+      "style": "ui-strip-away-outro",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/ui-strip-away-outro.mp4"
+    },
+    {
+      "bytes": 463140,
+      "etag": "\"6a7855d0-71124\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/unit-dot-swarm-regroup.mp4",
+      "sha256": "59c523ff1258680349f3f0be024c966c920f6a97eae46b9e8655fe793a4545c1",
+      "style": "unit-dot-swarm-regroup",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/unit-dot-swarm-regroup.mp4"
+    },
+    {
+      "bytes": 373193,
+      "etag": "\"6a7855d0-5b1c9\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/value-stagger-gradient.mp4",
+      "sha256": "118e27c93f2bb409de728dab7f98288a756acc7f3cc3186902b87501e72248f4",
+      "style": "value-stagger-gradient",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/value-stagger-gradient.mp4"
+    },
+    {
+      "bytes": 285027,
+      "etag": "\"6a7855d0-45963\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/versus-slam.mp4",
+      "sha256": "dbefa884a195aff4bc713d9669e1da3efb049912a49d31be8ada487422cd7f4f",
+      "style": "versus-slam",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/versus-slam.mp4"
+    },
+    {
+      "bytes": 123842,
+      "etag": "\"6a7855d0-1e3c2\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/vertical-word-roll-blur-cycle.mp4",
+      "sha256": "791835a1214b04eb96fc416ad8c29bab487d55d63d1cf85d6763f3b14666cef3",
+      "style": "vertical-word-roll-blur-cycle",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/vertical-word-roll-blur-cycle.mp4"
+    },
+    {
+      "bytes": 593141,
+      "etag": "\"6a7855d0-90cf5\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/voice-waveform-live.mp4",
+      "sha256": "0a1198f39906b7935237e6b1ce99c7fc219cc49518a917c3940737b0f20f9f37",
+      "style": "voice-waveform-live",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/voice-waveform-live.mp4"
+    },
+    {
+      "bytes": 285557,
+      "etag": "\"6a7855d0-45b75\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/whip-pan.mp4",
+      "sha256": "1a97803606738750243a4676f7779f2bda128b2410fef06bfc3e8546e0324154",
+      "style": "whip-pan",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/whip-pan.mp4"
+    },
+    {
+      "bytes": 170350,
+      "etag": "\"6a7855d0-2996e\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/white-flash-logo-simplify-cut.mp4",
+      "sha256": "6fc87be24ab799bd16808477b36834ebb8d1d1612679533e105b0bb81598ff65",
+      "style": "white-flash-logo-simplify-cut",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/white-flash-logo-simplify-cut.mp4"
+    },
+    {
+      "bytes": 304401,
+      "etag": "\"6a7855d0-4a511\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/wireframe-draw-on.mp4",
+      "sha256": "1b09574be4695e2b9de732fd779c8efee428acabe41edd4f15665a732ba824b3",
+      "style": "wireframe-draw-on",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/wireframe-draw-on.mp4"
+    },
+    {
+      "bytes": 567317,
+      "etag": "\"6a7855d0-8a815\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/word-relay-filmstrip.mp4",
+      "sha256": "c61d45abbbf87db91903ee3153974f963f8e3db3ff5e371867959480ed369b3d",
+      "style": "word-relay-filmstrip",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/word-relay-filmstrip.mp4"
+    },
+    {
+      "bytes": 430527,
+      "etag": "\"6a7855d0-691bf\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/word-relay-geometry.mp4",
+      "sha256": "314b487d3e2905a8649fe338eda276ea20030cd0039a1fee36779ba3ea79b352",
+      "style": "word-relay-geometry",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/word-relay-geometry.mp4"
+    },
+    {
+      "bytes": 280109,
+      "etag": "\"6a7855d0-4462d\"",
+      "lastModified": "Sun, 09 Aug 2026 10:26:24 GMT",
+      "path": "previews/bdd94be16d60fa8f/wright-triple-cut.mp4",
+      "sha256": "74a0bbc5f11cf276a52e2d0a74707c9b3daed86fd3769d98bb639816666fff1d",
+      "style": "wright-triple-cut",
+      "url": "https://vincentwei1021.github.io/video-shotcraft/media/wright-triple-cut.mp4"
+    }
+  ],
+  "schemaVersion": 1,
+  "scope": {
+    "exactFiles": [
+      "LICENSE",
+      "SKILL.md",
+      "gallery/api/library.json"
+    ],
+    "includesAllDemoSource": true,
+    "includesAllGalleryPreviews": true,
+    "includesAllRecipeCards": true,
+    "includesInkPressTemplate": true,
+    "includesReusableComponents": true,
+    "prefixes": [
+      "assets/lib",
+      "demos",
+      "references/shots",
+      "template"
+    ]
+  },
+  "sourceFiles": [
+    {
+      "bytes": 11340,
+      "path": "LICENSE",
+      "sha256": "b2ce9877a55547ada9b870150664d1468ff777e67cc9888806a73927d31c5771"
+    },
+    {
+      "bytes": 15682,
+      "path": "SKILL.md",
+      "sha256": "56f52470d2482dca8f097dc0f022e99dc996407711ba848f92bc2479cb4e178e"
+    },
+    {
+      "bytes": 1801,
+      "path": "assets/lib/Caption.tsx",
+      "sha256": "e5be094d9c4321296da5078e51a83147aa39e4d95c95dccc2bf53b9f7d280d04"
+    },
+    {
+      "bytes": 1708,
+      "path": "assets/lib/DigitRoll.tsx",
+      "sha256": "aeb03c74d481a238dcd413af3054c264f9b4f91d5c745620e10a361fa4cbc20b"
+    },
+    {
+      "bytes": 726,
+      "path": "assets/lib/FlashCut.tsx",
+      "sha256": "2e8d9e6319f99970be839f05bc869467b3d580aaa40809efb04b5dc02dd84c7f"
+    },
+    {
+      "bytes": 2129,
+      "path": "assets/lib/FlatPanel.tsx",
+      "sha256": "e5dff9388d24376db383873ce8ce32e3264ab5ef35c959733fbc568efef6acdd"
+    },
+    {
+      "bytes": 6878,
+      "path": "assets/lib/PageCam.tsx",
+      "sha256": "1679bfc0c15973d5a51f6b600ae17d4d8c06c2fa3f8513e5110f9d0b9b3271de"
+    },
+    {
+      "bytes": 4082,
+      "path": "assets/lib/VerticalTicker.tsx",
+      "sha256": "e4f90b838559beae465c6bb08736c00097bb0107d6dd4a378f64308e2acf1bae"
+    },
+    {
+      "bytes": 2080,
+      "path": "assets/lib/helpers/camera.tsx",
+      "sha256": "8e5fc4e0ccfaa258fcbcc362761803d2c3e548cbf2e461d157cb42a134caf22d"
+    },
+    {
+      "bytes": 1708,
+      "path": "assets/lib/helpers/motion.ts",
+      "sha256": "9123bacf8078982a903bb565923974902212f93ebe265e24d188e4362a8e251f"
+    },
+    {
+      "bytes": 380,
+      "path": "assets/lib/helpers/rand.ts",
+      "sha256": "0c64fcd062f1fcd7547e3da96cfa8430c2502eaf2e3f09fb2323392f8a5493ef"
+    },
+    {
+      "bytes": 423,
+      "path": "assets/lib/helpers/shake.ts",
+      "sha256": "bbee393468a944df5ae85261e9ffee3c78fd78de0087e057cf96ee36e569054e"
+    },
+    {
+      "bytes": 3362,
+      "path": "demos/README.md",
+      "sha256": "c428bb96e9a7d508ceb142a7ebbd98035c010c214f3b3a19566c85af1a3bf4f5"
+    },
+    {
+      "bytes": 4275,
+      "path": "demos/_fixtures/Fixtures.tsx",
+      "sha256": "e06a6edce67ba854c46b897c11575d487ab265a2b3edf2b480be85dbe29bb5a0"
+    },
+    {
+      "bytes": 3582,
+      "path": "demos/_fixtures/Motion.tsx",
+      "sha256": "961a9ce2401e38b5fe22fce7f44d84fc656d76aad0b178082e447feb01494421"
+    },
+    {
+      "bytes": 49799,
+      "path": "demos/_textures/card1.png",
+      "sha256": "91e5ff3d3a786eea1ac42f2cb3c6083fae6c3ddf214b80dfa9a7e70d250948f9"
+    },
+    {
+      "bytes": 51587,
+      "path": "demos/_textures/card10.png",
+      "sha256": "615736608714f4d4162fa2bd1abd557252c933bec5d32ca0975079bdac593f63"
+    },
+    {
+      "bytes": 52017,
+      "path": "demos/_textures/card2.png",
+      "sha256": "ea6f1bc6b774bbd81be54ea63d8c15a0025f47adfeeedd8529b002832ff70e49"
+    },
+    {
+      "bytes": 58896,
+      "path": "demos/_textures/card3.png",
+      "sha256": "e8e7331f7b7aaf592f4db54eb28d248ba17cd12fbfa237cd3a959b13b0da92fd"
+    },
+    {
+      "bytes": 123105,
+      "path": "demos/_textures/card4-hires.png",
+      "sha256": "2d31a711702e7c4a4aea939717338141dbc81c490facea9691705f003e904b26"
+    },
+    {
+      "bytes": 59011,
+      "path": "demos/_textures/card4.png",
+      "sha256": "26dff0fc4e4efe529c4002ef9703b827ba9d9a00d05cbcc9136bc88d385134ad"
+    },
+    {
+      "bytes": 59166,
+      "path": "demos/_textures/card5.png",
+      "sha256": "7e548f79350cbc9a8a4f53db550401bacd85b2221112d175378bf46c5090feb1"
+    },
+    {
+      "bytes": 55584,
+      "path": "demos/_textures/card6.png",
+      "sha256": "c7718be0c1238cd6b66d704e76cf403d92e11182faa6a56901b221066ed4c081"
+    },
+    {
+      "bytes": 62350,
+      "path": "demos/_textures/card7.png",
+      "sha256": "a0820ad18551c1503a9c4bfb75c74b65381ba428e085b288856cd418f605a233"
+    },
+    {
+      "bytes": 54202,
+      "path": "demos/_textures/card8.png",
+      "sha256": "fcec883f6fb03ff2313d91f7b647af20fa59451580af387a34d0a1f5088d1b45"
+    },
+    {
+      "bytes": 59505,
+      "path": "demos/_textures/card9.png",
+      "sha256": "bb508ce0058265fa7175cffe512c10e371121b4548eebdb69ba6ab2b83d6c613"
+    },
+    {
+      "bytes": 11667,
+      "path": "demos/_textures/float-search.png",
+      "sha256": "53839d02801f6bc2b2b6e7c801cd73ea0edb20b748d248f3ba845dfba835f222"
+    },
+    {
+      "bytes": 5601,
+      "path": "demos/_textures/live-layout.json",
+      "sha256": "dd99140e7806f0de58c91f98a4a5c2ef0b3e793817b46529e4f9e23b57186869"
+    },
+    {
+      "bytes": 10329,
+      "path": "demos/_textures/nav.png",
+      "sha256": "e30335c4fd5e425503b73086546ec14ff90915f01e780a0f23e2e7d5d09cba8c"
+    },
+    {
+      "bytes": 102067,
+      "path": "demos/_textures/projects-empty.png",
+      "sha256": "7015d06c81c76560cb77e31e54ed730ed2882c222e933aa5a343a81dc0423e47"
+    },
+    {
+      "bytes": 615341,
+      "path": "demos/_textures/projects-full.png",
+      "sha256": "65ef35b439b0d00bc35d8b2cfce837a6431288ca67575bc80df37162e3dcdd3a"
+    },
+    {
+      "bytes": 4822,
+      "path": "demos/camera/basic-3d-scene/Basic3DScene.tsx",
+      "sha256": "9e853848e3db1dd1415c49f42a243c916c750ff6058367edd98826a8e5f67705"
+    },
+    {
+      "bytes": 2480,
+      "path": "demos/camera/crash-zoom-punch/CrashImpactReal.tsx",
+      "sha256": "6150253befeb22cff49492dcf3a5b56c01d667e3df6136466e480d7b3b92789d"
+    },
+    {
+      "bytes": 2443,
+      "path": "demos/camera/crash-zoom-punch/CrashZoomReal.tsx",
+      "sha256": "495a5afc91a4c93424d15edf35c8767d1ff90f4d9515bb9194f68d7f355a181f"
+    },
+    {
+      "bytes": 9608,
+      "path": "demos/camera/cursor-flyover/CursorFlyover.tsx",
+      "sha256": "911e6f6a541c6aed41eb311fbc25af1f0d096591283f2bcf70e1f907ae87e78f"
+    },
+    {
+      "bytes": 2281,
+      "path": "demos/camera/depth-layer-moves/DollyZoomReal.tsx",
+      "sha256": "47d44cad258e8a3c7b7bfd7c5e5b3535360b486f21621e6fb25d210c7e4797b0"
+    },
+    {
+      "bytes": 2437,
+      "path": "demos/camera/depth-layer-moves/MultiplaneReal.tsx",
+      "sha256": "b67c6ab37f02f1df6033b54fdb08d1fa0aa85300404578be50715285d16d2124"
+    },
+    {
+      "bytes": 22352,
+      "path": "demos/camera/graze-face-tour/GrazeFaceTour.tsx",
+      "sha256": "67a92ec45709381b23e79b669a154c9fab2d4ce4997d95226c97c297fd038165"
+    },
+    {
+      "bytes": 4624,
+      "path": "demos/camera/overhead-camera-moves/OverheadTabletopDrop.tsx",
+      "sha256": "a73f96609940cef8a5436126310af3487c685dde9833ae3ffbedc2a48785a29e"
+    },
+    {
+      "bytes": 1815,
+      "path": "demos/camera/overhead-camera-moves/TiltReveal.tsx",
+      "sha256": "a981ba2bbe4c78e042e11bb6db9efcc63519564acaf5a60caf02237c435db20a"
+    },
+    {
+      "bytes": 3845,
+      "path": "demos/camera/space-camera-moves/DroneDiveLanding.tsx",
+      "sha256": "531389b779782c6b8bb4728d11ca1fead05ce98f1ef7d5259061ebde28c95597"
+    },
+    {
+      "bytes": 7097,
+      "path": "demos/camera/space-camera-moves/ExplodedView.tsx",
+      "sha256": "75ff3c91f4c0c254db89d3f060a34e23d306c6fa4fb38bccbc5049795d1eed09"
+    },
+    {
+      "bytes": 16482,
+      "path": "demos/camera/steep-tilt-glide/SteepTiltGlide.tsx",
+      "sha256": "184740415dfcaf34311e42fe63b82a69ff987fbb4633f5a8bfb4318ec20e179c"
+    },
+    {
+      "bytes": 6872,
+      "path": "demos/camera/tension-camera-moves/BulletTimeFreezeOrbit.tsx",
+      "sha256": "975f02697f579905a6d83461727f7e258f285fa4738d783ac96b3e6f997413bb"
+    },
+    {
+      "bytes": 3923,
+      "path": "demos/camera/tension-camera-moves/DutchRollToLevel.tsx",
+      "sha256": "de3f0848a382c77d5f1d7824041fce6a371cef804be592845fba981dd83564d0"
+    },
+    {
+      "bytes": 4407,
+      "path": "demos/camera/tension-camera-moves/PullBackIsolation.tsx",
+      "sha256": "93e36a2f42e96497627fb6aac92854d914f70037239a772e5cb3830e7f1a9844"
+    },
+    {
+      "bytes": 2837,
+      "path": "demos/camera/tension-camera-moves/SlowPushIn.tsx",
+      "sha256": "db43d1d0d52b27cba3a97f17bf2999bcbb8750f5c4aee460889285d7c2647446"
+    },
+    {
+      "bytes": 8873,
+      "path": "demos/camera/terminal-3d/Terminal3D.tsx",
+      "sha256": "810807a14ff6a7f813fe2ef999a40364734043428d34d9e272b24e7df18280d4"
+    },
+    {
+      "bytes": 8450,
+      "path": "demos/data/avatar-grid-radial-build-colorize/AvatarGridRadialBuildColorize.tsx",
+      "sha256": "ae2e10a5b3c39c65409dd9e5e417d63729419d468e1e598f323efc8b5435cb0c"
+    },
+    {
+      "bytes": 4377,
+      "path": "demos/data/before-after-slider-scrub/BeforeAfterSliderScrub.tsx",
+      "sha256": "69096e8839be16b7818d3ac375ad170828cb08fa7fcd4fd826d4cc1b4cdf7f69"
+    },
+    {
+      "bytes": 11053,
+      "path": "demos/data/chart-live-moves/AxisRescaleShockV2.tsx",
+      "sha256": "13ad5232884e4ad2a3439c4949f7237136ef98d98de17efd7fd261852ebb7313"
+    },
+    {
+      "bytes": 8604,
+      "path": "demos/data/chart-live-moves/OscilloscopeStreamV2.tsx",
+      "sha256": "ef59ae09fda561c104995ad0f080024fb0f1c3a7016ca911f3a68454c4b2675c"
+    },
+    {
+      "bytes": 8522,
+      "path": "demos/data/chart-live-moves/UnitDotSwarmRegroupV2.tsx",
+      "sha256": "8d5527f02869a91cf13b5fe091c347f672c8fab02105d948678b09a86be4e043"
+    },
+    {
+      "bytes": 5622,
+      "path": "demos/data/counter-confetti/CounterConfetti.tsx",
+      "sha256": "eb10f603abc5ae1167cc1d289b81ec7b078b1e0947e8f9e5265a836b1f06ee94"
+    },
+    {
+      "bytes": 5561,
+      "path": "demos/data/gauge-readout-moves/NeedleSweepSelftest.tsx",
+      "sha256": "609d771627b254fe7481664248604da72f4331eb565d87cf998336127603f80f"
+    },
+    {
+      "bytes": 4838,
+      "path": "demos/data/gauge-readout-moves/TapeScrollFixedPointer.tsx",
+      "sha256": "dd9c6b97788c86fc96de6cf1711da5d9048b6e9c8ba824e18e0d92efc8d49941"
+    },
+    {
+      "bytes": 5195,
+      "path": "demos/data/hatch-depth/HatchDepth.tsx",
+      "sha256": "a6e3050ac9b86590a6c74fc9aae3f764e5a4664c891957a98a421303bc8e6b49"
+    },
+    {
+      "bytes": 6103,
+      "path": "demos/data/odometer-digit-roll/OdometerDigitRoll.tsx",
+      "sha256": "e91c46c1c80f68f83fbed2c1c39e5ad22d6be5799f3541978f56b9e61ee73af2"
+    },
+    {
+      "bytes": 5361,
+      "path": "demos/data/particle-celebrate-hits/ConfettiCrossfire.tsx",
+      "sha256": "4944a90332df7129abb3c037c5bc9a0982f141b1cd2fa6c40cb12692242494dc"
+    },
+    {
+      "bytes": 4397,
+      "path": "demos/data/particle-celebrate-hits/CounterTickSparks.tsx",
+      "sha256": "c03d41ef49c1d0c919834c037b59d1aed772a555847631bf56a5b3b8736b9aca"
+    },
+    {
+      "bytes": 5907,
+      "path": "demos/data/particle-sand-fill/ParticleSandFill.tsx",
+      "sha256": "f0094421646b5c68af5a57592d4e7f554daeb94d8892aa4bbf40bf381ca97617"
+    },
+    {
+      "bytes": 7289,
+      "path": "demos/data/scroll-brake-moves/BrakeReticleLock.tsx",
+      "sha256": "a46716c0f5bac8e2967c7c094b71fbe1e46746e42a7c4b871acfe8402cec5be9"
+    },
+    {
+      "bytes": 3739,
+      "path": "demos/data/scroll-brake-moves/ChangelogScrollBrake.tsx",
+      "sha256": "d7a6d95511cde7b5d39fbcce7b4b75c1acd118da1ca0020b8bb33bc9c72f528e"
+    },
+    {
+      "bytes": 5036,
+      "path": "demos/data/timeline-travel/TimelineTravel.tsx",
+      "sha256": "be4399cdbf8ea9b4e27d61471328d508c725158b75ad75124f194e3d83b4a8fc"
+    },
+    {
+      "bytes": 9438,
+      "path": "demos/effects/assemble-then-type-flyin/AssembleThenTypeFlyin.tsx",
+      "sha256": "2e5996b09bbef56ef4a8316a60f78cafcc2161d6d034be31a8d281d45100e4f2"
+    },
+    {
+      "bytes": 5049,
+      "path": "demos/effects/aurora-bloom-bg-flip/AuroraBloomBgFlip.tsx",
+      "sha256": "0fc90fd03f153065cea48ff973c175c6c66653bb1a035e40c7ac33bbb356fa21"
+    },
+    {
+      "bytes": 5006,
+      "path": "demos/effects/brand-frame-snap/BrandFrameSnap.tsx",
+      "sha256": "4a90782092ade6c63ec05dc7e509096c03793242c60ceb836d6b491c34fbf94b"
+    },
+    {
+      "bytes": 22457,
+      "path": "demos/effects/dashboard-glow-highlight-pill/DashboardGlowHighlightPill.tsx",
+      "sha256": "84d2f989f506e1bb9059d00468e82daf16c0e38f73984fec98638037583b32bd"
+    },
+    {
+      "bytes": 4461,
+      "path": "demos/effects/fui-hud-moves/LineUnfoldPanel.tsx",
+      "sha256": "87329b62b3dfe20b6c08c9f3a559b2f77ee4841b4860cc2be1a00ddf2d5d0122"
+    },
+    {
+      "bytes": 5138,
+      "path": "demos/effects/fui-hud-moves/ReticleLockOn.tsx",
+      "sha256": "46bf287a5de1fde17d34e3725ed6cf66d443a90cff63ebcc907293cf0c31fdf5"
+    },
+    {
+      "bytes": 6302,
+      "path": "demos/effects/glow-flyline-moves/FlylineArc.tsx",
+      "sha256": "6c2f3a636d343474dcb489393ad7c71d6f454c1962113c9c90988bfa5f48ae4c"
+    },
+    {
+      "bytes": 4784,
+      "path": "demos/effects/glow-flyline-moves/GlowOrbAmbient.tsx",
+      "sha256": "ae443fcbf79de1fd63b1219c2073830b47115c168d03aea2ef501154fd09fa60"
+    },
+    {
+      "bytes": 10765,
+      "path": "demos/effects/glow-flyline-moves/OrbFlylineRelay.tsx",
+      "sha256": "d554a49d5bef9064c29d5b9b1bb704ca29798486f44b287d56da43acdc246c20"
+    },
+    {
+      "bytes": 6825,
+      "path": "demos/effects/icon-performance-moves/AttentionBounce.tsx",
+      "sha256": "c467057383f91a4433be617db40d92d03f5f53f47e4cbcedb66091492f50cb87"
+    },
+    {
+      "bytes": 5384,
+      "path": "demos/effects/icon-performance-moves/PopBurstConfirm.tsx",
+      "sha256": "cca22774f4d75754795f96e0060f727a8b062c3005b7bab5cf45fce86f02b80f"
+    },
+    {
+      "bytes": 5692,
+      "path": "demos/effects/impact-feedback/AnimeImpact.tsx",
+      "sha256": "8a513f31e9899de5eae15962e4a3884f3640c352111dd0ba231e6221a9fef2dc"
+    },
+    {
+      "bytes": 5332,
+      "path": "demos/effects/impact-feedback/HitCounter.tsx",
+      "sha256": "dd83270319aca314ee45a08b53fea9737aba88a1b401b1aa3561b5ab9e63a4da"
+    },
+    {
+      "bytes": 4353,
+      "path": "demos/effects/light-play-moves/HalationBloom.tsx",
+      "sha256": "515567c881a3b18c8ae92d001b0b656b506f3bbadea32d75a82a476c6ea47096"
+    },
+    {
+      "bytes": 2620,
+      "path": "demos/effects/light-play-moves/SheenSweepRetry.tsx",
+      "sha256": "c411aedec951a84afcf1722c93e8d9bec2864752610c652cc8a7d9e862f5e799"
+    },
+    {
+      "bytes": 3438,
+      "path": "demos/effects/light-play-moves/SpotlightSweepReveal.tsx",
+      "sha256": "2abd85f00e8221f6a6b67c89d0be24fea3dc661a1f00d68e3dc954567cb4b438"
+    },
+    {
+      "bytes": 5346,
+      "path": "demos/effects/line-boil/LineBoil.tsx",
+      "sha256": "063d193e15fe3f742779ebe8c6e9a95339e9d718050c261a96f069e7f213bf25"
+    },
+    {
+      "bytes": 4948,
+      "path": "demos/effects/radial-ripple-phone-chips/RadialRipplePhoneChips.tsx",
+      "sha256": "c1157c36434d884d015c3056b44bbf4fd94a3cad616385f53af7a54b1d4104db"
+    },
+    {
+      "bytes": 4997,
+      "path": "demos/effects/riso-print-hits/RisoBeatPump.tsx",
+      "sha256": "430f71b64bb4791eb2b6d492c8ca298d48dc795395f188eecbb4a83dd15bdafc"
+    },
+    {
+      "bytes": 4171,
+      "path": "demos/effects/riso-print-hits/RisoMisregistrationHit.tsx",
+      "sha256": "55b63608168db7c56b2e4abbe4b8dd7252a61447dd46c364deaaa325d86641df"
+    },
+    {
+      "bytes": 8132,
+      "path": "demos/effects/scan-bracket-sweep/ScanBracketSweep.tsx",
+      "sha256": "e96046d8b393545fc17a5b6c5d0158aae95d2f2285b6d2a997232a6595e6686e"
+    },
+    {
+      "bytes": 11364,
+      "path": "demos/effects/scanline-annotate-focus/ScanlineAnnotateFocus.tsx",
+      "sha256": "c0bff214f004465455400f468847b0ed73f672a6d75b05d6ee8b3704b9d82fd7"
+    },
+    {
+      "bytes": 10496,
+      "path": "demos/effects/scanline-assemble-flyin/ScanlineAssembleFlyin.tsx",
+      "sha256": "e088c86069806039e0affbaad44af6af2dcda1c32ae1a37dfed05acb7d5e92eb"
+    },
+    {
+      "bytes": 6732,
+      "path": "demos/effects/slam-entrance-moves/ImpactBurstKit.tsx",
+      "sha256": "ae207afed57e5a634528e908da438a58d6734845424f6a96ce0d94b80751aba7"
+    },
+    {
+      "bytes": 4350,
+      "path": "demos/effects/slam-entrance-moves/KanadaPerspectiveSnap.tsx",
+      "sha256": "1c768591eb775d4daab8f7f956547df26cf937f920cf0904809793fbdcade026"
+    },
+    {
+      "bytes": 7491,
+      "path": "demos/effects/slam-entrance-moves/ScoreSlam.tsx",
+      "sha256": "e2ce99bd4e387e0ff03ffc22948d787fc1e7696f72ffe482f50daabd9336e878"
+    },
+    {
+      "bytes": 4958,
+      "path": "demos/effects/spotlight-sweep-moves/CornerSpotlightReveal.tsx",
+      "sha256": "bc5919cf33b701f1080b265ab3f1f3ff9046fe5b2c50355cff2d0c920a8db33d"
+    },
+    {
+      "bytes": 9870,
+      "path": "demos/effects/spotlight-sweep-moves/GlowWakeSleepPanel.tsx",
+      "sha256": "4ef113f4562992102cc5ffa05fc9f796a840ae9d2fb7cc40bc923b76257277b5"
+    },
+    {
+      "bytes": 8748,
+      "path": "demos/effects/spotlight-sweep-moves/SlideSpotlightPan.tsx",
+      "sha256": "4ed15797a085a5526a8c075217413d6b49ceb20d65fcd1b5f2a1c472fd6c4755"
+    },
+    {
+      "bytes": 7500,
+      "path": "demos/interaction/ai-stream-response/StreamResponse.tsx",
+      "sha256": "017726ea7fd92256de50a1c5018391b88efc9920abb7d0cf42dce0e2c0db3df5"
+    },
+    {
+      "bytes": 74016,
+      "path": "demos/interaction/ai-stream-response/agent-stream.jpg",
+      "sha256": "8a6683ac0348347f941aaf5f396d48e70086e61ef0667626cb77e74b48d076f2"
+    },
+    {
+      "bytes": 6344,
+      "path": "demos/interaction/autolayout-gap-dial/AutolayoutGapDial.tsx",
+      "sha256": "80766040683f84e3a2465b0dd3d800a4ecacd672c58f9ea4db0a63318e9c1f9c"
+    },
+    {
+      "bytes": 6251,
+      "path": "demos/interaction/canvas-materialize-moves/DiagramCascadeBuild.tsx",
+      "sha256": "c22146209dc68542d3ac630c8816d713d92786501c9cc9e592d1637852fbb548"
+    },
+    {
+      "bytes": 9170,
+      "path": "demos/interaction/canvas-materialize-moves/PanelToCanvasMaterialize.tsx",
+      "sha256": "1db5d71355732e59394aaade156e7c9c588bdc1fa7f901b1bdcdaf641f52b595"
+    },
+    {
+      "bytes": 8212,
+      "path": "demos/interaction/chip-grid-single-select-blackout/ChipGridSingleSelectBlackout.tsx",
+      "sha256": "64edeef21295812d0754a0cc5c1f9652d677db3350eb53b0efe1d82bca793338"
+    },
+    {
+      "bytes": 10553,
+      "path": "demos/interaction/chip-lift-to-user-pill/ChipLiftToUserPill.tsx",
+      "sha256": "afceecb6c9fa57520df71bd7973471b5e4b5c980537ae7045e6560014fe517bb"
+    },
+    {
+      "bytes": 6446,
+      "path": "demos/interaction/collab-cursor-moves/CursorCastEnsemble.tsx",
+      "sha256": "9ee65f171a355e99bb6faf6f38effd19c65c9a194b43520b20067d73e264033e"
+    },
+    {
+      "bytes": 5808,
+      "path": "demos/interaction/collab-cursor-moves/CursorDialogueDuet.tsx",
+      "sha256": "d7fd896d41d0ecbe0f538c241f80b1775ea575323d538cd6e69f263880e0f538"
+    },
+    {
+      "bytes": 6108,
+      "path": "demos/interaction/command-palette-summon/CommandPaletteSummon.tsx",
+      "sha256": "b66b2e5945b72ae36df532a9da0a95cd064515fd837688b1fd666c9e5566f848"
+    },
+    {
+      "bytes": 6445,
+      "path": "demos/interaction/glass-pill-dictation-typing/GlassPillDictationTyping.tsx",
+      "sha256": "b3d70491d046eb645ea594e5e2a5f9d24d40dd0cf3860d7e65496e528e47f688"
+    },
+    {
+      "bytes": 7359,
+      "path": "demos/interaction/hashtag-to-pill-materialize/HashtagToPillMaterialize.tsx",
+      "sha256": "e94a48600e18d53f41e2c3caee1ebfb3456a39e5e2681eb63e51ad71df1ddc46"
+    },
+    {
+      "bytes": 6043,
+      "path": "demos/interaction/input-trigger-moves/CursorPerformancePunchIn.tsx",
+      "sha256": "a2970990b385856cd9e176757eebdcd778fca864f7bf979c976b8fd4cfab53d3"
+    },
+    {
+      "bytes": 9164,
+      "path": "demos/interaction/input-trigger-moves/KeycapSmashCut.tsx",
+      "sha256": "cd995c264dd139a0e6c161d59bb9b5cff17d92fc2ac4efba2e7003e329d53904"
+    },
+    {
+      "bytes": 5886,
+      "path": "demos/interaction/picker-carousel-feature-cycle/PickerCarouselFeatureCycle.tsx",
+      "sha256": "123381f36cd03fa6480704b3abd406e09772196a035fcee12d540f3078af69c3"
+    },
+    {
+      "bytes": 7027,
+      "path": "demos/interaction/segmented-thumb-hero/SegmentedThumbHero.tsx",
+      "sha256": "c55e1f2662eba198ccb0fbfba55e6ce37b5bf4cee2b310f33cfe06d44e1d3e41"
+    },
+    {
+      "bytes": 9632,
+      "path": "demos/interaction/theme-switch-moves/PaletteThemeRipple.tsx",
+      "sha256": "66aa7cd97905c876cda8c0e736efe53a8b19fb1546a2f9b65aa9dea82f6d189f"
+    },
+    {
+      "bytes": 5553,
+      "path": "demos/interaction/theme-switch-moves/ThemeSweepToggle.tsx",
+      "sha256": "2bc27f7ca7c358bfd3fd8e6591b1e3a5f18c48cbd842134aacaefd747598dd39"
+    },
+    {
+      "bytes": 6604,
+      "path": "demos/interaction/voice-waveform-live/VoiceWaveformLive.tsx",
+      "sha256": "77ab5983344687d7d591e2101febe8f80bd72fcef2043b470fa24fb95ee9f833"
+    },
+    {
+      "bytes": 3147,
+      "path": "demos/opening/crane-rise-reveal/CraneRiseReveal.tsx",
+      "sha256": "50035f51d88795b4a47e322f86f2efbdd41e2755356857668f555832ed66bbd0"
+    },
+    {
+      "bytes": 15007,
+      "path": "demos/opening/dataviz-landscape-open/DatavizLandscapeOpen.tsx",
+      "sha256": "f575d1387ed5fe5bd1172ab50cdda20fe0562d44bfb469ec6d199b97bacd024a"
+    },
+    {
+      "bytes": 4089,
+      "path": "demos/opening/fracture/Fracture.tsx",
+      "sha256": "0f413346a2f34863ae7cde0e000f3ee5527edb8650099e07e27001c45bc9e544"
+    },
+    {
+      "bytes": 5435,
+      "path": "demos/opening/icon-field-colorize/IconFieldColorize.tsx",
+      "sha256": "d80a950a762bddc1b1b26e6459aabdc47145316f2c873f00845bcba7a6ed6590"
+    },
+    {
+      "bytes": 3816,
+      "path": "demos/opening/letterspace-materialize/LetterspaceMaterialize.tsx",
+      "sha256": "c66c6a726608e8de3584afd8ff25406eecd387edcf313c701a14d577cf7c9341"
+    },
+    {
+      "bytes": 15356,
+      "path": "demos/opening/magician-card-flourish/MagicianCardFlourish.tsx",
+      "sha256": "b4ce830665fa3db4e82e314efd94bbac1b7777e2fab6e77a914e749244dd63de"
+    },
+    {
+      "bytes": 5061,
+      "path": "demos/opening/stroke-segment-build/StrokeSegmentBuild.tsx",
+      "sha256": "56847499d68a79584b039701ed4236194b5c2ebcdf322364e75c1e21ebce73dc"
+    },
+    {
+      "bytes": 3780,
+      "path": "demos/opening/text-as-mask/TextAsMask.tsx",
+      "sha256": "68a6ae67c43cc5b9df63280f3cc0bcf8e212cbe8c86d1c90eeafb935abf61864"
+    },
+    {
+      "bytes": 4424,
+      "path": "demos/outro/edit-hook-moves/LogoStingButton.tsx",
+      "sha256": "b693cbed3ca283502684e3585fb58844e2f707733cec9675c8376143b4cf5d43"
+    },
+    {
+      "bytes": 5729,
+      "path": "demos/outro/grain-dissolve/GrainDissolve.tsx",
+      "sha256": "3c5700bf5902266481c891f95028fa016d986f8be380485fc6d0471daf067ca0"
+    },
+    {
+      "bytes": 5460,
+      "path": "demos/outro/logo-shrink-wordmark-lockup/LogoShrinkWordmarkLockup.tsx",
+      "sha256": "d8581f081b037f36954214276aefed9039ebe8d76aadbe91ffdf7c6ff3d4a4df"
+    },
+    {
+      "bytes": 3627,
+      "path": "demos/outro/neon-triple-marquee/NeonTripleMarquee.tsx",
+      "sha256": "990ff41bf447308d6dab8b0d9d84320ed1515df6c71ab848830c173c45847df5"
+    },
+    {
+      "bytes": 9726,
+      "path": "demos/outro/ui-strip-away-outro/UiStripAwayOutro.tsx",
+      "sha256": "68bc9a8437b2c8f3f4a1980dc8b4e5a3fa4e40127615270140042e5b93a866e3"
+    },
+    {
+      "bytes": 7167,
+      "path": "demos/outro/ui-to-brand-morph/IconFlipBloomLogo.tsx",
+      "sha256": "a4ed4cd2e998df90bb16b4ae958635d14d6bdd48bcd54e2291e8780093664bc9"
+    },
+    {
+      "bytes": 7794,
+      "path": "demos/outro/ui-to-brand-morph/InputMorphsIntoLogo.tsx",
+      "sha256": "8822a5505d06a24bcde526ac47904278b4ebdb2d730504b83dfff46f62cff930"
+    },
+    {
+      "bytes": 3035,
+      "path": "demos/rhythm/beat-cut-moves/BeatCutAccelerando.tsx",
+      "sha256": "e84aa85acb422b851c1a65182538a6e23501878a0d64f143a611174832a25b1b"
+    },
+    {
+      "bytes": 4011,
+      "path": "demos/rhythm/beat-cut-moves/PaparazziFlash.tsx",
+      "sha256": "a3f622be9af943c752f7ac2ae293a7fac762c51a29d6e9812e8896cd706888f3"
+    },
+    {
+      "bytes": 4351,
+      "path": "demos/rhythm/beat-step-list-theme-cycle/BeatStepListThemeCycle.tsx",
+      "sha256": "6dfe335735c21865303c3f817489b3c81578a855a2aef4f5f9e678b56e6ac434"
+    },
+    {
+      "bytes": 5118,
+      "path": "demos/rhythm/montage-rhythm-moves/DominoCascade.tsx",
+      "sha256": "9f9bb2d3bda0766bab3f8c19c82c2c7bd7588d2b2d61e53461e74c436dd00323"
+    },
+    {
+      "bytes": 4518,
+      "path": "demos/rhythm/montage-rhythm-moves/DropBlackoutSlam.tsx",
+      "sha256": "da2f4b7a3ed1767525e33ca44551e2ca7ad02dc5104fae14f6fb2eba51ec8529"
+    },
+    {
+      "bytes": 7569,
+      "path": "demos/rhythm/montage-rhythm-moves/WrightTripleCut.tsx",
+      "sha256": "ed71ad7e2081a78876b043601a14b793c0b2637ff33cc1034e2ba93f820a76cf"
+    },
+    {
+      "bytes": 7483,
+      "path": "demos/rhythm/panel-grid-moves/ComicPanelSplit.tsx",
+      "sha256": "12f6f3e7cb1039720f4f756aa13b7ba732bdca166467bfca416858e0d2cd2919"
+    },
+    {
+      "bytes": 4315,
+      "path": "demos/rhythm/panel-grid-moves/FlipGridReflow.tsx",
+      "sha256": "b6b4edd123fadc47fa948590f4589dbe19f70b168115222dc48f52f3669aef91"
+    },
+    {
+      "bytes": 5762,
+      "path": "demos/rhythm/panel-grid-moves/GridFlashMosaic.tsx",
+      "sha256": "33188969b8e40ee8bf3a9bac2b794184a8884037021df774bacc06ff7ae7766e"
+    },
+    {
+      "bytes": 10008,
+      "path": "demos/rhythm/quad-split-parallel-scenes/QuadSplitParallelScenes.tsx",
+      "sha256": "0ef89104610b5a00fc7bb89367957fa8b42df0b616a6c98ed535af6984f07c8e"
+    },
+    {
+      "bytes": 2595,
+      "path": "demos/rhythm/rhythm-interrupt-moves/JumpCutPunchIn.tsx",
+      "sha256": "8af8c4161f1c66d15e956d1ff1d3a3e87d69bfed35733edd3086efa9bb7732b8"
+    },
+    {
+      "bytes": 3589,
+      "path": "demos/rhythm/rhythm-interrupt-moves/StrobeBlackFrames.tsx",
+      "sha256": "0b8da8214c0c3741cfd5a848cfc264e47d71c6a1d62e8ff7bc3b559c58f01f85"
+    },
+    {
+      "bytes": 5936,
+      "path": "demos/rhythm/sakuga-timing-shift/SakugaTimingShift.tsx",
+      "sha256": "bc514f8b217c102c2ebbce24a546c30e444bd8f7102efa32d22a2792da8cda50"
+    },
+    {
+      "bytes": 3381,
+      "path": "demos/rhythm/smear-multiples/SmearMultiples.tsx",
+      "sha256": "ce3d900cb4ad5cf964997a0f5d2170a5a9749ddee3962c76cdb6e7894ce4ae49"
+    },
+    {
+      "bytes": 4451,
+      "path": "demos/rhythm/spectrum-morph-ui/SpectrumMorphUi.tsx",
+      "sha256": "b161d9ae5240869fffb75a921d2d68a506d8cb0eec7e9fe9056ec65f91146669"
+    },
+    {
+      "bytes": 3377,
+      "path": "demos/rhythm/speed-ramp-freeze/FreezeAnnotateReal.tsx",
+      "sha256": "5ea9848eb760ed76123ab152d4e2b60bb3b1df9472c3b0ca12e6723fb64f35c7"
+    },
+    {
+      "bytes": 2178,
+      "path": "demos/rhythm/speed-ramp-freeze/SpeedRampReal.tsx",
+      "sha256": "f3f9e54385f0920aad4071d6f85bf9c878946ddb7908894d5802ab2ecd5f11b8"
+    },
+    {
+      "bytes": 4123,
+      "path": "demos/rhythm/trailer-grammar-moves/CardFootageCadence.tsx",
+      "sha256": "ef68729c0fc3152f4b1fda48c3bf7ef8757522c830c77069cef638d301ec8a9b"
+    },
+    {
+      "bytes": 4246,
+      "path": "demos/rhythm/trailer-grammar-moves/SmashCut.tsx",
+      "sha256": "f4ceb69ef80212c21ad14fa9857d31bdb68970812764625da05be6dfecc889ee"
+    },
+    {
+      "bytes": 3442,
+      "path": "demos/rhythm/trailer-grammar-moves/TrailerBumper.tsx",
+      "sha256": "b91f352e150d02ee286e8ed1169496503d50fed911c34381fc84195757d9b31d"
+    },
+    {
+      "bytes": 3827,
+      "path": "demos/transition/bottom-push-stack-wipe/BottomPushStackWipe.tsx",
+      "sha256": "a4c70143ab37ac55a233cf73c5c00b1fd90730e842b2d48ae24410cca134c457"
+    },
+    {
+      "bytes": 7858,
+      "path": "demos/transition/bubble-swarm-takeover/BubbleSwarmTakeover.tsx",
+      "sha256": "c30ff2b341f8777f13040c850d78695e5aaa29f71642c8beda33a192721a1724"
+    },
+    {
+      "bytes": 4620,
+      "path": "demos/transition/card-flip-reveal/CardFlipReveal.tsx",
+      "sha256": "fcce7bee9de5a7e6ce1ac74d4a122c0b2147c1c2b3da4db0f5c92103d6e084b9"
+    },
+    {
+      "bytes": 17571,
+      "path": "demos/transition/card-flock-tumble/CardFlockTumble.tsx",
+      "sha256": "d89cce89a15012180a3461ee6539ab974fc8f347e3ece9ee62270d1c166cd5c0"
+    },
+    {
+      "bytes": 6275,
+      "path": "demos/transition/circle-match-iris/CircleMatchIris.tsx",
+      "sha256": "0c2afbb49d65aa15241396fb2343ba3cb046d0958cd80a9eac1925e4f93efd20"
+    },
+    {
+      "bytes": 4824,
+      "path": "demos/transition/color-block-step-wipe/ColorBlockStepWipe.tsx",
+      "sha256": "b20b9a7065356705e27f836e2ea89c9f474e23165a4a9d383b79d5a0fd838677"
+    },
+    {
+      "bytes": 7235,
+      "path": "demos/transition/cube-navigation/CubeNavigation.tsx",
+      "sha256": "83cc2966e85698bb4c9837c896989993d3eb2ec1b32612712a69af746961d905"
+    },
+    {
+      "bytes": 3089,
+      "path": "demos/transition/gradient-transition/GradientTransition.tsx",
+      "sha256": "a0dfd2721778d9786b99be67b74da846725fadedcdac0a8a08b7ed3e2bb90cc3"
+    },
+    {
+      "bytes": 6062,
+      "path": "demos/transition/line-carry-transition/LineCarryTransition.tsx",
+      "sha256": "e3cf0eafab68e3fced8705adedadcd685033af84595d3c738e92af782687ac95"
+    },
+    {
+      "bytes": 4669,
+      "path": "demos/transition/mosaic-reframe/MosaicReframe.tsx",
+      "sha256": "78487db1769be4203165835c823c663b676223ee8ad84f3da6e04a7740e89766"
+    },
+    {
+      "bytes": 4159,
+      "path": "demos/transition/page-turn-transitions/BarnDoorSplit.tsx",
+      "sha256": "5d1d04f5685e9d270a68beea2c02b6ab90f208f4e3d7ded1722fe260608cfc14"
+    },
+    {
+      "bytes": 4227,
+      "path": "demos/transition/page-turn-transitions/CubeRotate.tsx",
+      "sha256": "5270e37dd065f5646254ea7c3607ec93e623636486815079b6a5e23157a91f1f"
+    },
+    {
+      "bytes": 9283,
+      "path": "demos/transition/paper-plane-messenger/PaperPlaneMessenger.tsx",
+      "sha256": "9355c2bd64750b2d2ca0e7789d61029d10b6554689ce7eb4ea90ab109cee1d37"
+    },
+    {
+      "bytes": 3901,
+      "path": "demos/transition/print-texture-transitions/InkBleedReveal.tsx",
+      "sha256": "3f951b09da1fb2a8e1e618661c90a5e944649fa4be49118b536da3a8f39840f8"
+    },
+    {
+      "bytes": 2830,
+      "path": "demos/transition/shot-transitions/MaskWipeReal.tsx",
+      "sha256": "92eb6e2a34f4f075b286e03fa4ee000fda8369ff5f3b2bd3a02964e2efff3713"
+    },
+    {
+      "bytes": 4743,
+      "path": "demos/transition/shot-transitions/PortalWipeV2.tsx",
+      "sha256": "037b4f5bdd9b5c3d73a11d2932acddc471127e7051c122aee0f6423b77f511c1"
+    },
+    {
+      "bytes": 2418,
+      "path": "demos/transition/shot-transitions/WhipBrakeReal.tsx",
+      "sha256": "87c84d66f0675d921ca4cfd55a9fd9c5a5ba9a7717870d4b44c4c391c81ad063"
+    },
+    {
+      "bytes": 1942,
+      "path": "demos/transition/shot-transitions/WhipPanReal.tsx",
+      "sha256": "eda7132e8c2e142be87995b50a30e48c60c925872a9047c6bb8f54a8406be37f"
+    },
+    {
+      "bytes": 3654,
+      "path": "demos/transition/tear-streak-transitions/GlitchDisplace.tsx",
+      "sha256": "4115ff91755da2c21f58962141dbbce3f6318a71d21b9cea8dc67be5f7cc93c6"
+    },
+    {
+      "bytes": 3598,
+      "path": "demos/transition/transition-hidden-cut/InvisibleCut.tsx",
+      "sha256": "41e68ca391f37c1ca10288407283c38f71844ab7f796b36a37056d7c56f43ad5"
+    },
+    {
+      "bytes": 4656,
+      "path": "demos/transition/transition-hidden-cut/LightLeakBurn.tsx",
+      "sha256": "31e4be432a84e13d6fa233ef3aff4a40646d67b949e16e9a5bea2a8f7b62b5fb"
+    },
+    {
+      "bytes": 4291,
+      "path": "demos/transition/transition-hidden-cut/VersusSlam.tsx",
+      "sha256": "ec0f28e508e4c3706a642798ed8516d90ef1b39c7350e1af15e0f5e9f4cb481a"
+    },
+    {
+      "bytes": 5295,
+      "path": "demos/transition/transition-travel/LetterformZoom.tsx",
+      "sha256": "272b01d64d73252aab1b70b8f6214656d046704266ca06e5306edb66fc75da13"
+    },
+    {
+      "bytes": 3743,
+      "path": "demos/transition/transition-travel/SharedElementMorph.tsx",
+      "sha256": "fe5d3a1071e71cce96470939bb6f4b4e7dc52e61058697ffa010c3e17e3521f3"
+    },
+    {
+      "bytes": 3868,
+      "path": "demos/transition/white-flash-logo-simplify-cut/WhiteFlashLogoSimplifyCut.tsx",
+      "sha256": "3799ba945628b14b28232b7be2a193ef0669faf47f3f62686a8cd4af58eb29d3"
+    },
+    {
+      "bytes": 4339,
+      "path": "demos/transition/wipe-transitions/BlindsSlice.tsx",
+      "sha256": "9b650fc5e84c438a016f16f14afb2509f73ccf33eb3ec5b3d2d49cc9a637dd0e"
+    },
+    {
+      "bytes": 3393,
+      "path": "demos/transition/wipe-transitions/ClockWipe.tsx",
+      "sha256": "44a9acb719879eb491d20aa52119cda5d0517e9799d2d0c8ac996c6fd3689ad7"
+    },
+    {
+      "bytes": 2681,
+      "path": "demos/typography/blur-slide/BlurSlide.tsx",
+      "sha256": "1ad15a7dd560d43fe4a6f40a823d69d6f87ac4f5fc31196f556b31342fd8932f"
+    },
+    {
+      "bytes": 2721,
+      "path": "demos/typography/brace-expand/BraceExpand.tsx",
+      "sha256": "ef6f5f379c7c785d9b6d9129095920b683a380b0e6eae14d12cb703dcc6c8cb8"
+    },
+    {
+      "bytes": 4314,
+      "path": "demos/typography/cel-flash-stomp/CelFlashStomp.tsx",
+      "sha256": "f165ca8da06930e0211e34ad52c269023b3303f89dbb08495e5ebf092d7ed6a6"
+    },
+    {
+      "bytes": 5400,
+      "path": "demos/typography/countdown-arc-scatter/CountdownArcScatter.tsx",
+      "sha256": "ab1c55fff0b9122fa06d7ec87f3e21b3c1cbc716e50d8bab0f910ffb3cb7c571"
+    },
+    {
+      "bytes": 4608,
+      "path": "demos/typography/flying-words/FlyingWords.tsx",
+      "sha256": "d82f4a34b0b14538cf6404c1dcfa5468a185eb5fa2bd5000595365356387c0b3"
+    },
+    {
+      "bytes": 3954,
+      "path": "demos/typography/glitch-cycle/GlitchCycle.tsx",
+      "sha256": "ee7489eb08b840a1989aedc2aa10d3f008e95d256f336ae89cb287230528be1a"
+    },
+    {
+      "bytes": 10635,
+      "path": "demos/typography/gradient-word-sweep/GradientWordSweep.tsx",
+      "sha256": "36f6c2deadea09748bc3894c9d8e1960dfce42996fed370f8e193cc0dacc6799"
+    },
+    {
+      "bytes": 3788,
+      "path": "demos/typography/marker-underline-title/MarkerUnderlineTitle.tsx",
+      "sha256": "5881cb0b5e38b53eec9dae5093b9dfdb4c69d5b6cf76cf587bc9b123d0e38477"
+    },
+    {
+      "bytes": 4901,
+      "path": "demos/typography/outline-word-fill/OutlineWordFill.tsx",
+      "sha256": "66f522bf6e6f1034f5386d516d20ff36fcc23fc0bf1e418f83d1fd432846c9bf"
+    },
+    {
+      "bytes": 5152,
+      "path": "demos/typography/pill-chip-slot-cycle-handled/PillChipSlotCycleHandled.tsx",
+      "sha256": "0daa028b6476a5d43cc0c8ccf5d45203b161d3f0b99d7dc24e01b4b37cad3bad"
+    },
+    {
+      "bytes": 6369,
+      "path": "demos/typography/pill-slot-cycle/PillSlotCycle.tsx",
+      "sha256": "a8db19162d267d107904fd8e46573e9b74854bcbf871dd604fac56ff58b87f2f"
+    },
+    {
+      "bytes": 2368,
+      "path": "demos/typography/scramble/Scramble.tsx",
+      "sha256": "5ca76d50731f228fb46076706c9442acc03d9afaed903f6ca8cfff8c36787081"
+    },
+    {
+      "bytes": 5807,
+      "path": "demos/typography/split-flap-title/SplitFlapFlip.tsx",
+      "sha256": "bbd82fe1d80cffa5a79a1018ac160a240cca38fe242cfbc8c950ab7e3470fa05"
+    },
+    {
+      "bytes": 4724,
+      "path": "demos/typography/text-column-converge/TextColumnConverge.tsx",
+      "sha256": "786fbf0226ab8e8e4c38f2635a4e9a3368adcf04c0fe00195f54a018486fdf23"
+    },
+    {
+      "bytes": 5560,
+      "path": "demos/typography/title-demote-to-label/TitleDemoteToLabel.tsx",
+      "sha256": "ffcfee81a30bfef2ad6b579710824e0ea6086dd5dc644a42f760987011ea0b97"
+    },
+    {
+      "bytes": 4145,
+      "path": "demos/typography/type-assembly-moves/LetterformDriftAssembly.tsx",
+      "sha256": "dcf5a649fff38bb56b5147b8eb8b70240421ee7b6a82e193efe6b8843c829075"
+    },
+    {
+      "bytes": 3779,
+      "path": "demos/typography/type-assembly-moves/SplitTextStagger.tsx",
+      "sha256": "314fae39b2cd73d031ebfb58fc65d850c9cce01924e5c926155ccfc0f84b5bd5"
+    },
+    {
+      "bytes": 3994,
+      "path": "demos/typography/type-assembly-moves/TextOnPath.tsx",
+      "sha256": "98f06f0adb9cd5a479fe2a55ac16f1f589bfae707f29163454e7da71dbc8618b"
+    },
+    {
+      "bytes": 3970,
+      "path": "demos/typography/type-assembly-moves/TrackingExpandReveal.tsx",
+      "sha256": "86880648f010b1b39a0500152d3ac0bfb10622f17c0dbf6dd243af64dbe11732"
+    },
+    {
+      "bytes": 3824,
+      "path": "demos/typography/type-entrance-moves/LetterDropPhysics.tsx",
+      "sha256": "1aefaaba267e4b7084b094c18c35a818da2ba91d4260412ed9ee0e8197e9b442"
+    },
+    {
+      "bytes": 3195,
+      "path": "demos/typography/type-entrance-moves/ScrambleDecode.tsx",
+      "sha256": "73a045306c38a5fd2b08bf505bf0226a25c3bb520bb77d5e9158d9a2c49660eb"
+    },
+    {
+      "bytes": 3859,
+      "path": "demos/typography/type-rhythm-sync/FontWeightPump.tsx",
+      "sha256": "a79557ac62b13fce83f2477ba15dadebb641006acd1d20f1b2d941f465e7671c"
+    },
+    {
+      "bytes": 3023,
+      "path": "demos/typography/type-rhythm-sync/KaraokeFillSync.tsx",
+      "sha256": "eddd5a37905bbc7be54066a349dec2c48ebc1e856b30b9f6de906b6c6a374579"
+    },
+    {
+      "bytes": 4784,
+      "path": "demos/typography/typewriter-moves/TerminalTypewriter.tsx",
+      "sha256": "e589839ebf66e85c8710ddaf16f7eca4b8d994d16851345038f6cadcf6456f72"
+    },
+    {
+      "bytes": 3876,
+      "path": "demos/typography/typewriter-moves/TypewriterErrorRetype.tsx",
+      "sha256": "5af87340386005641592173da47d049a53b965db7bb7c2bc8a9a0f77d3821560"
+    },
+    {
+      "bytes": 3680,
+      "path": "demos/typography/typing-code-block/TypingCodeBlock.tsx",
+      "sha256": "2dafbfe43455a645865ffed317f414fc1855342e98375a56da5a76ce61b10724"
+    },
+    {
+      "bytes": 3898,
+      "path": "demos/typography/vertical-word-roll-blur-cycle/VerticalWordRollBlurCycle.tsx",
+      "sha256": "b5f5adb87fdd07730759926e765bc4ce81ee97e47cc4379bd98b4c7a5e14b634"
+    },
+    {
+      "bytes": 15462,
+      "path": "demos/typography/word-relay-filmstrip/WordRelayFilmstrip.tsx",
+      "sha256": "683f51fb630b93d1dddc4918e8a9e3d694e509f420df1645936590ce8e551f5a"
+    },
+    {
+      "bytes": 7079,
+      "path": "demos/typography/word-relay-geometry/WordRelayGeometry.tsx",
+      "sha256": "02d2a038ab576b6743bf417572694e09833fed49319174c3005712e6fd0ffc7b"
+    },
+    {
+      "bytes": 4591,
+      "path": "demos/ui-entrance/avatar-bracket-carousel/AvatarBracketCarousel.tsx",
+      "sha256": "b9f125b0f4f1f9ff6a41a05147a7111e85e89015e73e0223b843a87523715efc"
+    },
+    {
+      "bytes": 11031,
+      "path": "demos/ui-entrance/bezier-source-converge-merge/BezierSourceConvergeMerge.tsx",
+      "sha256": "a58bdab4308a4f6d92282b969c494359547445b4f8ac92d3742798d31a6adf07"
+    },
+    {
+      "bytes": 3837,
+      "path": "demos/ui-entrance/card-stack/CardStack.tsx",
+      "sha256": "52d1175ca2e1cbe3cc8cd9eb60d723dfef392b500ee3c22d8dc87b47ec8c4f2d"
+    },
+    {
+      "bytes": 5032,
+      "path": "demos/ui-entrance/carousel-3d/Carousel3D.tsx",
+      "sha256": "1cd70294e4f695a576c92c2db27d697f2f5b28a7b63788a8f406965a83470006"
+    },
+    {
+      "bytes": 3447,
+      "path": "demos/ui-entrance/cloner-depth-echo/ClonerDepthEcho.tsx",
+      "sha256": "de76c070fe29cff792e4b49602d4934fcc3ac55f8ec0786713311a26b407a3cb"
+    },
+    {
+      "bytes": 9854,
+      "path": "demos/ui-entrance/doc-park-left-pill-deal/DocParkLeftPillDeal.tsx",
+      "sha256": "852b32b59cc3a894d789ba5e18029bc1e67b70757775488c6fb0b83ce4cb100a"
+    },
+    {
+      "bytes": 6787,
+      "path": "demos/ui-entrance/draw-svg-trace/DrawSvgTrace.tsx",
+      "sha256": "654e26eef7357c64a828a6cbbd790331f9865e0e9c18768de15de46c281aacf5"
+    },
+    {
+      "bytes": 3945,
+      "path": "demos/ui-entrance/element-body-moves/AxialStretch.tsx",
+      "sha256": "90979985198b44c1fc620e2a8eaad86c09b2d013533d6528ef8892919c86c259"
+    },
+    {
+      "bytes": 4513,
+      "path": "demos/ui-entrance/element-body-moves/ContactShadowLift.tsx",
+      "sha256": "f29a6d77b407b9c6ad8caa8fe9e5c12cfa2d51202d6ea8258cae5015a736843c"
+    },
+    {
+      "bytes": 15894,
+      "path": "demos/ui-entrance/floating-glossy-label-pills/FloatingGlossyLabelPills.tsx",
+      "sha256": "4bb7d460ac6201e58b8df4a1f5c6feea06f1f860cd3605b926a5ae138681a0e1"
+    },
+    {
+      "bytes": 22466,
+      "path": "demos/ui-entrance/integration-hub-map/IntegrationHubMap.tsx",
+      "sha256": "fcd9ed29f4f0ca41a05377f31459c2dba664784ea7f5c900abefabc2dc59f3c9"
+    },
+    {
+      "bytes": 3087,
+      "path": "demos/ui-entrance/list-reveal/ListReveal.tsx",
+      "sha256": "ac1eb531a625376e355b1970e6a7774e726b7752914544f36ae7ce096f237792"
+    },
+    {
+      "bytes": 6303,
+      "path": "demos/ui-entrance/morph-from-primitive/MorphFromPrimitive.tsx",
+      "sha256": "f18d82ce6675be5c0b097969285a973c122633f2844fd1c4a81cc1c6a97a0d5e"
+    },
+    {
+      "bytes": 14086,
+      "path": "demos/ui-entrance/neon-frame-forerun/NeonFrameForerun.tsx",
+      "sha256": "008a3b01017c88bb445e7faf916ad4857949c91e9603373edfdb92c23bb4b9a0"
+    },
+    {
+      "bytes": 13670,
+      "path": "demos/ui-entrance/neon-frame-orbit-drop/NeonFrameForerunOrbit.tsx",
+      "sha256": "5005f06992ef674174dc09979bde3314419dd4dead19cf3e4580b248cdca8521"
+    },
+    {
+      "bytes": 2050,
+      "path": "demos/ui-entrance/page-waterfall-wall/PageWaterfallWall.tsx",
+      "sha256": "b3e2de8674a22c0d1f523db4bf40443447e143b35b7d3ecd81ff3ea8db4f9f79"
+    },
+    {
+      "bytes": 4082,
+      "path": "demos/ui-entrance/page-waterfall-wall/VerticalTicker.tsx",
+      "sha256": "e4f90b838559beae465c6bb08736c00097bb0107d6dd4a378f64308e2acf1bae"
+    },
+    {
+      "bytes": 5951,
+      "path": "demos/ui-entrance/paper-craft-moves/MaskingTapeSlap.tsx",
+      "sha256": "5d36af725cbc9268cc23b039208a7cd21b2237d6e73f7929e20beddb1a481340"
+    },
+    {
+      "bytes": 5586,
+      "path": "demos/ui-entrance/paper-craft-moves/PopupBookRise.tsx",
+      "sha256": "f1baa230ff76c80de5a60ed52e7c667b7f24acca0ac5971c7ed90a8da3cbbf11"
+    },
+    {
+      "bytes": 7055,
+      "path": "demos/ui-entrance/product-card-progressive-assemble/ProductCardProgressiveAssemble.tsx",
+      "sha256": "e0586d6b7869c5fee3828272be21cf68d4e93bc13d190732b46be365c77f998c"
+    },
+    {
+      "bytes": 2010,
+      "path": "demos/ui-entrance/radial-wave/RadialWave.tsx",
+      "sha256": "e0c954b2c9d400f68933e7f58c1edd2120493271f46a768fe638b3c8cba6809c"
+    },
+    {
+      "bytes": 6067,
+      "path": "demos/ui-entrance/research-card-stack-scroll/ResearchCardStackScroll.tsx",
+      "sha256": "a9747d38a761cb499d9b7c1c41eecbc151fae9bf767edc0818b11a57a92d7983"
+    },
+    {
+      "bytes": 13458,
+      "path": "demos/ui-entrance/runway-ground-skim/RunwayGroundSkim.tsx",
+      "sha256": "e2197acf61a4fbfd29faa912ef7354a1d13c8f2662256aa9757ab7c1f1415a8d"
+    },
+    {
+      "bytes": 10984,
+      "path": "demos/ui-entrance/skeleton-reveal/SkeletonReveal.tsx",
+      "sha256": "a2338fd7daf9988805794b69ed1c75f2a035dae1336a7cca65ee3eb3534d5c47"
+    },
+    {
+      "bytes": 2918,
+      "path": "demos/ui-entrance/svg-shape-morph/SvgShapeMorph.tsx",
+      "sha256": "9e6bfaca697bd36837b3c31163d607863942570daaa0b5abda0c0c5f131172ed"
+    },
+    {
+      "bytes": 3928,
+      "path": "demos/ui-entrance/value-stagger-gradient/ValueStaggerGradient.tsx",
+      "sha256": "bff99f80839ed7e323cc38c85f61bbf4ce0e609e75a9e89645718e3e1ab053f7"
+    },
+    {
+      "bytes": 4787,
+      "path": "demos/ui-entrance/wall-reveal-moves/BentoLightUp.tsx",
+      "sha256": "eccb4c2211af30cb26b391ea734c326599958906411e9a3c019acfeceb87fd69"
+    },
+    {
+      "bytes": 5958,
+      "path": "demos/ui-entrance/wall-reveal-moves/GridWaveFlip.tsx",
+      "sha256": "c39a5cabdca00167d3354667442b4de477b76a36576815abc483609f1198f481"
+    },
+    {
+      "bytes": 5453,
+      "path": "demos/ui-entrance/wall-reveal-moves/WireframeDrawOn.tsx",
+      "sha256": "18d2fc4192a67dbfdcfca390d753eb52f6bcb50be316b71480e54ed32208558f"
+    },
+    {
+      "bytes": 257589,
+      "path": "gallery/api/library.json",
+      "sha256": "40057b3452be2ffc58a9c64b30f3af1efc7e0d3c8ff6fef675e44591523909f3"
+    },
+    {
+      "bytes": 5575,
+      "path": "references/shots/ATTRIBUTION.md",
+      "sha256": "3853b1a686e1ce3ad52884af392167c1e659a48da5b0d435f031386c738f1f0c"
+    },
+    {
+      "bytes": 3028,
+      "path": "references/shots/camera/basic-3d-scene.md",
+      "sha256": "5783a05d2081d94e7d4b382615d6d7c369e700bdd0947dc02dfded61661af298"
+    },
+    {
+      "bytes": 2044,
+      "path": "references/shots/camera/crash-zoom-punch.md",
+      "sha256": "7ff7214d17dc305718683ae15b308ab6704a2cc82ee82a6afe9db5cbe7a417f4"
+    },
+    {
+      "bytes": 2925,
+      "path": "references/shots/camera/cursor-flyover.md",
+      "sha256": "811e8864bc9ab325ec2699d3945edadf9b5a07191356e14b35d92d7adf5783f5"
+    },
+    {
+      "bytes": 2254,
+      "path": "references/shots/camera/depth-layer-moves.md",
+      "sha256": "3caa8ebc9c5ae5af8dfe3932f43bc88c1f1bd5d4e6980a0c0461be121bcf1acc"
+    },
+    {
+      "bytes": 3630,
+      "path": "references/shots/camera/graze-face-tour.md",
+      "sha256": "5ce46610dee7fbdd5d07679353d71c464ba8797273351bc8dbaac5182db5b9a3"
+    },
+    {
+      "bytes": 3435,
+      "path": "references/shots/camera/overhead-camera-moves.md",
+      "sha256": "3ae9c44dbaae7ff0bef4e6d3ea5357985e88f9813f8720f62127900d0bd4d7ce"
+    },
+    {
+      "bytes": 3192,
+      "path": "references/shots/camera/space-camera-moves.md",
+      "sha256": "0ae6452bf1fefca34b7dc6b7761e98ff4347b3654873c046183b1a8e07ed26f9"
+    },
+    {
+      "bytes": 3218,
+      "path": "references/shots/camera/steep-tilt-glide.md",
+      "sha256": "6dfdc1e8f114dfbe75f2eb6a7c0824930fbf77d83a2368818088f0cc05881703"
+    },
+    {
+      "bytes": 4763,
+      "path": "references/shots/camera/tension-camera-moves.md",
+      "sha256": "6612ba598559261d2bb556bd536eeb1659490102a48b57e034fe053e10774631"
+    },
+    {
+      "bytes": 2962,
+      "path": "references/shots/camera/terminal-3d.md",
+      "sha256": "956b483a20e9bf49c192b53ed060fa9690cc5eee771e0d3ca29758768836bb4c"
+    },
+    {
+      "bytes": 3305,
+      "path": "references/shots/data/avatar-grid-radial-build-colorize.md",
+      "sha256": "d63d83204608f29f8798726efa3e97800bc04fb15e98a23a2abe14a04d0ed033"
+    },
+    {
+      "bytes": 2390,
+      "path": "references/shots/data/before-after-slider-scrub.md",
+      "sha256": "32b23cedd2529e9b51ea2061f1eecfbee391bb4dc56bcd420fc48426af54d278"
+    },
+    {
+      "bytes": 3375,
+      "path": "references/shots/data/chart-live-moves.md",
+      "sha256": "a24e5d3711e75d00670d0cb7595f684cf02fd7ddebadafd2fc12974e273359b9"
+    },
+    {
+      "bytes": 2888,
+      "path": "references/shots/data/counter-confetti.md",
+      "sha256": "9a05ad8cb6b0c43b5457b5dc6012b44103fde5094ac016f61dd5bfe1c13e74fa"
+    },
+    {
+      "bytes": 2755,
+      "path": "references/shots/data/gauge-readout-moves.md",
+      "sha256": "dbd2801aa6ce647725230216e8d4bc593e6ad91f097ad3e4d3555211d7966698"
+    },
+    {
+      "bytes": 2982,
+      "path": "references/shots/data/hatch-depth.md",
+      "sha256": "92d1b1a213ee077a7fb9c4615da26d90543d2e22c26888c61f7a15f51ff534ca"
+    },
+    {
+      "bytes": 3317,
+      "path": "references/shots/data/odometer-digit-roll.md",
+      "sha256": "8f8b356fc57d914d4b324244fe437b232fe10030d212482a31b19a932c56513c"
+    },
+    {
+      "bytes": 2715,
+      "path": "references/shots/data/particle-celebrate-hits.md",
+      "sha256": "8b26015c0ca9cd1f4a4ea43534ce7e4e5931795ee57357f228aac0d9fd7613cb"
+    },
+    {
+      "bytes": 2192,
+      "path": "references/shots/data/particle-sand-fill.md",
+      "sha256": "cff599b6d2ee509dc0aa393a1ed26f62806e1c589f08c4c6f20ba32fc19ae237"
+    },
+    {
+      "bytes": 2964,
+      "path": "references/shots/data/scroll-brake-moves.md",
+      "sha256": "7ee15612aaa1539653a144939f571ef5e0d71252f46610ce6bb6b9a872c8f0c6"
+    },
+    {
+      "bytes": 2513,
+      "path": "references/shots/data/timeline-travel.md",
+      "sha256": "724840cde4d7bd72374da2a943ac94aee0255a4d1bef055dda6ddf4a6764e227"
+    },
+    {
+      "bytes": 3955,
+      "path": "references/shots/effects/assemble-then-type-flyin.md",
+      "sha256": "9595dc6c901098dc40863346b38c452eb79db316fb78f2b50da7edbc59bb9c55"
+    },
+    {
+      "bytes": 3513,
+      "path": "references/shots/effects/aurora-bloom-bg-flip.md",
+      "sha256": "1f07bb3cf98476d7703be50ae78e8949a47fa8d745972b1a38c064cb8f7ee365"
+    },
+    {
+      "bytes": 3557,
+      "path": "references/shots/effects/brand-frame-snap.md",
+      "sha256": "76df6e490212f838a2c613b4ba28a32ae3149d9c5fec3cd3a51a64768e65b3c0"
+    },
+    {
+      "bytes": 4280,
+      "path": "references/shots/effects/dashboard-glow-highlight-pill.md",
+      "sha256": "1c67ede74198d0eced8ffe7e14cc929f803d0a05a8102cd7d1762c1991675176"
+    },
+    {
+      "bytes": 2663,
+      "path": "references/shots/effects/fui-hud-moves.md",
+      "sha256": "480e920e376e8f18529142d06c4de84544406b0e5f2dd37062dfe274b3f51305"
+    },
+    {
+      "bytes": 3631,
+      "path": "references/shots/effects/glow-flyline-moves.md",
+      "sha256": "e6e11ac3659debfc8918c956c4a3c5ccb202c76f89d5d3b09717fb240be6f8be"
+    },
+    {
+      "bytes": 2904,
+      "path": "references/shots/effects/icon-performance-moves.md",
+      "sha256": "e643217134fe454c5049a4bf02ece3a2c0d066a4bf7f2c92e3d2c17daed351fe"
+    },
+    {
+      "bytes": 3443,
+      "path": "references/shots/effects/impact-feedback.md",
+      "sha256": "823876ebd6b955693ce6665db33cbb9fb07f6c5ab5ca6f2da9212b0bb16b94d6"
+    },
+    {
+      "bytes": 3353,
+      "path": "references/shots/effects/light-play-moves.md",
+      "sha256": "e45f10c67bca8d9bf20af879f60328182ba71a67fa0f90c082f8c8feedb42328"
+    },
+    {
+      "bytes": 3159,
+      "path": "references/shots/effects/line-boil.md",
+      "sha256": "751b96babc027ee5e8f3c45267e0374fbc2c94386c7d57a2eed1b918092bc734"
+    },
+    {
+      "bytes": 3150,
+      "path": "references/shots/effects/radial-ripple-phone-chips.md",
+      "sha256": "46b805ee36f58cf3f0277c44fa053f463b48861a70d15dc4b2f3ee387fa76bf2"
+    },
+    {
+      "bytes": 3947,
+      "path": "references/shots/effects/riso-print-hits.md",
+      "sha256": "aa97fa4a3d0c097563bd409c80c37e714fea534b88bfe66dd6eccd375200a227"
+    },
+    {
+      "bytes": 3117,
+      "path": "references/shots/effects/scan-bracket-sweep.md",
+      "sha256": "e80d67b51792b6355baca5f0547d8b9255675ec3fc6b935b43b57f44917cc686"
+    },
+    {
+      "bytes": 3534,
+      "path": "references/shots/effects/scanline-annotate-focus.md",
+      "sha256": "227490e2ce85ae5b011f81bc4b8c62cfe844edf716373adad8af41324d1dc54d"
+    },
+    {
+      "bytes": 3767,
+      "path": "references/shots/effects/scanline-assemble-flyin.md",
+      "sha256": "1a829af9a6dba139d48f21bd85f27fdfbf34beeb843bbec8ac1e289c5c2fd96a"
+    },
+    {
+      "bytes": 3816,
+      "path": "references/shots/effects/slam-entrance-moves.md",
+      "sha256": "69ae6548395c30d1fe45266da594af8e241655914f7395a361c73772a5092cb7"
+    },
+    {
+      "bytes": 3562,
+      "path": "references/shots/effects/spotlight-sweep-moves.md",
+      "sha256": "35b5a5bde17662af0e303315c5a34f9d79bce89b4779e0c74f0452a80c99af94"
+    },
+    {
+      "bytes": 3440,
+      "path": "references/shots/interaction/ai-stream-response.md",
+      "sha256": "a44dc2f57dcc3e367e21ecd71669f6550262e5746be0af87e95309ed40308e65"
+    },
+    {
+      "bytes": 3729,
+      "path": "references/shots/interaction/autolayout-gap-dial.md",
+      "sha256": "35a594da44e545d2b265433f97c43541e96ed1a97409edcd6acae0f574fd4b88"
+    },
+    {
+      "bytes": 4493,
+      "path": "references/shots/interaction/canvas-materialize-moves.md",
+      "sha256": "8f62da7fc1ffcfa904f35c42ca68464632e62cd0178878868cf53926d3346045"
+    },
+    {
+      "bytes": 3977,
+      "path": "references/shots/interaction/chip-grid-single-select-blackout.md",
+      "sha256": "566389d19c29cd07713470b0fa2fe66c6a0480d567248abd5e3aa342a06282ac"
+    },
+    {
+      "bytes": 4039,
+      "path": "references/shots/interaction/chip-lift-to-user-pill.md",
+      "sha256": "70877c76fb0fbf049eefbcc9dc2cea4265c00219847b93fab34e7f3b31825a0c"
+    },
+    {
+      "bytes": 4510,
+      "path": "references/shots/interaction/collab-cursor-moves.md",
+      "sha256": "5573e13795e0f0080c9a7e56d217c508d0b12d3474095f6069763e9a92338305"
+    },
+    {
+      "bytes": 2420,
+      "path": "references/shots/interaction/command-palette-summon.md",
+      "sha256": "5ddb0ab973fba05682f66b0fe1c873a24e274de465a20ace30311b6830d9957d"
+    },
+    {
+      "bytes": 3845,
+      "path": "references/shots/interaction/glass-pill-dictation-typing.md",
+      "sha256": "fd41dce82df9de936d958fee0640d0b411f13a5e0f71711280076a848e639036"
+    },
+    {
+      "bytes": 4009,
+      "path": "references/shots/interaction/hashtag-to-pill-materialize.md",
+      "sha256": "c2376c04e432f54f7b24c9975d3d69741a38ed14be382582cef6f040351dff80"
+    },
+    {
+      "bytes": 3384,
+      "path": "references/shots/interaction/input-trigger-moves.md",
+      "sha256": "4ad36f963da66a7b1c9315da7f80ff75fe3e44d687036c876aebdc1b7484a992"
+    },
+    {
+      "bytes": 3802,
+      "path": "references/shots/interaction/picker-carousel-feature-cycle.md",
+      "sha256": "0c904f96ec259632dc058e4457ff40d6dbcb0458cf88cd0cbe132fe6956afe0c"
+    },
+    {
+      "bytes": 3757,
+      "path": "references/shots/interaction/segmented-thumb-hero.md",
+      "sha256": "709e292c24992dee4527b81e7233f2020ce391a52930c4bbb70b2cf667434a1e"
+    },
+    {
+      "bytes": 2760,
+      "path": "references/shots/interaction/theme-switch-moves.md",
+      "sha256": "9f6265079d04714f3636c6d1e1a58f38ca1fc0d52858b3f9add64aa84561ce47"
+    },
+    {
+      "bytes": 2816,
+      "path": "references/shots/interaction/type-and-filter.md",
+      "sha256": "7d700b741d8dd7505afefe8615e633b4faa4a6391fc7c605ed7de8bf26f42534"
+    },
+    {
+      "bytes": 3740,
+      "path": "references/shots/interaction/voice-waveform-live.md",
+      "sha256": "d5835944532b621f55fef1894bbf6e7ade6c453402a8a9a01133626b81708d98"
+    },
+    {
+      "bytes": 2409,
+      "path": "references/shots/opening/brand-ink-open.md",
+      "sha256": "e0611980f4bce40459337e8f9a26162df2239f7e1513c4745b859bda7bfbcbba"
+    },
+    {
+      "bytes": 2920,
+      "path": "references/shots/opening/crane-rise-reveal.md",
+      "sha256": "4d3b7e5b49d12034d511e4cc9035861b9e7a8b46a605d8e6c5483a6de8a6f4f5"
+    },
+    {
+      "bytes": 4822,
+      "path": "references/shots/opening/dataviz-landscape-open.md",
+      "sha256": "40318d4903ce1aecf1b39a0beb7738e7ec9b41f35ce49978eafe875efa402439"
+    },
+    {
+      "bytes": 3184,
+      "path": "references/shots/opening/fracture.md",
+      "sha256": "4d0b2a76c2bd4a65eec3dd8e586e8ce841d3887ba8eeaffdca9d44fc64a1413b"
+    },
+    {
+      "bytes": 3339,
+      "path": "references/shots/opening/icon-field-colorize.md",
+      "sha256": "987a9354ef9f933965c5bea27c6aa9b8e22b9150114b2c7dd85052f2c692b6a4"
+    },
+    {
+      "bytes": 3206,
+      "path": "references/shots/opening/letterspace-materialize.md",
+      "sha256": "f6632e8da2ab2bef13248514617e3e636c79d9140de4605997312b01060ddd4a"
+    },
+    {
+      "bytes": 4375,
+      "path": "references/shots/opening/magician-card-flourish.md",
+      "sha256": "9a92ef4e4c2b1256abbec0e0ec9b6dd94d46131d4b83f2e0937c10af2e3c27fd"
+    },
+    {
+      "bytes": 3707,
+      "path": "references/shots/opening/spotlight-hero-card.md",
+      "sha256": "208e4df079bf011e7a10d5bc62699a87f76e353d52b64442278d8aaaaf79d0b2"
+    },
+    {
+      "bytes": 2499,
+      "path": "references/shots/opening/stroke-segment-build.md",
+      "sha256": "05cbabf125c1ff573d2f5f7b3899fa98cfb5cb880fa9683ab3180f2e0f7e5b9b"
+    },
+    {
+      "bytes": 3100,
+      "path": "references/shots/opening/text-as-mask.md",
+      "sha256": "2fed719c299185b875d086b0027f38a3d64cc4707f9e8a0856cde854db3c7b35"
+    },
+    {
+      "bytes": 1926,
+      "path": "references/shots/outro/edit-hook-moves.md",
+      "sha256": "1baf040246f537057fa7ef22a3fcb1607a6d297c1495e1808d071e6564720263"
+    },
+    {
+      "bytes": 3070,
+      "path": "references/shots/outro/grain-dissolve.md",
+      "sha256": "62eb469fe414c08e5807e2d13b481e84b39f043904744668a0ed9594114fe89b"
+    },
+    {
+      "bytes": 3108,
+      "path": "references/shots/outro/logo-shrink-wordmark-lockup.md",
+      "sha256": "1f76c5434a85bf2e5b8867142419577348adfe265fb215e460ec2b7e239b189b"
+    },
+    {
+      "bytes": 3790,
+      "path": "references/shots/outro/neon-triple-marquee.md",
+      "sha256": "5e15f43be56a4f3dc9e784c9cc45e42823a859c45a0065e5141be1e843450b2a"
+    },
+    {
+      "bytes": 3471,
+      "path": "references/shots/outro/outro-group-photo-launch.md",
+      "sha256": "a070c08898bc0701049de5b18ac75470b60b6841e53e1a6c4edfbe22165559b4"
+    },
+    {
+      "bytes": 4132,
+      "path": "references/shots/outro/ui-strip-away-outro.md",
+      "sha256": "db597a2edd6fbcecd7172585a7a8724f4f17cc29bf96715d2f9377a8b7af6669"
+    },
+    {
+      "bytes": 4749,
+      "path": "references/shots/outro/ui-to-brand-morph.md",
+      "sha256": "006c3b4212594b13e1ddeea9cac8ea1cc71d37747acde45b19a72dc943747108"
+    },
+    {
+      "bytes": 4255,
+      "path": "references/shots/rhythm/beat-cut-moves.md",
+      "sha256": "8ddffa6bffa58ce9bd7573211e0decd7182e4719b3772a48e9b27085b325d8e7"
+    },
+    {
+      "bytes": 3894,
+      "path": "references/shots/rhythm/beat-step-list-theme-cycle.md",
+      "sha256": "47f30ecbdc393a7a2b3dae63ffe516d5c0c93bdfc015ecc68dd70ba3077fdce6"
+    },
+    {
+      "bytes": 4450,
+      "path": "references/shots/rhythm/montage-rhythm-moves.md",
+      "sha256": "d573edbbc8198ec29391784ea4f1720df930684ed51b92c7b3b8babf5383f5ea"
+    },
+    {
+      "bytes": 3970,
+      "path": "references/shots/rhythm/panel-grid-moves.md",
+      "sha256": "6294ff8de084ac4256a72e9fdded233996e9c91147198f0ff5e4fd8cc063a75a"
+    },
+    {
+      "bytes": 3220,
+      "path": "references/shots/rhythm/quad-split-parallel-scenes.md",
+      "sha256": "22b9e42c9d136c29710ea9371728205198be2ec73a90322107ce92223ea18fcb"
+    },
+    {
+      "bytes": 2575,
+      "path": "references/shots/rhythm/rhythm-interrupt-moves.md",
+      "sha256": "e841a4213854f4e3ac0e897cc4dca6a0ccf2427e22f12f68a26908593c591986"
+    },
+    {
+      "bytes": 2881,
+      "path": "references/shots/rhythm/sakuga-timing-shift.md",
+      "sha256": "64b73c42b1d01883060b0ca611e9427c7b12ddad5a087c8f702591e83e7797b5"
+    },
+    {
+      "bytes": 2927,
+      "path": "references/shots/rhythm/smear-multiples.md",
+      "sha256": "07c27e3e4dc24cd648c5ca329c49f90b369294031f977bf8f4b3bace89fc33d7"
+    },
+    {
+      "bytes": 3066,
+      "path": "references/shots/rhythm/spectrum-morph-ui.md",
+      "sha256": "dd375cd1335a6464e408cc154d1234575df024b0e87bc0a1d29f77ca94985bbd"
+    },
+    {
+      "bytes": 2319,
+      "path": "references/shots/rhythm/speed-ramp-freeze.md",
+      "sha256": "7d365e36082978b66ec5bca6623b9dbe57c7898b472f031a84d2bbbd09c3f56f"
+    },
+    {
+      "bytes": 3740,
+      "path": "references/shots/rhythm/trailer-grammar-moves.md",
+      "sha256": "1a898754876bc6cb5b1fa818564634df7932abf5dddaf430d492dfc72d556cdf"
+    },
+    {
+      "bytes": 3787,
+      "path": "references/shots/transition/bottom-push-stack-wipe.md",
+      "sha256": "f6bbe2e5462b55c354dd6843918c3a981ef3fed5281053d556593ce4f8c282f4"
+    },
+    {
+      "bytes": 4171,
+      "path": "references/shots/transition/bubble-swarm-takeover.md",
+      "sha256": "767d3e1d6828c22e2c2ca1270ab54f14046ab19be2d06f1c84461ca333f8c5f8"
+    },
+    {
+      "bytes": 2873,
+      "path": "references/shots/transition/card-flip-reveal.md",
+      "sha256": "02c3e077d64c5eabb31d1b62be542a95c4c8d9b65d58139eba365a26a29e5911"
+    },
+    {
+      "bytes": 3427,
+      "path": "references/shots/transition/card-flock-tumble.md",
+      "sha256": "3e9766a79c9e85f364687ba3578ebe0477038722752586befdf97a148e0f7f0b"
+    },
+    {
+      "bytes": 3367,
+      "path": "references/shots/transition/circle-match-iris.md",
+      "sha256": "5c5e46f211f90fdb437865a863144abba7867eea34d7c19b34d5bc0e5e063f14"
+    },
+    {
+      "bytes": 3735,
+      "path": "references/shots/transition/color-block-step-wipe.md",
+      "sha256": "f8e028eb284e91fb77c882280dfe83ec57057837b972068c1418356f0c76067c"
+    },
+    {
+      "bytes": 2978,
+      "path": "references/shots/transition/cube-navigation.md",
+      "sha256": "898bd23e7d1a54e4e02b1b9ce4c43142a86a6b9e5dc512a800808f0340c14e38"
+    },
+    {
+      "bytes": 2925,
+      "path": "references/shots/transition/gradient-transition.md",
+      "sha256": "0fb74f2a64807b4855aa55d223ad088e06a25b235a8e8737eb5f8dffbc6d432f"
+    },
+    {
+      "bytes": 3260,
+      "path": "references/shots/transition/line-carry-transition.md",
+      "sha256": "fd032128329b222c8769911fe5419c9ee0aad4411055c26bd5f7a238bbf59c97"
+    },
+    {
+      "bytes": 2912,
+      "path": "references/shots/transition/mosaic-reframe.md",
+      "sha256": "c39427cb8c3f931da5f63ae72265865334d3f28dd2832eacbd8d55ab034c95f5"
+    },
+    {
+      "bytes": 3329,
+      "path": "references/shots/transition/page-turn-transitions.md",
+      "sha256": "7604612d8fe0af814da0b3b34e7b108a897ce994663180ad6a827c8ee664a2ff"
+    },
+    {
+      "bytes": 4234,
+      "path": "references/shots/transition/paper-plane-messenger.md",
+      "sha256": "11784ee5f5feedf662b4c513d11623cf7eb92bf084f43ca5847dcceb10ac649f"
+    },
+    {
+      "bytes": 2505,
+      "path": "references/shots/transition/print-texture-transitions.md",
+      "sha256": "a1ccb5edbd881ec2c2a3981cc1a8b5969ec63cae63d6b421169d8247c1180b70"
+    },
+    {
+      "bytes": 6186,
+      "path": "references/shots/transition/shot-transitions.md",
+      "sha256": "c4e6093997ead518d22ecefab1983e4b66a9c09b27959fb87fc347d2739b2a5a"
+    },
+    {
+      "bytes": 2559,
+      "path": "references/shots/transition/tear-streak-transitions.md",
+      "sha256": "440ebe46abf0894f5b0f380cfcaa5825cec5c20e8a58715b264a2434e806fcdd"
+    },
+    {
+      "bytes": 4825,
+      "path": "references/shots/transition/transition-hidden-cut.md",
+      "sha256": "3e6b872df779eef27a4ec0304d04a02d49ba5a3ad7bf6744020c1de94c64d22e"
+    },
+    {
+      "bytes": 3993,
+      "path": "references/shots/transition/transition-travel.md",
+      "sha256": "7e1d46357459532c97dde76cf2631770dd21580978f13437a0c4eefd647653eb"
+    },
+    {
+      "bytes": 2910,
+      "path": "references/shots/transition/white-flash-logo-simplify-cut.md",
+      "sha256": "ec2f2181dae3c1a01c823570016df985a40c3b5f9b6a526f80bb3643e878f278"
+    },
+    {
+      "bytes": 3277,
+      "path": "references/shots/transition/wipe-transitions.md",
+      "sha256": "d3588e8ccb16dd6561c5298bfdfd1183a93716367148c1a153dba2ba5c0a6d43"
+    },
+    {
+      "bytes": 3967,
+      "path": "references/shots/typography/blur-slide.md",
+      "sha256": "5744aad82a6424a74252381a9c452cbe829478e5ada354a73d8f5a35daa997ab"
+    },
+    {
+      "bytes": 4463,
+      "path": "references/shots/typography/brace-expand.md",
+      "sha256": "a3d0c00d16ff3b61c80055626d8e615fbaeb941af7d2f32ff0b00a67bad49a71"
+    },
+    {
+      "bytes": 3274,
+      "path": "references/shots/typography/cel-flash-stomp.md",
+      "sha256": "1d70addd39663c7670e25ecf7a9f2bb1889a93074a7e01a588a1ffc0c2dd9dcb"
+    },
+    {
+      "bytes": 5367,
+      "path": "references/shots/typography/countdown-arc-scatter.md",
+      "sha256": "03e5dd4e3e16aed8c81e29ddce109c0c1d88ef8dac8d3497cd38025ebd5c7a14"
+    },
+    {
+      "bytes": 3564,
+      "path": "references/shots/typography/document-typewriter-reveal.md",
+      "sha256": "ac93525a91ef1b29cee66cf957e975d0c28985d228de9bcfc503277a11d6a80b"
+    },
+    {
+      "bytes": 4355,
+      "path": "references/shots/typography/flying-words.md",
+      "sha256": "0f56645a905dbb90d0fc9f220e6ddda9a4732d574f75571176d6b89a838375bf"
+    },
+    {
+      "bytes": 4651,
+      "path": "references/shots/typography/glitch-cycle.md",
+      "sha256": "e0ad73950c1d56b9fad5c737b981765201a13a93ef44ae02fec2deec885c6b5c"
+    },
+    {
+      "bytes": 3124,
+      "path": "references/shots/typography/gradient-word-sweep.md",
+      "sha256": "595f023015843f6446c1d4e9d29bbf3a1dc0cf331b2f8fe08ccdc95a6f716e88"
+    },
+    {
+      "bytes": 2700,
+      "path": "references/shots/typography/marker-underline-title.md",
+      "sha256": "89d3f168f347c742913b7cb18e5730d1809b51a6c346f4dafc3727a25c3e6212"
+    },
+    {
+      "bytes": 5263,
+      "path": "references/shots/typography/outline-word-fill.md",
+      "sha256": "691fa3796bd7e20b70b1d5391fc4d44924831d71cef5ea38f7ec9436da9f01d5"
+    },
+    {
+      "bytes": 2705,
+      "path": "references/shots/typography/paper-title-card.md",
+      "sha256": "71929e9bcc4f44c938ffe990c89c3d542ea4f28421e9c0fc4a5ab33e0cbc65cb"
+    },
+    {
+      "bytes": 5129,
+      "path": "references/shots/typography/pill-chip-slot-cycle-handled.md",
+      "sha256": "24f1784bca3e08958ef952168a1a0d18ece88480bdf7f10b0dcb332d5195fc8b"
+    },
+    {
+      "bytes": 3680,
+      "path": "references/shots/typography/pill-slot-cycle.md",
+      "sha256": "32cddebfe7bb0869057e0f81f66c6d6044ea152b381f402a26707e9d4274ff62"
+    },
+    {
+      "bytes": 3729,
+      "path": "references/shots/typography/scramble.md",
+      "sha256": "29ce01993b077423643a644800960d221c48feea01e09fc849bdc10b1d656937"
+    },
+    {
+      "bytes": 4128,
+      "path": "references/shots/typography/split-flap-title.md",
+      "sha256": "7a3a624c14cf55c7be84a2c4008446403b906f7a6aa015a89696daf7d26d953c"
+    },
+    {
+      "bytes": 3809,
+      "path": "references/shots/typography/text-column-converge.md",
+      "sha256": "120457192f2c595cfcf7a683aaa5411c729581a0d77c09b283ce7e7d7510e72b"
+    },
+    {
+      "bytes": 3942,
+      "path": "references/shots/typography/title-demote-to-label.md",
+      "sha256": "8ff840033599c3a8782c0266bbc7e623dda85d8b79ee4b4bbea9fe9f5ca0b1f0"
+    },
+    {
+      "bytes": 3690,
+      "path": "references/shots/typography/type-assembly-moves.md",
+      "sha256": "c1bb40bc83810309bb6e2120e2b9abcae83f6edee483202ce10dbff4b7d92a63"
+    },
+    {
+      "bytes": 3656,
+      "path": "references/shots/typography/type-entrance-moves.md",
+      "sha256": "fba00e4b0537b1f421d950dd9157522e97a6d583893f97528589692b7732f696"
+    },
+    {
+      "bytes": 3663,
+      "path": "references/shots/typography/type-rhythm-sync.md",
+      "sha256": "4925c765f251d3674065ee0d544abf30bc52ab7bef6f24b7fcc00983ead00822"
+    },
+    {
+      "bytes": 3324,
+      "path": "references/shots/typography/typewriter-moves.md",
+      "sha256": "c870748eeed55ab2c61f423cb355b57ba8dd0ea203bb7039b2a0f0385a5ddc1b"
+    },
+    {
+      "bytes": 4426,
+      "path": "references/shots/typography/typing-code-block.md",
+      "sha256": "409b1bd712836733dd194c1a433bd3ac4b26f1c5539dbd586d0be559e2e6d645"
+    },
+    {
+      "bytes": 4571,
+      "path": "references/shots/typography/vertical-word-roll-blur-cycle.md",
+      "sha256": "80529fb72660af3c78e51d22bc513f8df94b32072d1a5dc8ad8d4d1d73f05bdd"
+    },
+    {
+      "bytes": 3141,
+      "path": "references/shots/typography/word-relay-filmstrip.md",
+      "sha256": "46cd72e0c6f584c772a330d8a3ee68f0edf083052c061132d0aa7fe82a7f4678"
+    },
+    {
+      "bytes": 5659,
+      "path": "references/shots/typography/word-relay-geometry.md",
+      "sha256": "5590d09cf06109757d7e31f575276a4085c78d31b7f27df87173881c1852f38c"
+    },
+    {
+      "bytes": 5010,
+      "path": "references/shots/ui-entrance/avatar-bracket-carousel.md",
+      "sha256": "5665c2cb46373728323e206255f9a41c52420d9a8144c4aba03f713c93774a0e"
+    },
+    {
+      "bytes": 5735,
+      "path": "references/shots/ui-entrance/bezier-source-converge-merge.md",
+      "sha256": "8b4c94782209e2026e00c3ca4ee802aba1dd0a44d8e8f88e5073caa3f1c986a5"
+    },
+    {
+      "bytes": 4115,
+      "path": "references/shots/ui-entrance/card-stack.md",
+      "sha256": "9a9a417fc1021cb0182b38f9cec3e32521eb2fe0ca632c27aae85b2d2e833ecf"
+    },
+    {
+      "bytes": 4962,
+      "path": "references/shots/ui-entrance/carousel-3d.md",
+      "sha256": "57f72b4c9d783e9523753f399837322cab98b47120375ab34b4a17d1922524ef"
+    },
+    {
+      "bytes": 2195,
+      "path": "references/shots/ui-entrance/cloner-depth-echo.md",
+      "sha256": "370a3add4d937dbf3d91e9a677f35843b16bade3b0ee3cbbaad9b4e4d892cd10"
+    },
+    {
+      "bytes": 6806,
+      "path": "references/shots/ui-entrance/deck-deal-flyin.md",
+      "sha256": "469e77a297f56a92253732f14bf6269f5e0f217f02397444a44831cb7a044628"
+    },
+    {
+      "bytes": 5098,
+      "path": "references/shots/ui-entrance/doc-park-left-pill-deal.md",
+      "sha256": "301561810b31b96af7e8de5c58172bad6d5366dfe01e74795db79ef5a68e2007"
+    },
+    {
+      "bytes": 2863,
+      "path": "references/shots/ui-entrance/draw-svg-trace.md",
+      "sha256": "efafcc9abd8cd7dee3e22036b98dc7fcc1c5d122ba7630af622f0714675a335d"
+    },
+    {
+      "bytes": 3467,
+      "path": "references/shots/ui-entrance/element-body-moves.md",
+      "sha256": "d3cbcb1401dcfc8f6206d8a332b3092e212dc146d8ee1d7655c0619c0c0e0317"
+    },
+    {
+      "bytes": 6592,
+      "path": "references/shots/ui-entrance/floating-glossy-label-pills.md",
+      "sha256": "8c49ec6f221f331f09a53aea5baf9a54779f9da0900c5428150270fc69b43b1c"
+    },
+    {
+      "bytes": 3524,
+      "path": "references/shots/ui-entrance/integration-hub-map.md",
+      "sha256": "ebaec72ec69d2bbf5a94d4a10d95300b4710db4cc815fe04c1ac881281c711e1"
+    },
+    {
+      "bytes": 4071,
+      "path": "references/shots/ui-entrance/list-reveal.md",
+      "sha256": "de1633dc78cfdf4d16e5b538640b63e60163df82d9098c469e1794e6a4e5dc68"
+    },
+    {
+      "bytes": 4264,
+      "path": "references/shots/ui-entrance/list-stack-press.md",
+      "sha256": "45f9000f65cc1f38e8ebf4fe2a7f94fd64723e34d7e79b67edabc12db72f8343"
+    },
+    {
+      "bytes": 2946,
+      "path": "references/shots/ui-entrance/morph-from-primitive.md",
+      "sha256": "c338f6d3639b65bea1edff3c5749e530daa9a6ce70c8f44e6bbffbcfe86a6456"
+    },
+    {
+      "bytes": 3240,
+      "path": "references/shots/ui-entrance/neon-frame-forerun.md",
+      "sha256": "a504f1a81137042a939ed1a50352023e9fa24f235398086d56132aee32013e71"
+    },
+    {
+      "bytes": 3005,
+      "path": "references/shots/ui-entrance/neon-frame-orbit-drop.md",
+      "sha256": "0e33057834bfb86adf2e4e298d008c9efac5bdb6736b4161ca6b96d1d6db4355"
+    },
+    {
+      "bytes": 3456,
+      "path": "references/shots/ui-entrance/page-waterfall-wall.md",
+      "sha256": "7f5691a48c167a52e2a6dc6d0472cdc35dca03270e5040d8942a296f54c056ca"
+    },
+    {
+      "bytes": 3158,
+      "path": "references/shots/ui-entrance/paper-craft-moves.md",
+      "sha256": "077c1bd4c3ac606eca35d2217ad606165012278a9a65f21a104e8faaef3267f8"
+    },
+    {
+      "bytes": 5077,
+      "path": "references/shots/ui-entrance/product-card-progressive-assemble.md",
+      "sha256": "15210454fd1fb8efe63eb163799cb71e5a0d081f83fc770e79743be88c130645"
+    },
+    {
+      "bytes": 3913,
+      "path": "references/shots/ui-entrance/radial-wave.md",
+      "sha256": "d4bfb9bb8f0a0983442d6a98cff830674d995ee8dd65584563e65d78ee8bcf9a"
+    },
+    {
+      "bytes": 4855,
+      "path": "references/shots/ui-entrance/research-card-stack-scroll.md",
+      "sha256": "89ad86b38e7216d61fa62fe5c4f32c9881a0363c51fcfe4bcaf28e791d49b4d7"
+    },
+    {
+      "bytes": 2564,
+      "path": "references/shots/ui-entrance/row-embed.md",
+      "sha256": "83863df26cbbec12fc4186ab18caefb3f2a953142cf6f5024a85c4c5f720428a"
+    },
+    {
+      "bytes": 3069,
+      "path": "references/shots/ui-entrance/runway-ground-skim.md",
+      "sha256": "f236a0d24d05e58f44ceb6680085daf99dd4da864fa7b6fec287b610b4af05a2"
+    },
+    {
+      "bytes": 3805,
+      "path": "references/shots/ui-entrance/skeleton-reveal.md",
+      "sha256": "d841c44eb95c693bdab7c7c5c30eb0ba287f3cc51683c19957e6cb2365d6f278"
+    },
+    {
+      "bytes": 5216,
+      "path": "references/shots/ui-entrance/svg-shape-morph.md",
+      "sha256": "ddc54c05b5c397adfe9c9fe458cf1f9ec62232d8162eb82ca3dca00090250f71"
+    },
+    {
+      "bytes": 5481,
+      "path": "references/shots/ui-entrance/value-stagger-gradient.md",
+      "sha256": "0be902ddd65fc39206dff0eb53763f9d0055d3c8cfda96dab689cfc824b9ed39"
+    },
+    {
+      "bytes": 5543,
+      "path": "references/shots/ui-entrance/wall-reveal-moves.md",
+      "sha256": "e0783733037425ca97c48fce97fd10fbd1c104855d59faf8b50115f54f72d91d"
+    },
+    {
+      "bytes": 22,
+      "path": "template/.gitignore",
+      "sha256": "a37089d6c1a03f6480931e166536ff98514628823af6351257b8f7e0a3a74b91"
+    },
+    {
+      "bytes": 7184,
+      "path": "template/TEMPLATE.md",
+      "sha256": "ee1fe4651276b5f0e961540b96d04de4305fa54df9f4c0e06d3af7f896cdb830"
+    },
+    {
+      "bytes": 106019,
+      "path": "template/package-lock.json",
+      "sha256": "f2846757635c3b841e50bf277904b9c19b469b7a6ca6384110c388ca5dea7a30"
+    },
+    {
+      "bytes": 476,
+      "path": "template/package.json",
+      "sha256": "4291a904d7575ec0b1fc536fd3f5e6d1841b36d49a0b39f5a4546a43a8d28a26"
+    },
+    {
+      "bytes": 14406,
+      "path": "template/public/audio/click-camera.mp3",
+      "sha256": "042d01db7a4a0c492c580c0d3d64460c0ceb8638f0c6419d0e4b7a9ba2ac8eed"
+    },
+    {
+      "bytes": 115904,
+      "path": "template/public/audio/impact-cine.mp3",
+      "sha256": "9854bff8a78fcebef95350ff0ec72a41ba449ab372bbd601b55d84de13bd626d"
+    },
+    {
+      "bytes": 513831,
+      "path": "template/public/audio/keyboard.mp3",
+      "sha256": "152f78c3bff50cf018654a66e5de0260bdbad45d87af6051725fa479c517bdf9"
+    },
+    {
+      "bytes": 15239,
+      "path": "template/public/audio/pop.mp3",
+      "sha256": "14aad47518786ea2556b45f050fed2a301d521ff9dedd46b73701b3cc3d54a2e"
+    },
+    {
+      "bytes": 145112,
+      "path": "template/public/audio/riser-cine.mp3",
+      "sha256": "385340df21a87da878c23fa6ba1fdbe4059a4fd15d160bd45d20c9ecf7faecfc"
+    },
+    {
+      "bytes": 143743,
+      "path": "template/public/audio/sparkle.mp3",
+      "sha256": "c4ee1a64554bd413082173cd2045aacd5a65189a43c9d8f309530744e86098ad"
+    },
+    {
+      "bytes": 27247,
+      "path": "template/public/audio/swoosh-quick.mp3",
+      "sha256": "5d8153579cfbd4ec23738494dff8dec95b3737981578222b793eff9e3fdd4ca8"
+    },
+    {
+      "bytes": 19051,
+      "path": "template/public/audio/transition-snap.mp3",
+      "sha256": "9f7e4edb094569f9cb40e8dbb987a5fc20926b30326a1a9d827236960980f070"
+    },
+    {
+      "bytes": 41082,
+      "path": "template/public/audio/transition-soft.mp3",
+      "sha256": "0e25921648c66e30924892ee17110ae621243de770b2944496526845a15a9998"
+    },
+    {
+      "bytes": 71724,
+      "path": "template/public/audio/whoosh-big.mp3",
+      "sha256": "8af9843a636d3b4961f0c8b3545a21e674bd43d59f97d5c38d3f9a3f04674fd2"
+    },
+    {
+      "bytes": 57624,
+      "path": "template/public/audio/whoosh-fast.mp3",
+      "sha256": "b88fd5d484251930efd6eca78c4340339908ea29d1e69bd24fb5191a10da4f78"
+    },
+    {
+      "bytes": 49799,
+      "path": "template/public/textures/live/card1.png",
+      "sha256": "91e5ff3d3a786eea1ac42f2cb3c6083fae6c3ddf214b80dfa9a7e70d250948f9"
+    },
+    {
+      "bytes": 51587,
+      "path": "template/public/textures/live/card10.png",
+      "sha256": "615736608714f4d4162fa2bd1abd557252c933bec5d32ca0975079bdac593f63"
+    },
+    {
+      "bytes": 52017,
+      "path": "template/public/textures/live/card2.png",
+      "sha256": "ea6f1bc6b774bbd81be54ea63d8c15a0025f47adfeeedd8529b002832ff70e49"
+    },
+    {
+      "bytes": 58681,
+      "path": "template/public/textures/live/card3.png",
+      "sha256": "f470890a3aef61bb1ae361c881380458edb33782f374aac161256d5d49c7a837"
+    },
+    {
+      "bytes": 123105,
+      "path": "template/public/textures/live/card4-hires.png",
+      "sha256": "2d31a711702e7c4a4aea939717338141dbc81c490facea9691705f003e904b26"
+    },
+    {
+      "bytes": 59011,
+      "path": "template/public/textures/live/card4.png",
+      "sha256": "26dff0fc4e4efe529c4002ef9703b827ba9d9a00d05cbcc9136bc88d385134ad"
+    },
+    {
+      "bytes": 59166,
+      "path": "template/public/textures/live/card5.png",
+      "sha256": "7e548f79350cbc9a8a4f53db550401bacd85b2221112d175378bf46c5090feb1"
+    },
+    {
+      "bytes": 55703,
+      "path": "template/public/textures/live/card6.png",
+      "sha256": "8564331618c779e4d459ecff26aad00c50cc6b2b33973eda6874493ad40b016c"
+    },
+    {
+      "bytes": 62485,
+      "path": "template/public/textures/live/card7.png",
+      "sha256": "e4ad44f3356db77b671386eb29581bd1ad78c277ef8852fa814b6c7e9f7cdcd7"
+    },
+    {
+      "bytes": 54202,
+      "path": "template/public/textures/live/card8.png",
+      "sha256": "fcec883f6fb03ff2313d91f7b647af20fa59451580af387a34d0a1f5088d1b45"
+    },
+    {
+      "bytes": 59637,
+      "path": "template/public/textures/live/card9.png",
+      "sha256": "72151c3f2a580398cea7c809a967fa6c9b7aaa0c878f4cd531915cf5785a00ba"
+    },
+    {
+      "bytes": 3257847,
+      "path": "template/public/textures/live/detail-experiments.png",
+      "sha256": "f631503179c90de018c77d1fef7ef0b2c5fce2d27f51349928bd0ac38179d910"
+    },
+    {
+      "bytes": 380073,
+      "path": "template/public/textures/live/detail-full.png",
+      "sha256": "44168775d500ad1b833b56d892812784012dcd1a7393a65bb9905a867ccfc347"
+    },
+    {
+      "bytes": 2754,
+      "path": "template/public/textures/live/float-filter.png",
+      "sha256": "592dc0e030129698cd3eefd2ae7ba722d6116af853aa05c4e4660ad118886226"
+    },
+    {
+      "bytes": 11667,
+      "path": "template/public/textures/live/float-search.png",
+      "sha256": "53839d02801f6bc2b2b6e7c801cd73ea0edb20b748d248f3ba845dfba835f222"
+    },
+    {
+      "bytes": 4485,
+      "path": "template/public/textures/live/float-section.png",
+      "sha256": "7036a66956a0014545e88a39d19747b225f97cda4dd43c4c13ecefcecd433a62"
+    },
+    {
+      "bytes": 11497,
+      "path": "template/public/textures/live/float-stats.png",
+      "sha256": "8a100bd4419c3711dcd2e590a0e122d6c91930670d5bfef1e8c48b979a798cdd"
+    },
+    {
+      "bytes": 12776,
+      "path": "template/public/textures/live/nav.png",
+      "sha256": "1023b7ac913e4b74ffc913e57bca88c086c7722d7efc9dac36ed8dd6de5cab59"
+    },
+    {
+      "bytes": 98212,
+      "path": "template/public/textures/live/paper1.png",
+      "sha256": "50e288d82440174bae60d8ed1c4fbc5c87d24025e06b5c4061d6bb523eb1a906"
+    },
+    {
+      "bytes": 95517,
+      "path": "template/public/textures/live/paper2.png",
+      "sha256": "059a8b6b012ff449f935a50034171cd5298971eb90f6258156f602dcc51ed804"
+    },
+    {
+      "bytes": 95131,
+      "path": "template/public/textures/live/paper3.png",
+      "sha256": "2f410e9871033a16caeee984a1bacc250727a86c96fde39e9fcc0981e87a2a16"
+    },
+    {
+      "bytes": 87621,
+      "path": "template/public/textures/live/paper4.png",
+      "sha256": "5595f9d544467d220a6c9db5c1a28e430df4401976a1c261bc7633216fa326fb"
+    },
+    {
+      "bytes": 90661,
+      "path": "template/public/textures/live/paper5.png",
+      "sha256": "50f8797cc13871808c1105b46c9cbc81e7c08c6564d22cbde5255d9589593167"
+    },
+    {
+      "bytes": 594891,
+      "path": "template/public/textures/live/papers-full.png",
+      "sha256": "82b26e7b397806e630303c7b98d5b411c842b70b3aef6b1b318f8aa23bd761f0"
+    },
+    {
+      "bytes": 104520,
+      "path": "template/public/textures/live/projects-empty.png",
+      "sha256": "40541655ee1b44d56e75185bb68826e237d22f37534f1489ed6579f6f09e3f33"
+    },
+    {
+      "bytes": 617560,
+      "path": "template/public/textures/live/projects-full.png",
+      "sha256": "b62878daa071387c4fdb478103fbd7f39efb872890dbfdd9d3cbe6f0012afa93"
+    },
+    {
+      "bytes": 487943,
+      "path": "template/public/textures/live/wbr-full.png",
+      "sha256": "81dff5de3e90ffd8759d77716c189b90d0b88290070a5e0e137ffa3b47ef4189"
+    },
+    {
+      "bytes": 186,
+      "path": "template/remotion.config.ts",
+      "sha256": "dc2560488ec68013be8dfaf6995d8aa6ef12ee1e64253d7ed3ef2f9a28dd3eb8"
+    },
+    {
+      "bytes": 312,
+      "path": "template/src/Root.tsx",
+      "sha256": "8b38d625942c8011a32bf050c13e536f125564d948e2ae87c14c53f259fce43a"
+    },
+    {
+      "bytes": 1422,
+      "path": "template/src/aifl/Caption.tsx",
+      "sha256": "a04b63a145b1b449f896505674b77e5deac2a81be2c3c6b200ff9f230dc9b55f"
+    },
+    {
+      "bytes": 1638,
+      "path": "template/src/aifl/DigitRoll.tsx",
+      "sha256": "cb86d86df0c8cafb92b0451164e77145c3fb52903b3955dfbc6d577199c059b9"
+    },
+    {
+      "bytes": 657,
+      "path": "template/src/aifl/FlashCut.tsx",
+      "sha256": "29bb458e3d84088cd0b494f56b1818437290b2a8c6014eb7136dc7e14ce18fef"
+    },
+    {
+      "bytes": 8988,
+      "path": "template/src/aifl/Main.tsx",
+      "sha256": "f358be9858738eb16d1ba3a48ade59ec4bfb58287b87ec03ca6d833d8496746e"
+    },
+    {
+      "bytes": 3237,
+      "path": "template/src/aifl/PaperTitleCard.tsx",
+      "sha256": "3de80a3a0fff738084dae6101e3e5299d9137dcfe2b6dc64297c9e990c1ad7f7"
+    },
+    {
+      "bytes": 5601,
+      "path": "template/src/aifl/live-layout.json",
+      "sha256": "8db053585b4f06453d5795f31c42ce647ca4ccb7a0bcc9d1bfcf059bf89ddf52"
+    },
+    {
+      "bytes": 6503,
+      "path": "template/src/aifl/live/PageCam.tsx",
+      "sha256": "8bf7640d30a5202f7babb509cf442d3f5098e58d24a748de5656c34e67ccf321"
+    },
+    {
+      "bytes": 5332,
+      "path": "template/src/aifl/live/SceneDetail.tsx",
+      "sha256": "b407f28bbccdf90b9666db453f122f9f9d0f1cee76807812b40b931e4704d2bd"
+    },
+    {
+      "bytes": 19178,
+      "path": "template/src/aifl/live/SceneFlyIn.tsx",
+      "sha256": "92bb75b8f29223dd9f50a4861ec57586671beab98e767da9d0079403cfc526b6"
+    },
+    {
+      "bytes": 24458,
+      "path": "template/src/aifl/live/SceneOpen.tsx",
+      "sha256": "a627d004280debdbb73c30e885591f05445a8ba6d08d7d6b5fbfa03ab4c7a9e8"
+    },
+    {
+      "bytes": 16688,
+      "path": "template/src/aifl/live/SceneOutroLive.tsx",
+      "sha256": "ebe6f814d50100d8fe08e1e7c55f36b5f45e1c4407e804a87fdbcb43280fb187"
+    },
+    {
+      "bytes": 7352,
+      "path": "template/src/aifl/live/ScenePapers.tsx",
+      "sha256": "52e9ed3e2a10f1da10d053c45ca367e651d276434288762fd89a5c8cca05e60b"
+    },
+    {
+      "bytes": 11677,
+      "path": "template/src/aifl/live/SceneWbr.tsx",
+      "sha256": "c44aa769ebc1158c91e0426e9e27d39375d99d7c606fddc95d554998ea073d5f"
+    },
+    {
+      "bytes": 93,
+      "path": "template/src/index.ts",
+      "sha256": "98b03b1da7aa397e0fc89cb4600c418d3572b389cb1831b1e72e9b4400a5a34e"
+    },
+    {
+      "bytes": 315,
+      "path": "template/tsconfig.json",
+      "sha256": "5c37c18adac22447adfef85f2ca51fe9adaa0e48f9db5d11810bab06717db185"
+    }
+  ],
+  "stats": {
+    "cardCount": 152,
+    "previewBytes": 129443823,
+    "previewCount": 209,
+    "sourceBytes": 11627558,
+    "sourceFileCount": 445,
+    "styleCount": 209
+  },
+  "upstream": {
+    "libraryGeneratedAt": "2026-07-19T05:01:54.882Z",
+    "libraryRevision": "bdd94be16d60fa8f",
+    "license": "Apache-2.0",
+    "repository": "https://github.com/Vincentwei1021/video-shotcraft",
+    "requestedRef": "41ee360d82f4c491ba9d88a24a4add7d8ff1cf8b",
+    "resolvedCommit": "41ee360d82f4c491ba9d88a24a4add7d8ff1cf8b"
+  }
+}

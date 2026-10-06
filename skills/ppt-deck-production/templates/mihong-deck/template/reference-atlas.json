@@ -1,0 +1,137 @@
+{
+  "cols": 4,
+  "thumb": [
+    960,
+    540
+  ],
+  "slides": [
+    {
+      "slide": 1,
+      "x": 24,
+      "y": 58,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.001.png"
+    },
+    {
+      "slide": 2,
+      "x": 1008,
+      "y": 58,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.002.png"
+    },
+    {
+      "slide": 3,
+      "x": 1992,
+      "y": 58,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.003.png"
+    },
+    {
+      "slide": 4,
+      "x": 2976,
+      "y": 58,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.004.png"
+    },
+    {
+      "slide": 5,
+      "x": 24,
+      "y": 656,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.005.png"
+    },
+    {
+      "slide": 6,
+      "x": 1008,
+      "y": 656,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.006.png"
+    },
+    {
+      "slide": 7,
+      "x": 1992,
+      "y": 656,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.007.png"
+    },
+    {
+      "slide": 8,
+      "x": 2976,
+      "y": 656,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.008.png"
+    },
+    {
+      "slide": 9,
+      "x": 24,
+      "y": 1254,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.009.png"
+    },
+    {
+      "slide": 10,
+      "x": 1008,
+      "y": 1254,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.010.png"
+    },
+    {
+      "slide": 11,
+      "x": 1992,
+      "y": 1254,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.011.png"
+    },
+    {
+      "slide": 12,
+      "x": 2976,
+      "y": 1254,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.012.png"
+    },
+    {
+      "slide": 13,
+      "x": 24,
+      "y": 1852,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.013.png"
+    },
+    {
+      "slide": 14,
+      "x": 1008,
+      "y": 1852,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.014.png"
+    },
+    {
+      "slide": 15,
+      "x": 1992,
+      "y": 1852,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.015.png"
+    },
+    {
+      "slide": 16,
+      "x": 2976,
+      "y": 1852,
+      "w": 960,
+      "h": 540,
+      "file": "page-images/page-images.016.png"
+    }
+  ]
+}

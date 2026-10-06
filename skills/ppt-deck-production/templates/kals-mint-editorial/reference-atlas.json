@@ -1,0 +1,616 @@
+{
+  "source_pptx": "不错的模版.pptx",
+  "slide_count": 30,
+  "columns": 5,
+  "rows": 6,
+  "thumbnail_size": {
+    "width": 480,
+    "height": 270
+  },
+  "atlas_size": {
+    "width": 2544,
+    "height": 2040
+  },
+  "slides": [
+    {
+      "slide": 1,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 24,
+        "y": 24,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 24,
+        "y": 294,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-01"
+    },
+    {
+      "slide": 2,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 528,
+        "y": 24,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 528,
+        "y": 294,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-02"
+    },
+    {
+      "slide": 3,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1032,
+        "y": 24,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1032,
+        "y": 294,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-03"
+    },
+    {
+      "slide": 4,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1536,
+        "y": 24,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1536,
+        "y": 294,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-04"
+    },
+    {
+      "slide": 5,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 2040,
+        "y": 24,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 2040,
+        "y": 294,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-05"
+    },
+    {
+      "slide": 6,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 24,
+        "y": 360,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 24,
+        "y": 630,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-06"
+    },
+    {
+      "slide": 7,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 528,
+        "y": 360,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 528,
+        "y": 630,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-07"
+    },
+    {
+      "slide": 8,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1032,
+        "y": 360,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1032,
+        "y": 630,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-08"
+    },
+    {
+      "slide": 9,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1536,
+        "y": 360,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1536,
+        "y": 630,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-09"
+    },
+    {
+      "slide": 10,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 2040,
+        "y": 360,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 2040,
+        "y": 630,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-10"
+    },
+    {
+      "slide": 11,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 24,
+        "y": 696,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 24,
+        "y": 966,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-11"
+    },
+    {
+      "slide": 12,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 528,
+        "y": 696,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 528,
+        "y": 966,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-12"
+    },
+    {
+      "slide": 13,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1032,
+        "y": 696,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1032,
+        "y": 966,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-13"
+    },
+    {
+      "slide": 14,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1536,
+        "y": 696,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1536,
+        "y": 966,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-14"
+    },
+    {
+      "slide": 15,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 2040,
+        "y": 696,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 2040,
+        "y": 966,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-15"
+    },
+    {
+      "slide": 16,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 24,
+        "y": 1032,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 24,
+        "y": 1302,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-16"
+    },
+    {
+      "slide": 17,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 528,
+        "y": 1032,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 528,
+        "y": 1302,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-17"
+    },
+    {
+      "slide": 18,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1032,
+        "y": 1032,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1032,
+        "y": 1302,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-18"
+    },
+    {
+      "slide": 19,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1536,
+        "y": 1032,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1536,
+        "y": 1302,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-19"
+    },
+    {
+      "slide": 20,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 2040,
+        "y": 1032,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 2040,
+        "y": 1302,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-20"
+    },
+    {
+      "slide": 21,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 24,
+        "y": 1368,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 24,
+        "y": 1638,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-21"
+    },
+    {
+      "slide": 22,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 528,
+        "y": 1368,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 528,
+        "y": 1638,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-22"
+    },
+    {
+      "slide": 23,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1032,
+        "y": 1368,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1032,
+        "y": 1638,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-23"
+    },
+    {
+      "slide": 24,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1536,
+        "y": 1368,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1536,
+        "y": 1638,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-24"
+    },
+    {
+      "slide": 25,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 2040,
+        "y": 1368,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 2040,
+        "y": 1638,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-25"
+    },
+    {
+      "slide": 26,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 24,
+        "y": 1704,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 24,
+        "y": 1974,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-26"
+    },
+    {
+      "slide": 27,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 528,
+        "y": 1704,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 528,
+        "y": 1974,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-27"
+    },
+    {
+      "slide": 28,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1032,
+        "y": 1704,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1032,
+        "y": 1974,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-28"
+    },
+    {
+      "slide": 29,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 1536,
+        "y": 1704,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 1536,
+        "y": 1974,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-29"
+    },
+    {
+      "slide": 30,
+      "original_size": {
+        "width": 960,
+        "height": 540
+      },
+      "atlas_rect": {
+        "x": 2040,
+        "y": 1704,
+        "width": 480,
+        "height": 270
+      },
+      "label_rect": {
+        "x": 2040,
+        "y": 1974,
+        "width": 480,
+        "height": 42
+      },
+      "source": "slide-30"
+    }
+  ]
+}

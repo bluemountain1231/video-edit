@@ -1,0 +1,252 @@
+<meta charset="utf-8">
+<title>mihong — Holographic Template</title>
+<style>
+  :root{
+    --blue:#2b46f0; --blue-deep:#0a10c4; --ink:#141414;
+    --paper:#f1f1f1; --paper-hi:#fafafa; --muted:#9aa0ad; --white:#fff;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{background:#2a2a2e;font-family:"Helvetica Neue",Helvetica,Arial,"PingFang SC","Microsoft YaHei",sans-serif;color:var(--ink)}
+  .deck{display:flex;flex-direction:column;align-items:center;gap:26px;padding:26px 0}
+  .slide{width:1280px;height:720px;position:relative;overflow:hidden;box-shadow:0 12px 40px rgba(0,0,0,.35);background:var(--paper)}
+  .stage{position:absolute;inset:0}
+
+  /* ---------- backgrounds ---------- */
+  .holo{background-color:#2b2f9f;
+    background-image:
+      radial-gradient(62% 80% at 18% 28%, #4b7bff 0%, transparent 55%),
+      radial-gradient(52% 70% at 72% 16%, #7dd294 0%, transparent 55%),
+      radial-gradient(58% 78% at 88% 58%, #f1b6ca 0%, transparent 55%),
+      radial-gradient(60% 72% at 42% 78%, #fbeba6 0%, transparent 55%),
+      radial-gradient(74% 92% at 8% 88%, #6a4bd6 0%, transparent 60%),
+      radial-gradient(52% 62% at 58% 46%, #38d6d6 0%, transparent 55%),
+      radial-gradient(46% 60% at 95% 92%, #ff8fd0 0%, transparent 55%);
+    filter:saturate(1.28) contrast(1.03)}
+  .holo::after{content:"";position:absolute;inset:-20%;
+    background:radial-gradient(40% 30% at 30% 30%,rgba(255,255,255,.14),transparent 70%);
+    mix-blend-mode:screen}
+  .paper-tex{background:var(--paper)}
+  .paper-tex::before{content:"";position:absolute;inset:0;opacity:.55;
+    background:
+      linear-gradient(115deg, transparent 30%, rgba(255,255,255,.9) 45%, transparent 60%),
+      linear-gradient(60deg, transparent 40%, rgba(200,205,215,.35) 55%, transparent 70%),
+      radial-gradient(50% 40% at 80% 20%, rgba(255,255,255,.7), transparent 70%);
+    pointer-events:none}
+
+  /* ---------- decorative marks ---------- */
+  .sphere{border-radius:50%;
+    background:conic-gradient(from 200deg,#6a4bd6,#38d6d6,#7dd294,#fbeba6,#f1b6ca,#4b7bff,#6a4bd6);
+    filter:saturate(1.15)}
+  .ring{border-radius:50%;border:2px solid var(--blue);background:transparent}
+  .dot{border-radius:50%;background:var(--blue-deep)}
+  .ghost{border-radius:50%;opacity:.28;filter:blur(1px)}
+  .star{position:absolute;color:#fff;font-size:34px;line-height:1}
+  .arrow{color:var(--blue);font-size:30px;font-weight:700}
+
+  /* ---------- type ---------- */
+  .title{font-style:italic;font-weight:800;letter-spacing:-.01em}
+  .title-blue{color:var(--blue)}
+  .micro{text-transform:uppercase;letter-spacing:.34em;font-weight:300;font-size:15px}
+  .num-list b{color:var(--blue);font-style:italic;font-weight:800}
+  .justify{text-align:justify;color:var(--muted);line-height:1.9;font-size:15px}
+  .bullet{position:relative;padding-left:18px;font-size:15px;line-height:2}
+  .bullet::before{content:"";position:absolute;left:0;top:11px;width:6px;height:6px;border-radius:50%;background:var(--blue)}
+  .pageno{position:absolute;right:34px;bottom:26px;font-size:12px;letter-spacing:.3em;color:var(--muted);text-transform:uppercase}
+
+  .abs{position:absolute}
+</style>
+
+<div class="deck" id="deck">
+
+  <!-- 1 · COVER -->
+  <section class="slide"><div class="stage holo">
+    <div class="star" style="left:606px;top:120px">✦</div>
+    <div class="abs" style="left:0;right:0;top:300px;text-align:center">
+      <div class="title" style="font-size:118px;color:#fff;text-shadow:8px 7px 0 rgba(43,70,240,.85)">Event Planning</div>
+      <div class="micro" style="color:#fff;margin-top:22px">Creator Information</div>
+      <div class="micro" style="color:#fff;margin-top:14px;font-size:13px;letter-spacing:.5em">2022 &nbsp;@SENYAN</div>
+    </div>
+  </div></section>
+
+  <!-- 2 · CONTENTS -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="abs" style="left:120px;top:150px">
+      <div class="num-list"><b style="font-size:34px">01.</b> <span style="font-size:28px;font-weight:700;font-style:italic">Title Summary</span>
+        <div class="micro" style="letter-spacing:.06em;text-transform:none;color:var(--muted);margin:6px 0 40px 4px">Rich content presentation</div></div>
+      <div class="num-list"><b style="font-size:34px">02.</b> <span style="font-size:28px;font-weight:700;font-style:italic">Title Summary</span>
+        <div class="micro" style="letter-spacing:.06em;text-transform:none;color:var(--muted);margin:6px 0 0 4px">Flexible creative ideas</div></div>
+    </div>
+    <div class="sphere abs" style="left:900px;top:150px;width:70px;height:70px"></div>
+    <div class="ring abs" style="left:820px;top:170px;width:44px;height:44px"></div>
+    <div class="dot abs" style="left:770px;top:186px;width:16px;height:16px"></div>
+    <div class="sphere abs" style="left:640px;top:380px;width:56px;height:56px"></div>
+    <div class="ring abs" style="left:720px;top:394px;width:34px;height:34px"></div>
+    <div class="dot abs" style="left:790px;top:404px;width:14px;height:14px"></div>
+    <div class="title title-blue abs" style="right:100px;bottom:120px;font-size:62px">Contents</div>
+    <div class="pageno">02 / 12</div>
+  </div></section>
+
+  <!-- 3 · ABOUT (two-column) -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="justify abs" style="left:120px;top:110px;width:1040px">We are committed to building the business value and core competitiveness of roadshows and increasing the commercial transformation of potential people in a planned way. We are committed to building the business value and core competitiveness of roadshows.</div>
+    <div class="justify abs" style="left:120px;top:300px;width:560px;color:#b9bec9">We are committed to building the business value and core competitiveness of roadshows and increasing the commercial transformation of potential people in a planned way.</div>
+    <div class="title title-blue abs" style="right:100px;bottom:120px;font-size:62px">About Us</div>
+    <div class="pageno">03 / 12</div>
+  </div></section>
+
+  <!-- 4 · TEAM (persona rows) -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="abs" style="left:120px;top:120px;width:640px">
+      <div class="row" style="display:grid;grid-template-columns:120px 1fr;gap:24px;margin-bottom:44px">
+        <div class="title title-blue" style="font-size:26px;padding-top:4px">Name A</div>
+        <div><div class="bullet">Rich content presentation</div><div class="bullet">Flexible creative ideas</div><div class="bullet">Quick action</div></div></div>
+      <div class="row" style="display:grid;grid-template-columns:120px 1fr;gap:24px;margin-bottom:44px">
+        <div class="title title-blue" style="font-size:26px;padding-top:4px">Name B</div>
+        <div><div class="bullet">Rich content presentation</div><div class="bullet">Flexible creative ideas</div><div class="bullet">Quick action</div></div></div>
+      <div class="row" style="display:grid;grid-template-columns:120px 1fr;gap:24px">
+        <div class="title title-blue" style="font-size:26px;padding-top:4px">Name C</div>
+        <div><div class="bullet">Rich content presentation</div><div class="bullet">Flexible creative ideas</div><div class="bullet">Quick action</div></div></div>
+    </div>
+    <div class="sphere abs" style="left:930px;top:300px;width:60px;height:60px"></div>
+    <div class="ring abs" style="left:850px;top:200px;width:40px;height:40px"></div>
+    <div class="dot abs" style="left:900px;top:470px;width:14px;height:14px"></div>
+    <div class="title title-blue abs" style="right:120px;bottom:120px;font-size:62px">Team</div>
+    <div class="pageno">04 / 12</div>
+  </div></section>
+
+  <!-- 5 · DIVIDER -->
+  <section class="slide"><div class="stage holo">
+    <div class="title abs" style="left:110px;top:130px;font-size:96px;color:#fff;text-shadow:6px 5px 0 rgba(43,70,240,.8)">Part<br><span style="font-size:96px">01</span></div>
+    <div class="ring abs" style="right:130px;top:150px;width:70px;height:70px;border-color:#fff"></div>
+    <div class="star" style="left:150px;top:360px;color:#fff">✦</div>
+    <div class="title abs" style="left:110px;bottom:150px;font-size:70px;color:#fff;text-shadow:5px 4px 0 rgba(43,70,240,.8)">Title Summary</div>
+    <div class="dot abs" style="right:170px;bottom:170px;width:26px;height:26px;background:#eef"></div>
+  </div></section>
+
+  <!-- 6 · AREA / WAVE CHART -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="title title-blue abs" style="left:0;right:0;top:70px;text-align:center;font-size:52px">Data Analysis</div>
+    <div class="justify abs" style="right:120px;top:180px;width:300px;text-align:center;color:var(--muted)">We are committed to building the business value and core competitiveness of roadshows.</div>
+    <svg class="abs" style="left:120px;top:250px" width="1040" height="260" viewBox="0 0 1040 260">
+      <defs>
+        <linearGradient id="wave" x1="0" x2="1" y1="0" y2="0">
+          <stop offset="0" stop-color="#6a4bd6"/><stop offset=".3" stop-color="#38d6d6"/>
+          <stop offset=".55" stop-color="#7dd294"/><stop offset=".78" stop-color="#fbeba6"/><stop offset="1" stop-color="#f1b6ca"/>
+        </linearGradient>
+      </defs>
+      <path d="M0,180 C120,60 210,60 320,130 C430,200 470,40 560,90 C660,145 720,190 820,120 C920,60 990,150 1040,110 L1040,260 L0,260 Z" fill="url(#wave)" opacity=".85"/>
+      <path d="M0,200 C120,120 210,150 320,175 C430,200 470,120 560,150 C660,178 720,210 820,170 C920,130 990,190 1040,165 L1040,260 L0,260 Z" fill="url(#wave)" opacity=".45"/>
+      <line x1="0" y1="235" x2="1040" y2="235" stroke="var(--blue)" stroke-width="2"/>
+    </svg>
+    <div class="title abs" style="left:180px;top:400px;font-size:40px;color:#fff;font-weight:800;text-shadow:2px 2px 0 var(--blue)">45%</div>
+    <div class="title abs" style="right:230px;top:440px;font-size:40px;color:var(--muted);font-weight:800">60%</div>
+    <div class="pageno">06 / 12</div>
+  </div></section>
+
+  <!-- 7 · STAGES (circle trio) -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="title title-blue abs" style="left:0;right:0;top:70px;text-align:center;font-size:50px">Itemized Display</div>
+    <div class="arrow abs" style="left:60px;top:270px">←</div>
+    <div class="arrow abs" style="right:60px;top:270px">→</div>
+    <!-- A: iridescent -->
+    <div class="sphere abs" style="left:150px;top:170px;width:210px;height:210px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff;text-align:center">
+      <div style="font-weight:700;font-size:20px;margin-bottom:10px">Stage A</div>
+      <div style="font-size:13px;line-height:1.9;text-shadow:0 1px 2px rgba(0,0,0,.3)">Rich content presentation<br>Flexible creative ideas<br>Quick action</div></div>
+    <div class="sphere ghost abs" style="left:190px;top:390px;width:130px;height:130px"></div>
+    <!-- B: outline -->
+    <div class="ring abs" style="left:535px;top:170px;width:210px;height:210px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--blue)">
+      <div style="font-weight:700;font-size:20px;margin-bottom:10px">Stage B</div>
+      <div style="font-size:13px;line-height:1.9">Rich content presentation<br>Flexible creative ideas<br>Quick action</div></div>
+    <div class="ring ghost abs" style="left:575px;top:390px;width:130px;height:130px;opacity:.4"></div>
+    <div class="arrow abs" style="left:632px;top:520px">↓</div>
+    <!-- C: solid -->
+    <div class="dot abs" style="left:920px;top:170px;width:210px;height:210px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:#fff">
+      <div style="font-weight:700;font-size:20px;margin-bottom:10px">Stage C</div>
+      <div style="font-size:13px;line-height:1.9">Rich content presentation<br>Flexible creative ideas<br>Quick action</div></div>
+    <div class="dot ghost abs" style="left:960px;top:390px;width:130px;height:130px;opacity:.4"></div>
+    <div class="pageno">07 / 12</div>
+  </div></section>
+
+  <!-- 8 · ICON ROW -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="justify abs" style="left:120px;top:120px;width:520px">We are committed to building the business value and core competitiveness of roadshows and increasing the commercial transformation of potential people in a planned way.</div>
+    <div class="justify abs" style="right:120px;top:120px;width:400px;color:#b9bec9">We are committed to building the business value and core competitiveness of roadshows.</div>
+    <div class="abs" style="right:120px;top:340px;display:flex;gap:30px;color:var(--blue);font-size:30px">
+      <span>◆</span><span>◉</span><span>✦</span><span>▦</span><span>⊕</span></div>
+    <div class="micro abs" style="right:120px;top:420px;width:420px;color:var(--blue);line-height:1.8;text-align:right;font-weight:400">Increasing the commercial transformation of potential people in a planned way.</div>
+    <div class="pageno">08 / 12</div>
+  </div></section>
+
+  <!-- 9 · BIG NUMBER -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="title title-blue abs" style="left:0;right:0;top:80px;text-align:center;font-size:50px">Investment Value</div>
+    <div class="justify abs" style="left:0;right:0;top:170px;margin:0 auto;width:820px;text-align:center;color:var(--muted)">We are committed to building the business value and core competitiveness of roadshows and increasing the commercial transformation of potential people in a planned way.</div>
+    <div class="abs" style="left:0;right:0;top:300px;display:flex;justify-content:center;gap:120px">
+      <div style="text-align:center"><div class="title title-blue" style="font-size:56px">25</div><div class="sphere" style="width:120px;height:96px;border-radius:8px;margin-top:16px"></div></div>
+      <div style="text-align:center"><div class="sphere" style="width:120px;height:96px;border-radius:8px;margin-bottom:16px"></div><div class="title title-blue" style="font-size:56px">35</div></div>
+      <div style="text-align:center"><div class="title title-blue" style="font-size:56px">98</div><div class="sphere" style="width:120px;height:96px;border-radius:8px;margin-top:16px"></div></div>
+    </div>
+    <div class="pageno">09 / 12</div>
+  </div></section>
+
+  <!-- 10 · OPTIONS / TIMELINE -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="title title-blue abs" style="left:0;right:0;top:60px;text-align:center;font-size:48px">Development</div>
+    <div class="abs" style="left:150px;top:180px;display:flex;align-items:center;gap:14px"><div class="ring" style="width:34px;height:34px"></div><b style="color:var(--blue)">Options 1</b></div>
+    <div class="abs" style="left:520px;top:180px;display:flex;align-items:center;gap:14px"><div class="sphere" style="width:34px;height:34px"></div><b style="color:var(--blue)">Options 2</b></div>
+    <div class="abs" style="left:890px;top:180px;display:flex;align-items:center;gap:14px"><div class="dot" style="width:16px;height:16px"></div><b style="color:var(--blue)">Options 3</b></div>
+    <div class="abs" style="left:150px;top:250px;width:250px"><div class="bullet">Rich content presentation</div><div class="bullet">Flexible creative ideas</div><div class="bullet">Quick action</div></div>
+    <div class="abs" style="left:520px;top:320px;width:250px"><div class="bullet">Rich content presentation</div><div class="bullet">Flexible creative ideas</div><div class="bullet">Quick action</div></div>
+    <div class="abs" style="left:890px;top:250px;width:250px"><div class="bullet">Rich content presentation</div><div class="bullet">Flexible creative ideas</div><div class="bullet">Quick action</div></div>
+    <!-- dotted timeline -->
+    <div class="abs" style="left:150px;top:560px;right:150px;border-top:2px dashed #c7ccd8"></div>
+    <div class="abs" style="left:160px;top:600px;color:var(--blue);font-weight:700">Results 1</div>
+    <div class="abs" style="left:560px;top:600px;color:var(--blue);font-weight:700">Results 2</div>
+    <div class="abs" style="left:960px;top:600px;color:var(--blue);font-weight:700">Results 3</div>
+    <div class="dot abs" style="left:180px;top:552px;width:12px;height:12px"></div>
+    <div class="dot abs" style="left:580px;top:552px;width:12px;height:12px"></div>
+    <div class="dot abs" style="left:980px;top:552px;width:12px;height:12px"></div>
+    <div class="pageno">10 / 12</div>
+  </div></section>
+
+  <!-- 11 · SWOT -->
+  <section class="slide"><div class="stage paper-tex">
+    <div class="title title-blue abs" style="left:0;right:0;top:60px;text-align:center;font-size:48px">Integrated Data</div>
+    <div class="abs" style="left:200px;top:190px;display:grid;grid-template-columns:120px 320px;grid-template-rows:auto auto;gap:60px 40px;align-items:center">
+      <div class="ring" style="width:90px;height:90px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:30px;color:var(--blue)">S</div>
+      <div class="micro" style="text-transform:none;letter-spacing:.02em;line-height:1.7;color:#555;font-weight:400">Increasing the commercial transformation of potential people in a planned way.</div>
+      <div class="dot" style="width:90px;height:90px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:30px;color:#fff">O</div>
+      <div style="line-height:1.9;font-size:14px;color:#555">Rich content presentation<br>Flexible creative ideas<br>Quick action</div>
+    </div>
+    <div class="abs" style="left:720px;top:190px;display:grid;grid-template-columns:120px 300px;grid-template-rows:auto auto;gap:60px 40px;align-items:center">
+      <div class="sphere" style="width:90px;height:90px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:30px;color:#fff">W</div>
+      <div style="line-height:1.9;font-size:14px;color:#555">Rich content presentation<br>Flexible creative ideas<br>Quick action</div>
+      <div class="dot" style="width:90px;height:90px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:30px;color:#fff;background:var(--blue)">T</div>
+      <div class="micro" style="text-transform:none;letter-spacing:.02em;line-height:1.7;color:#555;font-weight:400">We are committed to building the business value and core competitiveness.</div>
+    </div>
+    <div class="pageno">11 / 12</div>
+  </div></section>
+
+  <!-- 12 · THANK YOU -->
+  <section class="slide"><div class="stage holo">
+    <div class="abs" style="left:0;right:0;top:300px;text-align:center">
+      <div class="title" style="font-size:120px;color:#fff;text-shadow:8px 7px 0 rgba(43,70,240,.85)">Thank</div>
+      <div class="micro" style="color:#fff;margin-top:20px">Creator Information</div>
+      <div class="micro" style="color:#fff;margin-top:14px;font-size:13px;letter-spacing:.5em">2022 &nbsp;@SENYAN</div>
+    </div>
+    <div class="star" style="right:120px;bottom:120px;color:#fff">✦</div>
+  </div></section>
+
+</div>
+
+<script>
+  function fit(){
+    var scale=Math.min(window.innerWidth/1280*0.94, 1);
+    document.querySelectorAll('.slide').forEach(function(s){
+      s.style.transform='scale('+scale+')';
+      s.style.transformOrigin='top center';
+      s.style.marginBottom=(scale<1? (720*scale-720):0)+'px';
+    });
+  }
+  window.addEventListener('resize',fit); fit();
+</script>

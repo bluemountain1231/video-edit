@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Senyan · Editorial Branding Template</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=Archivo+Narrow:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --cream:#F7EEE7;
+  --navy:#293377;
+  --coral:#EB6856;
+  --gold:#F6C88F;
+  --char:#444F4D;
+  --ink:#1A1B20;
+  --muted:#9A9086;
+  --disp:'Archivo','Helvetica Neue',Arial,sans-serif;
+  --micro:'Archivo Narrow','Helvetica Neue',Arial,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{background:#c9c2ba;font-family:var(--disp);-webkit-font-smoothing:antialiased}
+.deck{display:flex;flex-direction:column;align-items:center;padding:34px 0}
+
+/* ---- 16:9 stage : fixed 1280x720, scaled to viewport ---- */
+.slide{position:relative;width:1280px;height:720px;overflow:hidden;
+  box-shadow:0 24px 70px rgba(0,0,0,.28);background:var(--cream);flex:none}
+.stage{position:absolute;inset:0}
+
+/* ---- chrome frame (every slide) ---- */
+.chrome{position:absolute;inset:0;pointer-events:none;z-index:40;
+  font-family:var(--micro);font-weight:600;font-size:15px;letter-spacing:.06em;color:var(--ink)}
+.chrome .mark{position:absolute;top:40px;left:52px;display:flex;align-items:center;gap:9px;text-transform:none}
+.chrome .mark svg{width:15px;height:15px}
+.chrome .loc{position:absolute;top:40px;right:52px}
+.chrome .url{position:absolute;bottom:38px;left:52px}
+.chrome .handle{position:absolute;bottom:38px;right:52px}
+.chrome .side{position:absolute;top:50%;right:26px;transform:translateY(-50%) rotate(180deg);
+  writing-mode:vertical-rl;font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:14px}
+/* chrome color variants on dark moods */
+.dark .chrome{color:#F7EEE7}
+.dark .chrome .side{color:#F7EEE7}
+
+/* ---- signature peach circle ---- */
+.circle{position:absolute;border-radius:50%;
+  background:radial-gradient(circle at 42% 38%, #F8DCC1 0%, #F5CBA6 46%, rgba(245,203,166,0) 74%)}
+
+/* ---- shared type ---- */
+.display{font-family:var(--disp);font-weight:800;line-height:.94;letter-spacing:-.02em}
+.eyebrow{font-family:var(--micro);font-weight:700;font-size:15px;letter-spacing:.14em;text-transform:uppercase}
+.body{font-family:var(--disp);font-weight:500;font-size:20px;line-height:1.5;color:var(--ink)}
+.tag{font-family:var(--micro);font-weight:600;font-size:14px;letter-spacing:.05em}
+
+img{display:block;object-fit:cover}
+.pageno{position:absolute;font-family:var(--micro);font-weight:700;font-size:13px;letter-spacing:.1em;
+  top:40px;right:112px;color:var(--muted);z-index:41}
+
+/* ==== family-specific ==== */
+/* 01 cover */
+.f-cover .circle{width:560px;height:560px;left:360px;top:80px}
+.f-cover h1{position:absolute;left:52px;top:230px;font-size:150px;color:var(--navy);z-index:2}
+.f-cover .sub{position:absolute;left:54px;top:470px;max-width:340px}
+
+/* 02 big quote */
+.f-quote{display:grid;place-items:center;text-align:center}
+.f-quote .q{font-size:78px;font-weight:700;line-height:1.02;max-width:900px;color:var(--coral);letter-spacing:-.015em}
+
+/* 03 navy intro */
+.f-navy{background:var(--navy)}
+.f-navy .q{position:absolute;left:52px;top:250px;max-width:1050px;text-align:center;width:1176px;
+  font-size:72px;font-weight:700;line-height:1.05;color:var(--coral);letter-spacing:-.01em}
+.f-navy .foot{position:absolute;left:0;right:0;bottom:110px;text-align:center;color:#C7CBE6;
+  font-family:var(--micro);font-size:16px;letter-spacing:.04em}
+
+/* 04 image + text */
+.f-imgtext .col{position:absolute;left:52px;top:150px;max-width:560px}
+.f-imgtext .col .body{font-size:26px;line-height:1.45;color:var(--navy);font-weight:600}
+.f-imgtext .ph1{position:absolute;right:250px;top:70px;width:220px;height:290px}
+.f-imgtext .ph2{position:absolute;right:52px;top:300px;width:250px;height:320px}
+
+/* 05 manifesto */
+.f-manifesto .body{position:absolute;right:52px;top:150px;max-width:470px;text-align:left;
+  font-size:34px;line-height:1.32;font-weight:700;color:var(--coral)}
+.f-manifesto .kick{position:absolute;right:52px;top:110px}
+
+/* 06 gold panel */
+.f-gold .panel{position:absolute;left:0;top:0;width:340px;height:720px;background:var(--gold)}
+.f-gold .ph{position:absolute;left:120px;top:250px;width:210px;height:230px;z-index:2}
+.f-gold .body{position:absolute;left:400px;top:180px;max-width:430px;font-size:30px;line-height:1.34;
+  font-weight:700;color:var(--char)}
+.f-gold .kick{position:absolute;left:400px;top:130px}
+
+/* 07 image quote (dark) */
+.f-imgq{background:#12140f}
+.f-imgq img{position:absolute;inset:0;width:100%;height:100%;opacity:.72}
+.f-imgq .q{position:absolute;left:52px;top:250px;width:900px;font-size:76px;font-weight:700;
+  line-height:1.02;color:var(--gold);letter-spacing:-.015em;z-index:5}
+
+/* 08 divider */
+.f-div .circle{width:600px;height:600px;left:340px;top:60px}
+.f-div h2{position:absolute;left:0;right:0;top:280px;text-align:center;font-size:120px;color:var(--navy);z-index:2}
+
+/* 09 founders list */
+.f-founders .ph{position:absolute;left:220px;top:190px;width:300px;height:400px}
+.f-founders .kick{position:absolute;right:340px;top:120px;text-align:right}
+.f-founders .list{position:absolute;right:150px;top:200px;text-align:left;width:320px}
+.f-founders .row{margin-bottom:34px}
+.f-founders .name{font-size:34px;font-weight:700;color:var(--coral);line-height:1}
+.f-founders .role{font-family:var(--micro);font-size:15px;letter-spacing:.04em;color:var(--ink);margin-top:6px}
+
+/* 10 members grid */
+.f-members h2{position:absolute;left:52px;top:170px;font-size:120px;color:var(--coral);z-index:2}
+.f-members .grid{position:absolute;left:52px;top:360px;display:flex;gap:20px}
+.f-members figure{width:250px}
+.f-members figure img{width:250px;height:230px}
+.f-members figcaption{margin-top:10px}
+.f-members .name{font-size:20px;font-weight:700;color:var(--coral)}
+.f-members .h{font-family:var(--micro);font-size:14px;color:var(--ink);letter-spacing:.03em}
+
+/* 11 pricing */
+.f-price .ph{position:absolute;left:150px;top:120px;width:340px;height:480px}
+.f-price .card{position:absolute;right:120px;top:200px;width:400px}
+.f-price h3{font-size:56px;font-weight:800;color:var(--coral);line-height:.98;letter-spacing:-.02em}
+.f-price .desc{font-family:var(--micro);font-size:17px;color:var(--ink);margin-top:24px;line-height:1.5;max-width:280px}
+.f-price .amt{font-size:44px;font-weight:800;color:var(--navy);margin-top:30px}
+
+/* 12 offer */
+.f-offer{display:grid;place-items:center;text-align:center}
+.f-offer .q{font-size:70px;font-weight:700;line-height:1.06;max-width:960px;letter-spacing:-.015em}
+.f-offer .q b{color:var(--coral);font-weight:700}
+.f-offer .q span{color:#EBC7A8;font-weight:700}
+
+/* 13 process week */
+.f-week h3{position:absolute;left:52px;top:210px;font-size:96px;font-weight:800;color:var(--coral);letter-spacing:-.02em}
+.f-week .panel{position:absolute;right:52px;top:190px;width:420px}
+.f-week .panel .kick{color:var(--navy);margin-bottom:18px}
+.f-week .panel p{font-family:var(--disp);font-weight:500;font-size:18px;line-height:1.55;color:var(--ink);margin-bottom:16px}
+.f-week .meta{position:absolute;left:52px;bottom:120px;font-family:var(--micro);font-size:15px;letter-spacing:.05em;color:var(--ink)}
+
+/* 14 gallery */
+.f-gallery .g{position:absolute;inset:70px 52px 100px 52px;display:grid;gap:14px;
+  grid-template-columns:repeat(4,1fr);grid-template-rows:1fr 1fr}
+.f-gallery img{width:100%;height:100%}
+.f-gallery .a{grid-row:span 2}
+.f-gallery .b{grid-column:span 2}
+
+/* 15 contact */
+.f-contact{background:var(--char)}
+.f-contact .q{position:absolute;left:52px;top:250px;max-width:900px;font-size:74px;font-weight:700;
+  line-height:1.04;color:var(--cream);letter-spacing:-.015em}
+.f-contact .mail{color:var(--coral)}
+.f-contact .ph{position:absolute;right:52px;bottom:0;width:300px;height:420px;opacity:.9}
+
+/* 16 thanks */
+.f-thanks .circle{width:520px;height:520px;right:120px;bottom:-60px}
+.f-thanks .glyph{position:absolute;left:52px;top:150px}
+.f-thanks h2{position:absolute;right:210px;bottom:180px;font-size:120px;color:var(--navy);z-index:2}
+.f-thanks .addr{position:absolute;left:52px;bottom:120px;font-family:var(--micro);font-size:16px;
+  line-height:1.7;color:var(--ink);letter-spacing:.03em}
+.f-thanks .addr b{color:var(--navy)}
+
+/* fit-to-viewport scaler */
+@media (max-width:1360px){ .slide{transform-origin:top center} }
+</style>
+</head>
+<body>
+<div class="deck" id="deck">
+
+<!-- ============ 01 · cover/title-system ============ -->
+<section class="slide f-cover" data-fam="cover/title-system">
+  <div class="stage">
+    <div class="circle"></div>
+    <h1 class="display">Morimoto</h1>
+    <div class="sub">
+      <div class="tag" style="color:var(--ink)">Corporate Identity —<br>Profile Brand</div>
+      <div class="tag" style="color:var(--muted);margin-top:26px">Multipurpose Presentation</div>
+    </div>
+  </div>
+  <span class="pageno">01</span>
+  <div class="chrome" data-section="Identity"></div>
+</section>
+
+<!-- ============ 02 · statement/big-quote ============ -->
+<section class="slide f-quote" data-fam="statement/big-quote">
+  <div class="stage" style="display:grid;place-items:center">
+    <p class="q">Speak your mind through emotions infinitely.</p>
+  </div>
+  <div class="chrome" data-section="Words from Founder"></div>
+</section>
+
+<!-- ============ 03 · mood/navy-intro ============ -->
+<section class="slide f-navy dark" data-fam="mood/navy-intro">
+  <div class="stage">
+    <p class="q display">Journey &amp; History of International Corporation</p>
+    <div class="foot">Start from the early 2003, the company has been recognized as an award-winning brand</div>
+  </div>
+  <div class="chrome" data-section="Worldwide"></div>
+</section>
+
+<!-- ============ 04 · body/image-plus-text ============ -->
+<section class="slide f-imgtext" data-fam="body/image-plus-text">
+  <div class="stage">
+    <div class="col">
+      <p class="body">Senyan empowers millions to share their ideas with the world — self-expression is how we connect.</p>
+    </div>
+    <img class="ph1" src="assets/portrait-editorial.jpg" alt="">
+    <img class="ph2" src="assets/portrait-purple.jpg" alt="">
+  </div>
+  <div class="chrome" data-section="History of Senyan"></div>
+</section>
+
+<!-- ============ 05 · body/manifesto ============ -->
+<section class="slide f-manifesto" data-fam="body/manifesto">
+  <div class="stage">
+    <div class="circle" style="width:520px;height:520px;left:-140px;top:100px"></div>
+    <div class="kick eyebrow" style="color:var(--muted)">— 10 Years vision</div>
+    <p class="body">Turns a well trained eye on the best new work from the world's most exciting emerging and established brands.</p>
+  </div>
+  <div class="chrome" data-section="Manifesto"></div>
+</section>
+
+<!-- ============ 06 · mood/gold-panel ============ -->
+<section class="slide f-gold" data-fam="mood/gold-panel">
+  <div class="stage">
+    <div class="panel"></div>
+    <img class="ph" src="assets/texture-gold.jpg" alt="">
+    <div class="kick eyebrow" style="color:var(--muted)">Manifesto of Senyan —</div>
+    <p class="body">Turns a well trained eye on the best new work from the world's most exciting emerging and established brands.</p>
+  </div>
+  <div class="chrome" data-section="Manifesto"></div>
+</section>
+
+<!-- ============ 07 · statement/image-quote ============ -->
+<section class="slide f-imgq dark" data-fam="statement/image-quote">
+  <div class="stage">
+    <img src="assets/photo-night.jpg" alt="">
+    <p class="q display">Senyan isn't just a brand, it's a brain.</p>
+  </div>
+  <div class="chrome" data-section="Brands"></div>
+</section>
+
+<!-- ============ 08 · section/divider ============ -->
+<section class="slide f-div" data-fam="section/divider">
+  <div class="stage">
+    <div class="circle"></div>
+    <h2 class="display">Architecture</h2>
+  </div>
+  <div class="chrome" data-section="The Service"></div>
+</section>
+
+<!-- ============ 09 · people/founders-list ============ -->
+<section class="slide f-founders" data-fam="people/founders-list">
+  <div class="stage">
+    <img class="ph" src="assets/founder-01.jpg" alt="">
+    <div class="kick eyebrow" style="color:var(--ink)">Founders —</div>
+    <div class="list">
+      <div class="row"><div class="name">Giorgio Kaal</div><div class="role">@giokal</div></div>
+      <div class="row"><div class="name">Benedict Brown</div><div class="role">@bbrown</div></div>
+      <div class="row"><div class="name">Aleni Aso</div><div class="role">@aleniaso</div></div>
+    </div>
+  </div>
+  <div class="chrome" data-section="Founders"></div>
+</section>
+
+<!-- ============ 10 · people/members-grid ============ -->
+<section class="slide f-members" data-fam="people/members-grid">
+  <div class="stage">
+    <h2 class="display">Members</h2>
+    <div class="grid">
+      <figure><img src="assets/member-01.jpg" alt=""><figcaption><div class="name">Gil Kai</div><div class="h">@bilkaroma</div></figcaption></figure>
+      <figure><img src="assets/member-02.jpg" alt=""><figcaption><div class="name">Romano Bilka</div><div class="h">@bilkaroma</div></figcaption></figure>
+      <figure><img src="assets/member-03.jpg" alt=""><figcaption><div class="name">Mesa Bru</div><div class="h">@mesabru</div></figcaption></figure>
+      <figure><img src="assets/member-04.jpg" alt=""><figcaption><div class="name">Aleni Aso</div><div class="h">@aleniaso</div></figcaption></figure>
+    </div>
+  </div>
+  <div class="chrome" data-section="Members"></div>
+</section>
+
+<!-- ============ 11 · pricing/big-number ============ -->
+<section class="slide f-price" data-fam="pricing/big-number">
+  <div class="stage">
+    <img class="ph" src="assets/pricing-look.jpg" alt="">
+    <div class="card">
+      <h3 class="display">Architecture<br>Concept</h3>
+      <p class="desc">Concept, Drawing, Technical Consultation, etc.</p>
+      <div class="amt">$25k</div>
+    </div>
+  </div>
+  <div class="chrome" data-section="Pricing"></div>
+</section>
+
+<!-- ============ 12 · offer/highlight ============ -->
+<section class="slide f-offer" data-fam="offer/highlight">
+  <div class="stage" style="display:grid;place-items:center">
+    <p class="q display"><b>50% Offer</b> for all <span>services</span> for all <b>services @Senyan</b></p>
+  </div>
+  <div class="chrome" data-section="Pricing"></div>
+</section>
+
+<!-- ============ 13 · process/week-block ============ -->
+<section class="slide f-week" data-fam="process/week-block">
+  <div class="stage">
+    <h3 class="display">Week 01.</h3>
+    <div class="panel">
+      <div class="kick eyebrow">Research, Iteration &amp; Concept</div>
+      <p>We are working hard to collecting and iterate concepts, brainstorming, ideations, discussions, debate &amp; other conceptual process.</p>
+      <p>This process is a collaboration phase between our clients and teams.</p>
+    </div>
+    <div class="meta">The Process<br>Senyan — &nbsp;&nbsp; Process · Week 1 · 20 hours</div>
+  </div>
+  <div class="chrome" data-section="Process"></div>
+</section>
+
+<!-- ============ 14 · gallery/image-grid ============ -->
+<section class="slide f-gallery" data-fam="gallery/image-grid">
+  <div class="stage">
+    <div class="g">
+      <img class="a" src="assets/look-01.jpg" alt="">
+      <img class="b" src="assets/look-02.jpg" alt="">
+      <img src="assets/look-03.jpg" alt="">
+      <img src="assets/look-04.jpg" alt="">
+    </div>
+  </div>
+  <div class="chrome" data-section="Lookbook"></div>
+</section>
+
+<!-- ============ 15 · contact/collaborate ============ -->
+<section class="slide f-contact dark" data-fam="contact/collaborate">
+  <div class="stage">
+    <p class="q display">Let's collaborate!<br><span class="mail">Senyan@Senyan.com</span></p>
+    <img class="ph" src="assets/contact-look.jpg" alt="">
+  </div>
+  <div class="chrome" data-section="Contact"></div>
+</section>
+
+<!-- ============ 16 · closing/thanks ============ -->
+<section class="slide f-thanks" data-fam="closing/thanks">
+  <div class="stage">
+    <div class="circle"></div>
+    <div class="glyph eyebrow" style="color:var(--navy)">◆ Senyan</div>
+    <h2 class="display">Thanks</h2>
+    <div class="addr">
+      Phone<br><b>+01 5748 77488</b><br><br>
+      2783 East Boulevard,<br>United Kingdom, 27389
+    </div>
+  </div>
+  <div class="chrome" data-section="Contact"></div>
+</section>
+
+</div>
+
+<script>
+// ---- populate chrome frame on every slide ----
+const MARK = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.5 6.5L22 12l-6.5 3.5L12 22l-3.5-6.5L2 12l6.5-3.5z"/></svg>';
+document.querySelectorAll('.chrome').forEach(c=>{
+  const sec = c.dataset.section || '';
+  c.innerHTML =
+    '<div class="mark">'+MARK+'<span>Senyan —</span></div>'+
+    '<div class="loc">Los Angeles — Hongkong — Australia</div>'+
+    (sec?'<div class="side">'+sec+'</div>':'')+
+    '<div class="url">www.domain.com</div>'+
+    '<div class="handle">@minimalisimoofficial</div>';
+});
+
+// ---- fit each 1280x720 stage to viewport width ----
+function fit(){
+  const vw = Math.min(window.innerWidth - 48, 1280);
+  const scale = vw / 1280;
+  document.querySelectorAll('.slide').forEach(s=>{
+    s.style.transform = 'scale('+scale+')';
+    s.style.marginBottom = (720*scale - 720 + 26) + 'px';
+  });
+}
+window.addEventListener('resize', fit); fit();
+
+// ---- keyboard nav ----
+let idx = 0; const slides = [...document.querySelectorAll('.slide')];
+addEventListener('keydown',e=>{
+  if(e.key==='ArrowDown'||e.key==='ArrowRight'){idx=Math.min(idx+1,slides.length-1);slides[idx].scrollIntoView({behavior:'smooth',block:'center'})}
+  if(e.key==='ArrowUp'||e.key==='ArrowLeft'){idx=Math.max(idx-1,0);slides[idx].scrollIntoView({behavior:'smooth',block:'center'})}
+});
+</script>
+</body>
+</html>

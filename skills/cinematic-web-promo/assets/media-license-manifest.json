@@ -1,0 +1,48 @@
+{
+  "project": "replace-me",
+  "verified_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "assets": [
+    {
+      "file": "public/audio/music.mp3",
+      "role": "bgm",
+      "source": "replace-with-source-url-or-file",
+      "creator": "replace-me",
+      "license": "replace-with-license-name-and-version",
+      "license_url_or_proof": "replace-with-url-or-local-proof-file",
+      "commercial_use": "allowed|not-allowed|unknown",
+      "platforms": ["replace-me"],
+      "territories": ["replace-me"],
+      "attribution_required": false,
+      "attribution_text": "",
+      "notes": "Do not publish while any required field is unknown."
+    },
+    {
+      "file": "assets/remotion-starter/public/audio/scroll-ticks.wav",
+      "role": "sfx",
+      "source": "procedurally synthesized in this skill package; no third-party samples",
+      "creator": "cinematic-web-promo skill",
+      "license": "CC0-1.0",
+      "license_url_or_proof": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use": "allowed",
+      "platforms": ["all"],
+      "territories": ["worldwide"],
+      "attribution_required": false,
+      "attribution_text": "",
+      "notes": "Replace or redesign as needed."
+    },
+    {
+      "file": "assets/remotion-starter/public/audio/click-metal.wav",
+      "role": "sfx",
+      "source": "procedurally synthesized in this skill package; no third-party samples",
+      "creator": "cinematic-web-promo skill",
+      "license": "CC0-1.0",
+      "license_url_or_proof": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use": "allowed",
+      "platforms": ["all"],
+      "territories": ["worldwide"],
+      "attribution_required": false,
+      "attribution_text": "",
+      "notes": "Replace or redesign as needed."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+Cinematic Web Promo
+Copyright 2026 bluemountain1231
+
+This product includes a version-locked snapshot of video-shotcraft:
+https://github.com/Vincentwei1021/video-shotcraft
+
+Embedded upstream commit:
+41ee360d82f4c491ba9d88a24a4add7d8ff1cf8b
+
+video-shotcraft is distributed under the Apache License, Version 2.0. Its
+original LICENSE is preserved at:
+assets/shotcraft-snapshot/repo/LICENSE
+
+Motion-study sources and additional attribution notes are preserved at:
+assets/shotcraft-snapshot/repo/references/shots/ATTRIBUTION.md
+
+The Gallery index and embedded preview provenance are recorded at:
+assets/shotcraft-snapshot/SNAPSHOT.json

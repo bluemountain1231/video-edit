@@ -1,0 +1,24 @@
+{
+  "fps": 30,
+  "width": 720,
+  "height": 1280,
+  "duration_ms": 10000,
+  "source": "koubo.mp4",
+  "accent": "#C6FF00",
+  "caption_accent": "#FFD24A",
+  "pip": {},
+  "captions": [
+    { "text": "这是一条示例字幕", "start_ms": 0, "end_ms": 2500, "keywords": ["示例"] }
+  ],
+  "chapter_tags": [
+    { "text": "实操演示", "start_ms": 3000, "end_ms": 8000 }
+  ],
+  "side_notes": [
+    { "items": ["要点一", "要点二"], "start_ms": 500, "end_ms": 2800, "side": "right", "color": "lime" }
+  ],
+  "stickers": [],
+  "audio": [],
+  "scenes": [
+    { "mode": "demo", "start_ms": 3000, "end_ms": 8000, "broll": "screen.mp4", "pip": "square" }
+  ]
+}

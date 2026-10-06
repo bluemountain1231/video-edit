@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="3000" viewBox="0 0 1920 3000">
+  <rect width="1920" height="3000" fill="#f5f1e8"/>
+  <rect width="1920" height="120" fill="#171714"/>
+  <text x="100" y="78" fill="#f5f1e8" font-family="Arial" font-size="34" font-weight="700">YOUR PRODUCT</text>
+  <text x="960" y="430" text-anchor="middle" fill="#171714" font-family="Georgia" font-size="124" font-weight="700">Replace this with</text>
+  <text x="960" y="570" text-anchor="middle" fill="#f15b36" font-family="Georgia" font-size="124" font-weight="700">a real page capture.</text>
+  <rect x="140" y="760" width="1640" height="720" rx="36" fill="#e5dfd1"/>
+  <rect x="220" y="850" width="620" height="80" rx="16" fill="#cbc1ae"/>
+  <rect x="220" y="970" width="980" height="32" rx="10" fill="#d5ccbb"/>
+  <rect x="220" y="1030" width="860" height="32" rx="10" fill="#d5ccbb"/>
+  <circle cx="1430" cy="1120" r="230" fill="#f15b36" opacity=".9"/>
+  <rect x="0" y="1680" width="1920" height="760" fill="#151512"/>
+  <text x="140" y="1940" fill="#f5f1e8" font-family="Georgia" font-size="94" font-weight="700">A high-contrast proof section.</text>
+  <rect x="140" y="2070" width="1100" height="24" fill="#4e4b44"/>
+  <rect x="140" y="2120" width="900" height="24" fill="#4e4b44"/>
+  <text x="960" y="2730" text-anchor="middle" fill="#171714" font-family="Georgia" font-size="104" font-weight="700">Finish with a clear CTA.</text>
+  <rect x="760" y="2800" width="400" height="94" rx="47" fill="#f15b36"/>
+</svg>
